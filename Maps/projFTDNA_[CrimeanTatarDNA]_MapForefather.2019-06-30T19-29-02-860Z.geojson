@@ -1,0 +1,365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mr. Bestvina/ Bestwina",
+                "idFTDNA": "140706",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jaworzynka, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8697262,
+                    49.5398178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krayı, Rusya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yetimoğlu",
+                "idFTDNA": "434776",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y37834",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "8552 Dobromir, Bulgaristan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.28759,
+                    42.95335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aliosman",
+                "idFTDNA": "527618",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "6837 Биволяне, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5024986,
+                    41.5889854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nasyrov",
+                "idFTDNA": "600533",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-FT37001",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Unnamed Road, Старое Шаймурзино, Респ. Татарстан, Россия, 422460"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.97714,
+                    54.750206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alhan",
+                "idFTDNA": "695626",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC64132",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alhanuşağı, Malatya, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.641655,
+                    38.3077049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasal",
+                "idFTDNA": "B358984",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Simferopol 95000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.102417,
+                    44.9521179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muedin",
+                "idFTDNA": "B359005",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Simferopol 95000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.102417,
+                    44.9521179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Z19969",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kerz 557070, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5656853,
+                    45.7906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Organokov",
+                "idFTDNA": "IN40752",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aushiger, Kabardino-Balkaria, Russia, 361820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.72589,
+                    43.38463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Özel",
+                "idFTDNA": "N14671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rusya, Adigey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2161865,
+                    44.4542427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seklani",
+                "idFTDNA": "T1895",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L241",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tunisie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.537499,
+                    33.8869171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pakna",
+                "idFTDNA": "884187",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-M216",
+                "PozycjaPrzypisanaPrzezProjekt": "01- Crimean Tatars",
+                "NazwaLokalizacji": "Constanța, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6348133,
+                    44.1598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Candogan",
+                "idFTDNA": "657180",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "01- Crimean Tatars",
+                "NazwaLokalizacji": "Mangalia, Roemenië"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.57415,
+                    43.8152428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Demirdzhaiev",
+                "idFTDNA": "530161",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "01- Crimean Tatars",
+                "NazwaLokalizacji": "Crimea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.102417,
+                    44.9521179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sava",
+                "idFTDNA": "503123",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "01- Crimean Tatars",
+                "NazwaLokalizacji": "Akmescit(Simferopol) 95000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.102417,
+                    44.9521179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karasu",
+                "idFTDNA": "290208",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30940",
+                "PozycjaPrzypisanaPrzezProjekt": "01- Crimean Tatars",
+                "NazwaLokalizacji": "Yaroslavl, Yaroslavl Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8901634,
+                    57.6275
+                ]
+            }
+        }
+    ]
+}

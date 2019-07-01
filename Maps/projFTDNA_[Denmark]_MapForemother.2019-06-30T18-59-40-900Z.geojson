@@ -1,0 +1,5785 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN54323",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A26",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup A",
+                "NazwaLokalizacji": "5884 Gudme, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7055645,
+                    55.15002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "760141",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A26",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup A",
+                "NazwaLokalizacji": "København, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "598445",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A26",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup A",
+                "NazwaLokalizacji": "5672 Vejle, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3149776,
+                    55.2704964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "196338",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C4a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C4a1a",
+                "NazwaLokalizacji": "Bornholm, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8668833,
+                    55.1604271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "226240",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "5300 Kerteminde, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6549788,
+                    55.455883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "175387",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "164707",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "147299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Hasle, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70571,
+                    55.1844826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "138495",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Næstved, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7606,
+                    55.22985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "335350",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "7700 Sennels, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.795407,
+                    56.9658051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "318238",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "3630 Jaegerspris, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9918547,
+                    55.8519859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "242595",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "3770 Tejn, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8343163,
+                    55.2471542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "272578",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Ndr Stavskærvej, 6800 Varde, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.49907,
+                    55.7098579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "255859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "7470 Resen, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.088402,
+                    56.3791962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "60274",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.54,
+                    55.71
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "521591",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "5700 Svendborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6072817,
+                    55.0674324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "522457",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "8751 Gedved, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.845595,
+                    55.9312172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "645036",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "6541 Bevtoft, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.208027,
+                    55.1983261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B7202",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Falster, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9113369,
+                    54.8623619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N88182",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Hjørring, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.981272,
+                    57.46345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N89449",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N67974",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Kirke Hvalsø, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8625565,
+                    55.591713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N70354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N64542",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Odense, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40237,
+                    55.4037552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N43814",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N38090",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N25821",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "4242 Boeslunde, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2647161,
+                    55.30317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N25840",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72,
+                    56.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N26664",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N24165",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.569,
+                    55.676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N21974",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Helsinger, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61,
+                    56.03
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N19639",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N109948",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "53328",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H10a1",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.972,
+                    57.31
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N19607",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H10c1",
+                "NazwaLokalizacji": "Velling, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.310906,
+                    56.0517654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "394348",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10f",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H10f",
+                "NazwaLokalizacji": "Den Kgl. Fødselsstiftelse, København, Denmark (født)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5943,
+                    55.6856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "256847",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H11a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H11a2",
+                "NazwaLokalizacji": "4180 Bjernede, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6235476,
+                    55.4610367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N166166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H13a1a1a",
+                "NazwaLokalizacji": "Köpenhamn, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "485760",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a2c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H13a2c1",
+                "NazwaLokalizacji": "9480 Ingstrup, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.712064,
+                    57.312664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "286145",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H16-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H16",
+                "NazwaLokalizacji": "7700 Klitmøller, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.495348,
+                    57.0405426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "788995",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H16",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H16",
+                "NazwaLokalizacji": "5871 Frørup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7164221,
+                    55.2418823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N33461",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H17b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H17b",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.51,
+                    55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "224083",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H17b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H17b",
+                "NazwaLokalizacji": "8450 Haurum, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.865774,
+                    56.3020363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "302327",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H18",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H18",
+                "NazwaLokalizacji": "Sandby, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7439,
+                    55.3792534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "302354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H18",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H18",
+                "NazwaLokalizacji": "Sandby, Sorø, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7439,
+                    55.3792534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N10950",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a1b",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57,
+                    55.68
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "243805",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a1c",
+                "NazwaLokalizacji": "Svanninge, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2285261,
+                    55.1255875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "308812",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a3c1",
+                "NazwaLokalizacji": "7000 Fredericia, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.746594,
+                    55.57033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "230382",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a3c1",
+                "NazwaLokalizacji": "7323 Ringive, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177775,
+                    55.8013954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "391817",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a3c1",
+                "NazwaLokalizacji": "Aalborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.921747,
+                    57.04882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "150652",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3d",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1a3d",
+                "NazwaLokalizacji": "Voerladegård, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.735171,
+                    56.0259552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N71644",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ae2a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1ae2a",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.267,
+                    56.133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "128267",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ah2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1ah2",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N84927",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1az",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1az",
+                "NazwaLokalizacji": "Gjern, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.73883,
+                    56.2303162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B105877",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1b",
+                "NazwaLokalizacji": "Dahler in the Daler Parish, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.742805,
+                    54.9700623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B196470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1b1b",
+                "NazwaLokalizacji": "Randers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0365391,
+                    56.4605827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B161555",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1b5",
+                "NazwaLokalizacji": "7000 Fredericia, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.749517,
+                    55.56893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "66515",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bb",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1bb",
+                "NazwaLokalizacji": "Stevns Municipality, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.29313,
+                    55.33902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "79032",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "783730",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c1",
+                "NazwaLokalizacji": "Visborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1486626,
+                    56.7353134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B316879",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c1",
+                "NazwaLokalizacji": "4370 Store Merløse, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7162685,
+                    55.54634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "760262",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c1",
+                "NazwaLokalizacji": "Brokholm, Junger Sogn, Viborg Amt, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.083482,
+                    56.7211533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "200091",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c1",
+                "NazwaLokalizacji": "Ribe, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.66744,
+                    55.29549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "194872",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c11",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c11",
+                "NazwaLokalizacji": "5300 Kerteminde, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6549788,
+                    55.455883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "136503",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-C16239T",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1-C16239T",
+                "NazwaLokalizacji": "Jelling, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.418055,
+                    55.7557564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "640335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1d",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c1d",
+                "NazwaLokalizacji": "Aalborg, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.921747,
+                    57.04882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "64043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1c3",
+                "NazwaLokalizacji": "Rise, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.934802,
+                    56.88973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B73050",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ci",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1ci",
+                "NazwaLokalizacji": "9700 Øster Brønderslev, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.997196,
+                    57.2483253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B189195",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e8a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1e8a",
+                "NazwaLokalizacji": "Alsted sogn, DK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6670036,
+                    55.40543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "180962",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1g1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1g1",
+                "NazwaLokalizacji": "Sindal, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2022038,
+                    57.47081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "221470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1g1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1g1",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "242579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1t",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H1t",
+                "NazwaLokalizacji": "Meltofte, 4900 Nakskov, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2502909,
+                    54.83764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "496237",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H24",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H24",
+                "NazwaLokalizacji": "6683 Tobøl, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.888759,
+                    55.4166679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "191300",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H24a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H24a",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "65795",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1",
+                "NazwaLokalizacji": "6560 Oksenvad, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.24774,
+                    55.3211479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "340677",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1b2",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N46330",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1b2",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    56
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N70876",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1e1a",
+                "NazwaLokalizacji": "Hjørring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.981272,
+                    57.46345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "272104",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1e1a",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "574250",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1e1a",
+                "NazwaLokalizacji": "Viskum, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.574692,
+                    56.46222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "168247",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1f1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a1f1",
+                "NazwaLokalizacji": "6760 Ribe, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.774665,
+                    55.3269348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "117341",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a2a1",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN17651",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a2a1",
+                "NazwaLokalizacji": "7755 Hassing, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.451563,
+                    56.82417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B270726",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2a2b",
+                "NazwaLokalizacji": "Torslev (Aggersundvej / Jammerbugt Kommune), 9460 Brovst, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.48442,
+                    57.07366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N21000",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H2b",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.806,
+                    55.072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "184517",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3",
+                "NazwaLokalizacji": "København, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N82884",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H39a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H39a1",
+                "NazwaLokalizacji": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.71289,
+                    37.09024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "521553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3c",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3c",
+                "NazwaLokalizacji": "Köpenhamn, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "412014",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3h",
+                "NazwaLokalizacji": "9800 Hjørring, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995764,
+                    57.45678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "668695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3h",
+                "NazwaLokalizacji": "6780 Brøns, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.731603,
+                    55.1949158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "233908",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3h",
+                "NazwaLokalizacji": "9800 Hjørring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995764,
+                    57.45678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "479753",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3h1",
+                "NazwaLokalizacji": "København, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "223021",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3v1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H3v1",
+                "NazwaLokalizacji": "8883 Skannerup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.743152,
+                    56.21011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N13073",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H42a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H42a2",
+                "NazwaLokalizacji": "9362 Gandrup, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1775141,
+                    57.05766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "331392",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H49a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H49a",
+                "NazwaLokalizacji": "9690 Fjerritslev, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.139166,
+                    57.08552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N22636",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a2a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H4a1a2a",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "54751",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H4a1a5",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57,
+                    55.68
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B300310",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a",
+                "NazwaLokalizacji": "Linå, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.755609,
+                    56.160923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "563894",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a1",
+                "NazwaLokalizacji": "Vorning, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.727094,
+                    56.52765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "33061",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a1c1a",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "649782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a1c2",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "406701",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1j",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a1j",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "197926",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a6a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5a6a",
+                "NazwaLokalizacji": "3740 Svaneke, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1409731,
+                    55.1361923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "285993",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H5b1",
+                "NazwaLokalizacji": "Sønderholm (Aalborg), 9240 Nibe, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.737043,
+                    57.00109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "256986",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a2b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H6a1a2b1",
+                "NazwaLokalizacji": "Fuglse, 4960 Holeby, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.521904,
+                    54.7066345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "272444",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H6a1b2",
+                "NazwaLokalizacji": "4490 Ubby, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2188854,
+                    55.615963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N90099",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H73a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H73a",
+                "NazwaLokalizacji": "4100 Ringsted, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7913723,
+                    55.44295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "23173",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7a1b",
+                "NazwaLokalizacji": "Hjørring Amt, DK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9,
+                    57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "116720",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7b",
+                "NazwaLokalizacji": "Region Zealand, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7214975,
+                    55.463253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "525939",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7b2",
+                "NazwaLokalizacji": "9700 Bronderslev, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.945168,
+                    57.2709045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N89453",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7b2",
+                "NazwaLokalizacji": "9700 Brønderslev, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.945168,
+                    57.2709045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N202602",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7d",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7d",
+                "NazwaLokalizacji": "8752 Østbirk, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.751776,
+                    55.9681473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "180647",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7d",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup H7d",
+                "NazwaLokalizacji": "8382 Grundfør, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0982084,
+                    56.2690163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "767918",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0g",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup HV0",
+                "NazwaLokalizacji": "Gettrup, Thy, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.355818,
+                    56.72165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "264618",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV9a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup HV9a1",
+                "NazwaLokalizacji": "3600 Frederikssund, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0624361,
+                    55.83559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "499492",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1f",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup I1f",
+                "NazwaLokalizacji": "Middelfart, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.747172,
+                    55.4972038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "63363",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup I2",
+                "NazwaLokalizacji": "Tårs, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.158103,
+                    57.3817177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "360982",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.48911,
+                    55.2500725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "150673",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "6880 Ådum, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595207,
+                    55.874958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B6400",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N115429",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "9230 Svenstrup, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.84756,
+                    56.9722443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N100424",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "4840 Alstrup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7720537,
+                    54.8912125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N39166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Skarup, Svendborg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61,
+                    55.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N27819",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Nyråd, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.963357,
+                    55.00583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N62537",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N70979",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69,
+                    55.09
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N127774",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1b1a1-T146C!",
+                "NazwaLokalizacji": "Lendum, Horns, Hjoerring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2974873,
+                    57.4090958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN17390",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1b1a1-T146C!",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "208185",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1b1a1-T146C!",
+                "NazwaLokalizacji": "Husum, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.060062,
+                    54.4837646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "277417",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c",
+                "NazwaLokalizacji": "4100 Nordrup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8869534,
+                    55.40807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "643785",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1d",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c1",
+                "NazwaLokalizacji": "9800 Hjørring, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995764,
+                    57.45678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "604951",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c1",
+                "NazwaLokalizacji": "9362 Øster Hassing, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1980867,
+                    57.0699844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "632028",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2o",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c2o",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "248241",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c3",
+                "NazwaLokalizacji": "5800 Avnslev, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7326994,
+                    55.35602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "774131",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c3",
+                "NazwaLokalizacji": "3400 Harløse, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2016754,
+                    55.91913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "728427",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c4",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7055655,
+                    55.15002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "329117",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c4",
+                "NazwaLokalizacji": "Svanninge, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2285261,
+                    55.1255875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "378584",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c7a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c7a",
+                "NazwaLokalizacji": "Aarhus, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2039213,
+                    56.1629372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "678364",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c9",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J1c9",
+                "NazwaLokalizacji": "Hestlund, Give, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.237394,
+                    55.8444061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "141798",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1e",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J2a1a1e",
+                "NazwaLokalizacji": "8800 Viborg, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.396347,
+                    56.4520264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "215470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1e",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J2a1a1e",
+                "NazwaLokalizacji": "4173 Alsted, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6670036,
+                    55.40543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "316853",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J2b1a",
+                "NazwaLokalizacji": "Gulde, Schleswig-Holstein, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.841844,
+                    54.6927567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "192366",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "6760, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.771664,
+                    55.3097649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "140540",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "Hugdrup, Skæve, Dronninglund, Hjørring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3333,
+                    57.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "500346",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "Vejle, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.536354,
+                    55.71131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "475566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "9690 Vust, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.069153,
+                    57.1141243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N12955",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N257379",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "Maple Valley, WI, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.30449,
+                    44.9688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N57921",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8,
+                    54.91
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N44356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    56
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N65494",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N84907",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K",
+                "NazwaLokalizacji": "8783 Bjerre, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.855918,
+                    55.785675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "649204",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a11",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a11",
+                "NazwaLokalizacji": "4350 Ugerløse, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6546259,
+                    55.5863533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "333649",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a1c",
+                "NazwaLokalizacji": "7620 Fjaltring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.139855,
+                    56.4744148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "319431",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a26",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a26",
+                "NazwaLokalizacji": "Gräsljunga, 283 95 Visseltofta, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8807926,
+                    56.4226875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "420855",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1a-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a4a1a-T195C!",
+                "NazwaLokalizacji": "7990 Øster Assels, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.695244,
+                    56.70184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "271569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a4a1b",
+                "NazwaLokalizacji": "Lyndbygade, 4070 Kirke Hyllinge, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9331026,
+                    55.67123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "139214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1i",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1a4a1i",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36,
+                    55.41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "286278",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1b2a",
+                "NazwaLokalizacji": "Branderslev, 4900 Nakskov, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1163893,
+                    54.8572235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "620691",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c1",
+                "NazwaLokalizacji": "8550 Skarresø, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.52312,
+                    56.3592453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N67650",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c1b",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53,
+                    57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "780207",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c2",
+                "NazwaLokalizacji": "DK-9560 Ajstrup, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1623716,
+                    56.685936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN35548",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c2",
+                "NazwaLokalizacji": "9560 Hadsund, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1624,
+                    56.6859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN34183",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c2",
+                "NazwaLokalizacji": "9560 Hadsund, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1624,
+                    56.6859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "76755",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K1c2",
+                "NazwaLokalizacji": "Aalborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920104,
+                    57.047226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "339712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a3",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K2a3",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N136158",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a6",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K2a6",
+                "NazwaLokalizacji": "Sonderballe, Ho sogn, Ribe amt, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2303,
+                    55.54918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "331282",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2b1a4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K2b1a4",
+                "NazwaLokalizacji": "Damme/Fanefjordgade, 4792 Askeby, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1605282,
+                    54.915535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "325897",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2b1a4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup K2b1a4",
+                "NazwaLokalizacji": "7700 Thisted, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.703492,
+                    56.9591675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N63559",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T1",
+                "NazwaLokalizacji": "8543 Hornslet, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.31727,
+                    56.3155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N82814",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T1",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N100768",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T1",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N58769",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a3a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T1a3a",
+                "NazwaLokalizacji": "4720 Allerslev, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03573,
+                    55.0816231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N56852",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a3a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T1a3a",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05,
+                    55.0833321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N90009",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N72119",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.39,
+                    55.87
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N106972",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N100494",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "8660 Skanderborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.929799,
+                    56.0372467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "284894",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b16",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "3630, Dråby, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12,
+                    55.85
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "144183",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583046,
+                    55.6934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "348704",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "5953 Bøstrup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8804741,
+                    55.0405159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "500596",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2",
+                "NazwaLokalizacji": "8530 Todbjerg, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2078419,
+                    56.26814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N78418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a7",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2a1a7",
+                "NazwaLokalizacji": "Vejrup, Indslev Sogn, Vends Herred, Odense Amt, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.953722,
+                    55.47299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "281482",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b",
+                "NazwaLokalizacji": "5600 Vester Åby, Svendborg Co., Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.376256,
+                    55.08405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "283791",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b",
+                "NazwaLokalizacji": "Bornholm, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8668833,
+                    55.1604271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "256347",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b",
+                "NazwaLokalizacji": "6980 Torsted, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.414999,
+                    56.2003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "151341",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b11",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b11",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583046,
+                    55.6934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "873595",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b24",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b24",
+                "NazwaLokalizacji": "Skarrild, Arnborg, Hammerum, Ringkøbing, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.898121,
+                    55.9783249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "226316",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b34",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b34",
+                "NazwaLokalizacji": "4952 Stokkemarke, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36371,
+                    54.8369942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN40186",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2b4-T152C!",
+                "NazwaLokalizacji": "København, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "311470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1d1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2c1d1a",
+                "NazwaLokalizacji": "5466 Asperup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.905057,
+                    55.48309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "439836",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2e",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2e",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N29988",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2e",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2e",
+                "NazwaLokalizacji": "Hjørring Amt, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.45,
+                    55.8166656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B233263",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2f1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2f1a1",
+                "NazwaLokalizacji": "Sønderlev, Skallerup, Hjørring, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.875229,
+                    57.4710236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "120740",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2f1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup T2f1a1",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583046,
+                    55.6934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "369747",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1a1a-G16129A!",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U1a1a-G16129A!",
+                "NazwaLokalizacji": "Skibsted, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0682068,
+                    56.8665733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "145217",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57,
+                    55.68
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "15378",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2",
+                "NazwaLokalizacji": "Olson  SD>Plantner Den>Rasmussen Den Knudsdottir Den"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.38333,
+                    55.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "341330",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2",
+                "NazwaLokalizacji": "Tønder"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7556152,
+                    56.13331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N43228",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2",
+                "NazwaLokalizacji": "Vejle, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.534657,
+                    55.7087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N65201",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "162038",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2d2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2d2",
+                "NazwaLokalizacji": "Copenhagen, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681152,
+                    55.6762962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B13733",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e1b1",
+                "NazwaLokalizacji": "Kobenhaven, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N16143",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1g",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e1g",
+                "NazwaLokalizacji": "Köpenhamns kommun, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N68011",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e2a1a1",
+                "NazwaLokalizacji": "Staby, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24,
+                    56.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "407270",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e2a1a1",
+                "NazwaLokalizacji": "København, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "568453",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e2a1a1",
+                "NazwaLokalizacji": "8370 Vissing, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0107336,
+                    56.3646431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "135466",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e2a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U2e2a1a2",
+                "NazwaLokalizacji": "Odense, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3906355,
+                    55.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "155197",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4",
+                "NazwaLokalizacji": "Vilslev, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.702659,
+                    55.3972549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "67908",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4",
+                "NazwaLokalizacji": "4735 Mern, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0567818,
+                    55.0484123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N162065",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4",
+                "NazwaLokalizacji": "Bøgelunde, 4230 Skælskør, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4266644,
+                    55.23907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "MI12853",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4",
+                "NazwaLokalizacji": "Fårup, 8840 Rødkærsbro, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.550516,
+                    56.36414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "MI12851",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a",
+                "NazwaLokalizacji": "Fårup, 8840 Rødkærsbro, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5505,
+                    56.3641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "E2091",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a",
+                "NazwaLokalizacji": "4300 Holbæk, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7225876,
+                    55.71562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B1442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a",
+                "NazwaLokalizacji": "Fårup, 8840 Rødkærsbro, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.550516,
+                    56.36414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "158022",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "216647",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a1a",
+                "NazwaLokalizacji": "7160 Åle, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.562375,
+                    55.8870125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N29575",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U4a1a",
+                "NazwaLokalizacji": "9352 Skæve, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.30973,
+                    57.28806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N24884",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N44430",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7,
+                    55.39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N54795",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "Odense, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3906355,
+                    55.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "184518",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "8700 Hatting, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.766004,
+                    55.85434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "140773",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "Odense, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3906355,
+                    55.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "140774",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "Aarup, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0453243,
+                    55.3799744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "363621",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5",
+                "NazwaLokalizacji": "5683 Jordløse, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.15,
+                    55.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "253359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1a2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1a2b",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "783230",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1b1",
+                "NazwaLokalizacji": "Lolland, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4649305,
+                    54.7275429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "172582",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1b1c1",
+                "NazwaLokalizacji": "4952 Saltvig, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.386035,
+                    54.8714943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "479377",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b3",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1b3",
+                "NazwaLokalizacji": "7260 Sønder-Omme, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.892762,
+                    55.8386154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "267204",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1c2a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1c2a",
+                "NazwaLokalizacji": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.501785,
+                    56.26392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B369965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1h",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5a1h",
+                "NazwaLokalizacji": "9300 Understed, Dänemark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4601812,
+                    57.3675232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "232335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5b2a2a1",
+                "NazwaLokalizacji": "Langeland, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7051,
+                    54.8199425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "410261",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5b2b3a1a",
+                "NazwaLokalizacji": "Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20105,
+                    55.62955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N44130",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5b2b3a1a",
+                "NazwaLokalizacji": "Overlund, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.438657,
+                    56.4564476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "784971",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5b2b4a",
+                "NazwaLokalizacji": "6094 Hejls, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.578368,
+                    55.3827133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N53848",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b3h",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup U5b3h",
+                "NazwaLokalizacji": "Odense, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3906355,
+                    55.39624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "522788",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V",
+                "NazwaLokalizacji": "4470 Viskinge, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.267622,
+                    55.66236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "255669",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V",
+                "NazwaLokalizacji": "7190 Grene, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.053536,
+                    55.72236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "239336",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V16",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V16",
+                "NazwaLokalizacji": "9460 Brovst, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.522159,
+                    57.09645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "221120",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V3a",
+                "NazwaLokalizacji": "6100 Brorsbøl, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.525271,
+                    55.23758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "E7989",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V7a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V7a1",
+                "NazwaLokalizacji": "6830 Lydum, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.359267,
+                    55.7960548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "170102",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V9a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V9a2",
+                "NazwaLokalizacji": "Vejle, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.535866,
+                    55.7092133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "509155",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V9a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup V9a2",
+                "NazwaLokalizacji": "9493 Saltum, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.697356,
+                    57.2717247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B85774",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup W1",
+                "NazwaLokalizacji": "Gettrup (Thisted Kommune), 7760 Hurup Thy, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.355194,
+                    56.72117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "775002",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup W1",
+                "NazwaLokalizacji": "Udby, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7100334,
+                    55.757267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "E2516",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup X",
+                "NazwaLokalizacji": "Bornholm, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8668833,
+                    55.1604271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N74301",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup X",
+                "NazwaLokalizacji": "Lyngby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3,
+                    55.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N78068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup X",
+                "NazwaLokalizacji": "Bolle, Dronninglund, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.25482,
+                    57.1362724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "401559",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2b-T226C",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup X2b-T226C",
+                "NazwaLokalizacji": "5700 Svendborg, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6072817,
+                    55.0674324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "481075",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup X2c",
+                "NazwaLokalizacji": "København, Danmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5683374,
+                    55.6760979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N72997",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA Faroe Islands",
+                "NazwaLokalizacji": "Erling Jals Gøta 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.821683,
+                    61.5591164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N84904",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Galicia, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.133856,
+                    42.5750542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N5394",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b30",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Tabor, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6774664,
+                    49.41299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "E7207",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Geschinen, Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.224297,
+                    46.4719162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B79550",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Waterford, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.11007,
+                    52.25932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B83259",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Wales, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.78371167,
+                    52.13066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "MI34566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6435013,
+                    60.1281624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "MI11743",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Cornwall, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.05271244,
+                    50.26605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN56005",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1q3",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Göteborg, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97456,
+                    57.70887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN40907",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0208359,
+                    64.96305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN43373",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2c",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Beaconsfield, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6442409,
+                    51.6023941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN46327",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "358 01 Kraslice, Tjekkiet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5174875,
+                    50.3237343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "786517",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "21710 Korpo, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5620041,
+                    60.16267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "827564",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10e",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Pike County, KY, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.47527,
+                    37.4842072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "828139",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W3a1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Voss Municipality, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.46531343,
+                    60.658535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B376412",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": null,
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "NY, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0059738,
+                    40.7127762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B1617",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Evandale TAS 7212, Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.24884,
+                    -41.5709877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B259339",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Móberg, Austur-Húnavatnssýsla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0208359,
+                    64.96305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B243024",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Aldgate, London, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0771712,
+                    51.51344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "502454",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Søndre Viste, Tune, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.025,
+                    59.285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "436576",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a6",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Bro (O), Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4793644,
+                    58.4164429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "348859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Greensburg, IN 47240, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.48358,
+                    39.3372726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "524767",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "51900 Juva, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8617611,
+                    61.89475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "534431",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Bråten Holter Nedre Nes AKR, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.33233,
+                    60.20886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "537721",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a10a",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Glasgow, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.251806,
+                    55.86424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "571578",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U8a1a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "23100 Mynämäki, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9887,
+                    60.67848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "581637",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Bavaria, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4978895,
+                    48.7904472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "604433",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Combe St. Nicholas, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.99431133,
+                    50.90104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "672363",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6435013,
+                    60.1281624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "667963",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Skövde, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8461208,
+                    58.3902779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "72823",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3f",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Gaupne, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.28559637,
+                    61.4083061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "664432",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Rotterdam, Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47773266,
+                    51.92442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "659002",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b24a",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Coventry, Rhode Island, États-Unis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.56421,
+                    41.6886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "166369",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Santiago de Las Vegas, Havana, Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3858643,
+                    22.9702072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "194869",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b6",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Madison, Georgia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.20776,
+                    34.0990257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "206521",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Alessandria, Province of Alessandria, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.61168,
+                    44.9072723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "315361",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a5b2",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "668 93 Rölanda, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9171762,
+                    58.8436928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "280359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": "MDA not Denmark",
+                "NazwaLokalizacji": "Caguas, Caguas, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.03525,
+                    18.2388
+                ]
+            }
+        }
+    ]
+}

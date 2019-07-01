@@ -1,0 +1,765 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zielke",
+                "idFTDNA": "752016",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haupt",
+                "idFTDNA": "B194634",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Zagórów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8955631,
+                    52.1682968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "taipovic",
+                "idFTDNA": "B256034",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mlikë jugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6448879,
+                    42.0287552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bydlak",
+                "idFTDNA": "B88055",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY42326",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tursko Małe, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34516,
+                    50.4459572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wolter",
+                "idFTDNA": "E16460",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY38444",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tomaszów Mazowiecki, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20,
+                    51.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlowski",
+                "idFTDNA": "N82242",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z17913",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Momina, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2627773,
+                    50.8747368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jabs",
+                "idFTDNA": "396078",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G Ashkenazi Jewish (Fuchsia)",
+                "NazwaLokalizacji": "Dąb Wielki, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.37277,
+                    52.61337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braun",
+                "idFTDNA": "161136",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M377",
+                "PozycjaPrzypisanaPrzezProjekt": "G Ashkenazi Jewish (Fuchsia)",
+                "NazwaLokalizacji": "Aldebrő, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2295647,
+                    47.7881432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gatzke",
+                "idFTDNA": "252758",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z59",
+                "PozycjaPrzypisanaPrzezProjekt": "I Danish/Polish Vikings (Teal)",
+                "NazwaLokalizacji": "Kępa Karolińska, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.96448,
+                    52.41345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "I Danish/Polish Vikings (Teal)",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weisner",
+                "idFTDNA": "643044",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4882",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1 (P37 & P37.2) (beige)",
+                "NazwaLokalizacji": "Briesen, Schroda (Brzezno, Środa Wielkopolska), Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3430157,
+                    52.37694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wiesner",
+                "idFTDNA": "B3190",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1 (P37 & P37.2) (beige)",
+                "NazwaLokalizacji": "Briesen, Schroda (Brzezno, Środa Wielkopolska), Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3430157,
+                    52.37694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wuerfel",
+                "idFTDNA": "122416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L38",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2 (P214 found in western Europe) (Violet)",
+                "NazwaLokalizacji": "Bresalup, Lutsk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3253822,
+                    50.7472343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marks",
+                "idFTDNA": "343447",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I-M253 southern Norway, southwestern Sweden, and Denmark (Olive)",
+                "NazwaLokalizacji": "Kleszczyn, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.29062,
+                    53.0334473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schultz",
+                "idFTDNA": "B2205",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY152520",
+                "PozycjaPrzypisanaPrzezProjekt": "I-M253 southern Norway, southwestern Sweden, and Denmark (Olive)",
+                "NazwaLokalizacji": "Kleszczyn, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.29062,
+                    53.0334473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radtke",
+                "idFTDNA": "74192",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a = M512/M17 due to minimum testing   (lime)",
+                "NazwaLokalizacji": "87-815 Dąb Polski, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3880024,
+                    52.6004333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czarnecki",
+                "idFTDNA": "397269",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a = M512/M17 due to minimum testing   (lime)",
+                "NazwaLokalizacji": "09-200 Sierpc, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6694317,
+                    52.8568153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zickar",
+                "idFTDNA": "N105504",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1 Central and Eastern Europe  (Red)",
+                "NazwaLokalizacji": "Slovenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9954634,
+                    46.15124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krueger",
+                "idFTDNA": "148223",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1 Central and Eastern Europe  (Red)",
+                "NazwaLokalizacji": "Poznan, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.925169,
+                    52.4063759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rinas",
+                "idFTDNA": "478765",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1182",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b Proto-Slavic Group at CTS11962 and downstream (pink)",
+                "NazwaLokalizacji": "Sierpc, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6694317,
+                    52.8568153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kowalski",
+                "idFTDNA": "295618",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP515",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b Proto-Slavic Group at CTS11962 and downstream (pink)",
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michalik",
+                "idFTDNA": "B81999",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1c = YP417 in the Proto-Slavic Group (lavender )",
+                "NazwaLokalizacji": "Garwolin, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6149387,
+                    51.8971977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pohl",
+                "idFTDNA": "612294",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1c = YP417 in the Proto-Slavic Group (lavender )",
+                "NazwaLokalizacji": "99-200 Poddębice, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9572,
+                    51.89325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Welke",
+                "idFTDNA": "132682",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L365",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3a Pomeranian Slavic at L365  (light cyan)",
+                "NazwaLokalizacji": "62-130 Panigródz, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3993378,
+                    52.95697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sommerfeld",
+                "idFTDNA": "165792",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4669",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3a Pomeranian Slavic at L365  (light cyan)",
+                "NazwaLokalizacji": "82-103 Tujsk, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1390133,
+                    54.27358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gutt",
+                "idFTDNA": "275076",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30484",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1b1a2b3 Balto-Slavic Group at CTS3402 (Green Yellow)",
+                "NazwaLokalizacji": "Brodnica, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3956623,
+                    53.25997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myers",
+                "idFTDNA": "277874",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexander",
+                "idFTDNA": "292840",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Czarnkow, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56567,
+                    52.90528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "364732",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Kilkenny Castle, Kilkenny, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.249298,
+                    52.6504631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wollschlaeger",
+                "idFTDNA": "166563",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Brzezie (Equir, Eickfier), Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9244366,
+                    53.8371048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liss",
+                "idFTDNA": "194032",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Skórcz, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5248966,
+                    53.7937164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van Bourgondiën",
+                "idFTDNA": "N41608",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC8507",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Hillegom, The Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.586435,
+                    52.29323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moyer",
+                "idFTDNA": "B4519",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2 Ancestors from the Pontic Steppe (aqua marine)",
+                "NazwaLokalizacji": "Lancaster, PA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.30551,
+                    40.0378761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wiesner",
+                "idFTDNA": "B3186",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S4056",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1a2a1d2a3 German identified at Z301 (Turquoise)",
+                "NazwaLokalizacji": "Barenthin, Gumtow, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2482748,
+                    52.9256439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rozynski",
+                "idFTDNA": "424534",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L163",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b1 Frisian (Khaki)",
+                "NazwaLokalizacji": "Ґдиня, Польща"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53054,
+                    54.51889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van der Meij",
+                "idFTDNA": "128054",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S22225",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a3 North West Europe (light green)",
+                "NazwaLokalizacji": "Noordwijk, Nederland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50107,
+                    52.3076859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harding",
+                "idFTDNA": "207883",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC46210",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a2 Proto-Italo-Celto-Germanic  ancestors (Plum)",
+                "NazwaLokalizacji": "Northampton, Northamptonshire, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8973906,
+                    52.2368736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harding",
+                "idFTDNA": "217131",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a2 Proto-Italo-Celto-Germanic  ancestors (Plum)",
+                "NazwaLokalizacji": "Northampton, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8973906,
+                    52.2368736
+                ]
+            }
+        }
+    ]
+}

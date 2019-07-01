@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schoenberg",
+                "idFTDNA": "116134",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a2m",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Prostejov, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11242,
+                    49.471508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weisskopf",
+                "idFTDNA": "177210",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mühringen, 72160 Horb am Neckar, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.755814,
+                    48.4187775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Munits",
+                "idFTDNA": "542767",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Glazmanka, Dunaburg, Vitebsk, Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.78642,
+                    56.61569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aranda",
+                "idFTDNA": "857695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D1h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bilbao, Vizcaya, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.922222,
+                    43.25778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyka",
+                "idFTDNA": "866335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "33-380 Berest, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9711437,
+                    49.5031548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hermannstadt, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1255817,
+                    45.79833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guni",
+                "idFTDNA": "E37299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sibiel 557234, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.90662,
+                    45.7648773
+                ]
+            }
+        }
+    ]
+}

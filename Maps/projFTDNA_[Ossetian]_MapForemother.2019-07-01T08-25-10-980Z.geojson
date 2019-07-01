@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    44.205,
+                    42.533
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Berezov",
+                "idFTDNA": "159118",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Edis, South Ossetia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.09498,
+                    42.14319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mentes",
+                "idFTDNA": "187238",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Karata- Archo, Avaria, Dagestan, Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    76.85125,
+                    43.2220154
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zammit",
+                "idFTDNA": "221835",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Almaty, Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.0637,
+                    42.7003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanov",
+                "idFTDNA": "230560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Chechen Republic, Sadoy / H'amtci /"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.9897232,
+                    42.8508339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tseboev",
+                "idFTDNA": "258791",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Алагирский, Республика Северная О, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.60223341,
+                    51.87025
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bos",
+                "idFTDNA": "356537",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ridderkerk, Nederland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.9420357,
+                    54.062336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khugaev",
+                "idFTDNA": "404059",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Рузаевка, Респ. Мордовия, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    71.78745,
+                    37.64476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ozar",
+                "idFTDNA": "475621",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a12a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Turbat, Tajikistan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.5563984,
+                    52.88219
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Guyster",
+                "idFTDNA": "48221",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Shchedrin, Belarus (aka Shedrin, Scadryn, White Russia, Soviet Union, Byelorussia)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.383667,
+                    39.77763
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bilici",
+                "idFTDNA": "574460",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H15a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tercan, Erzincan, Türkei"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.0172234,
+                    42.67889
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Berezov",
+                "idFTDNA": "83339",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nar, North Ossetia-Alania, Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.286466,
+                    54.66625
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lees",
+                "idFTDNA": "87947",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Antrim, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.68372,
+                    40.8314476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coban",
+                "idFTDNA": "B92235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3b2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Oğulağaç/Maçka/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.5822887,
+                    49.36375
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pozun",
+                "idFTDNA": "N110396",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2b1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "090 02 Kružlová, Slovakia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.3821335,
+                    38.8461342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Di Palma",
+                "idFTDNA": "N30827",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "88020 Jacurso CZ, Italia"
+            }
+        }
+    ]
+}

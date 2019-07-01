@@ -1,0 +1,1745 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pesnikevich",
+                "idFTDNA": "152894",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Беларусь, Гродненская область, Новогрудский район, д.Ретемля"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8169632,
+                    53.5926628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vaschuk",
+                "idFTDNA": "152902",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.16558,
+                    48.3794327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Machula",
+                "idFTDNA": "193848",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY72938",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "19-504 Skajzgiry, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7429733,
+                    54.3280678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kraft",
+                "idFTDNA": "207573",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP335",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Licherode, 36211 Alheim, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.591815,
+                    51.0192528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yeosock",
+                "idFTDNA": "210538",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z92",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "09409 Vyšný Kazimír, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6807842,
+                    48.93954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potapov",
+                "idFTDNA": "214039",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z92",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Верхний Митякин, Ростовская обл., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.0934334,
+                    48.75519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ionan",
+                "idFTDNA": "219654",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L591",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kaļkes, Ambeļi parish, LV-5438, Latvia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.880434,
+                    56.0734673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Korotkevich",
+                "idFTDNA": "248308",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1018",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Čačersk, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.916111,
+                    52.91611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galtsov",
+                "idFTDNA": "277626",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY158",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Старый Курлак, Воронежская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.5305,
+                    51.41402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexeev",
+                "idFTDNA": "279614",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Z1941",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "д. Высокая, Псковская обл., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1490688,
+                    57.43874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fyodorov",
+                "idFTDNA": "280027",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP682",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "д. Зуево, Псковская обл., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1348343,
+                    57.4196663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bychkov",
+                "idFTDNA": "286363",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Старый Оскол, Белгородская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.83796,
+                    51.2980843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stepanin",
+                "idFTDNA": "289255",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Z5892",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "89600 Suomussalmi, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9116554,
+                    64.88411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morrison-LeMay",
+                "idFTDNA": "291220",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L1280",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Holland/Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.291266,
+                    52.1326332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marinkovic",
+                "idFTDNA": "293034",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y16434",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sibuljina, 23245, Tribanj, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3450651,
+                    44.3369942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laszczynski",
+                "idFTDNA": "296949",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4526",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bychawa w województwie lubelskim, w powiecie lubelskim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5301151,
+                    51.013485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shkolin",
+                "idFTDNA": "297394",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP335",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pestravka, Samarskaya obl."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.95349,
+                    52.4079323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Volkov",
+                "idFTDNA": "299529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3084",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Перхурьево, Вологодская область, Россия, 160540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5858955,
+                    59.485218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laszczynski",
+                "idFTDNA": "315644",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS9320",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Пески, Черниговская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3822231,
+                    50.5991669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juozapavičius",
+                "idFTDNA": "320196",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L551",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kruopiai, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0101528,
+                    56.2400055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milov",
+                "idFTDNA": "322253",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY173025",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Барятино, Калужская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5269432,
+                    54.310276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lekomcev",
+                "idFTDNA": "332456",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30790",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Фаленки, Кировская обл., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.59744,
+                    58.35569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lukosevicius",
+                "idFTDNA": "333756",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y13476",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gražiškiai, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9205189,
+                    54.4681244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lukosevicius",
+                "idFTDNA": "343953",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gražiškiai, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9205189,
+                    54.4681244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slawinski",
+                "idFTDNA": "345068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS4648",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Краков, Польша"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94498,
+                    50.06465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEDIMINID ROYAL PRINC",
+                "idFTDNA": "353043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY21908",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lietuvos Respublika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bielak",
+                "idFTDNA": "368373",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27801",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Szubków, Obwód rówieński, Ukraina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5225,
+                    50.6986122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akenfelds",
+                "idFTDNA": "371429",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3118",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nīkrāce, Nīkrāces pagasts, LV-3320, Latvia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9417953,
+                    56.53443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butkus",
+                "idFTDNA": "392475",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kelmė, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94393,
+                    55.6299171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vorzheinov",
+                "idFTDNA": "394919",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Чугуїв, Харківська область, Україна"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.68639,
+                    49.835556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skubinna",
+                "idFTDNA": "415060",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4846",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Dubeninki, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5593224,
+                    54.2887421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kibirov",
+                "idFTDNA": "421426",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Кашгар, Синьцзян-Уйгурский автономный район, Китай"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.98975,
+                    39.4704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martsinkevich",
+                "idFTDNA": "460965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30636",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Зоричи, Беларусь"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8874168,
+                    54.20956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson",
+                "idFTDNA": "469745",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY32094",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Trondheim, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3950529,
+                    63.4305153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kotov",
+                "idFTDNA": "480052",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27814",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Журавинка, Ряжский уезд, Рязанская обл., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.9475822,
+                    53.64162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gadow",
+                "idFTDNA": "503185",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YFS2862777",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pyritz, Pomerania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8924046,
+                    53.1460838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rogov",
+                "idFTDNA": "508652",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y70153",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "near Vologda, Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8245773,
+                    59.1649323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Małłek",
+                "idFTDNA": "513603",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1182",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sypniewo, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3255959,
+                    53.36781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bessonov",
+                "idFTDNA": "626512",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30750",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Marmyzhi, Konyshevskiy rayon, Kurskaya oblast', Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3600769,
+                    52.03835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ravinski",
+                "idFTDNA": "764644",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Belarus, pre 1922 the Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9979019,
+                    53.27181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wadolowski",
+                "idFTDNA": "847712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6048",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "18-204 Zalesie Łabędzkie, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6255131,
+                    53.09515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haikonen",
+                "idFTDNA": "85991",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.84,
+                    62.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Curkovic",
+                "idFTDNA": "IN20511",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kazaginac, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01528,
+                    43.61391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Niemelä",
+                "idFTDNA": "IN24592",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-CTS9976",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Räimälä, Karjala, Venäjä, 186822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.971653,
+                    61.3525963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Organokov",
+                "idFTDNA": "IN40752",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aushiger, Kabardino-Balkaria, Russia, 361820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.72589,
+                    43.38463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smirnov",
+                "idFTDNA": "IN53466",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M173",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Karpovo, Sytschowski rajon, Smolensk Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1995049,
+                    55.9912453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stoyanov",
+                "idFTDNA": "IN56458",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "6585 Mandritsa, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1330967,
+                    41.3917732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pleshkov",
+                "idFTDNA": "MI18815",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Дубровенский район, Беларусь"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8031712,
+                    54.60047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lomax",
+                "idFTDNA": "MI21868",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-FGC13372",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gdańsk, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6466389,
+                    54.3520241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Swiecicki",
+                "idFTDNA": "N117253",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY30279",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Busk, Lviv Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6311226,
+                    49.9703827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "N118842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH4902",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baum",
+                "idFTDNA": "N176211",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L20",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nurmuiza, Laucienes pagasts, LV-3285, Latvia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8009853,
+                    57.22328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mineev",
+                "idFTDNA": "260693",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Вощажниково, Ярославская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.1395721,
+                    57.36159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levinskov",
+                "idFTDNA": "196509",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP315",
+                "PozycjaPrzypisanaPrzezProjekt": "Cossacs Ural Cossak",
+                "NazwaLokalizacji": "село Лава, Ульяновская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.90166,
+                    54.48053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vysotskiy",
+                "idFTDNA": "181880",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3128",
+                "PozycjaPrzypisanaPrzezProjekt": "Cossaks Malorussian Cossak",
+                "NazwaLokalizacji": "Гадяч, Полтавская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.000988,
+                    50.3704338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raguckas",
+                "idFTDNA": "114206",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y4380",
+                "PozycjaPrzypisanaPrzezProjekt": "Lithuanians Kaunas County",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.67,
+                    54.74
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davidenas",
+                "idFTDNA": "263141",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "Lithuanians Województwo podlaskie",
+                "NazwaLokalizacji": "Pietkowo, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8792171,
+                    52.9006233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pilawit",
+                "idFTDNA": "106620",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L1025",
+                "PozycjaPrzypisanaPrzezProjekt": "Poles Województwo małopolskie",
+                "NazwaLokalizacji": "32-015 Stanisławice, Польша"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.34931,
+                    49.9820938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tarasov",
+                "idFTDNA": "195476",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L22",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Altai Krai",
+                "NazwaLokalizacji": "Staroaleyskoe, Altay region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82,
+                    51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pikulev",
+                "idFTDNA": "222808",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Altai Krai",
+                "NazwaLokalizacji": "Khabazino, Altai reg., Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.37,
+                    52.73
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kozhevnikov",
+                "idFTDNA": "226694",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Belgorod gubernia",
+                "NazwaLokalizacji": "Старый Оскол, Белгородская область, Российская Федерация"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.85,
+                    51.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rakitin",
+                "idFTDNA": "221125",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC11555",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Bryansk gubernia",
+                "NazwaLokalizacji": "Бересток, Брянская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.3099022,
+                    52.1826172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kochetov",
+                "idFTDNA": "N73359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1697",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Chelyabinsk gubernia",
+                "NazwaLokalizacji": "Russian Federation, Province of Chelyabinsk, город Касли"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.76373,
+                    55.89182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alioshin",
+                "idFTDNA": "221115",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Kharkov gubernia",
+                "NazwaLokalizacji": "Chapajevo Kharkov obl Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.879,
+                    49.364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pakhomov",
+                "idFTDNA": "132305",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP414",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Kursk gubernia",
+                "NazwaLokalizacji": "Koronino, Kursk, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.40424,
+                    52.14872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morev",
+                "idFTDNA": "199462",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Lipetsk gubernia",
+                "NazwaLokalizacji": "Suvorovka, Elets  region, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.78,
+                    52.69
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mukovnikov",
+                "idFTDNA": "221703",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L550",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Lipetsk gubernia",
+                "NazwaLokalizacji": "Стеньшино, Тамбовская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.9664459,
+                    52.71449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belousov",
+                "idFTDNA": "222804",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L1025",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Lipetsk gubernia",
+                "NazwaLokalizacji": "Erilovka Elets reg., Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7705,
+                    52.6893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pirogov",
+                "idFTDNA": "B1359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY32008",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Lipetsk gubernia",
+                "NazwaLokalizacji": "город Данков, Липецкая область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.14278,
+                    53.24963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yershov",
+                "idFTDNA": "226540",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Nischni Nowgorod gubernia",
+                "NazwaLokalizacji": "Какино, Нижегородская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.8881,
+                    55.1805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Khairulin (Klimov)",
+                "idFTDNA": "222807",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Orenburg gubernia",
+                "NazwaLokalizacji": "Скопинский уезд, Рязанская губ., Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.55,
+                    53.8166656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kazantsev",
+                "idFTDNA": "227672",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS4027",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Perm gubernia",
+                "NazwaLokalizacji": "Chastye, Perm Krai, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.9759521,
+                    57.2912331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sidorov",
+                "idFTDNA": "252043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS2972",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Perm gubernia",
+                "NazwaLokalizacji": "район Березовский, Пермский край, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.4222221,
+                    57.5915565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yazev",
+                "idFTDNA": "234904",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L1022",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Pskov gubernia",
+                "NazwaLokalizacji": "Pskovskaya region, Selishchi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.08,
+                    57.36
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikitin",
+                "idFTDNA": "204528",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L550",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Pskov gubernia",
+                "NazwaLokalizacji": "Коростынь, Новгородская обл., Россия, 174157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9927,
+                    58.1875153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kudryashov",
+                "idFTDNA": "154400",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z92",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Pskov gubernia",
+                "NazwaLokalizacji": "Dubrovo, Pskovskaya region, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.11,
+                    57.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arkhipov",
+                "idFTDNA": "215778",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L591",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Pskov gubernia",
+                "NazwaLokalizacji": "Псков, Псковская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3333321,
+                    57.8166656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Babkin",
+                "idFTDNA": "195824",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tambov gubernia",
+                "NazwaLokalizacji": "Тамбовская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.4216461,
+                    52.64166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glazatov",
+                "idFTDNA": "248965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-DF29",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tambov gubernia",
+                "NazwaLokalizacji": "Мичуринск, Тамбовская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.4980965,
+                    52.8930359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shatokhin",
+                "idFTDNA": "178127",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tomsk gubernia",
+                "NazwaLokalizacji": "город Томск, Томская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.96255,
+                    56.46399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chigorev",
+                "idFTDNA": "186199",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP578",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tula gubernia",
+                "NazwaLokalizacji": "Efremovsky uezd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.09,
+                    53.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dronov",
+                "idFTDNA": "257566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2910",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tula gubernia",
+                "NazwaLokalizacji": "Odoyevsky District, Tula Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.6885223,
+                    53.92145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vasilyev",
+                "idFTDNA": "246167",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y4459",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Tver gubernia",
+                "NazwaLokalizacji": "Novoselye, Tver Oblast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7894135,
+                    56.43694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aksakov",
+                "idFTDNA": "152907",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L1029",
+                "PozycjaPrzypisanaPrzezProjekt": "Russian Velikorossy Yaroslavl gubernia",
+                "NazwaLokalizacji": "Rostov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.45,
+                    57.199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garkusha",
+                "idFTDNA": "195828",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M417",
+                "PozycjaPrzypisanaPrzezProjekt": "Ukrainians Chernigov gubernia",
+                "NazwaLokalizacji": "Иваница, Черниговская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.637,
+                    50.785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Plokhy",
+                "idFTDNA": "93511",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP418",
+                "PozycjaPrzypisanaPrzezProjekt": "Ukrainians Chernigov gubernia",
+                "NazwaLokalizacji": "Vilshana, Ichnia region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.45,
+                    50.73
+                ]
+            }
+        }
+    ]
+}

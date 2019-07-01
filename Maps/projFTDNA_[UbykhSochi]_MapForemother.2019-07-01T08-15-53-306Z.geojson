@@ -1,0 +1,345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2347832,
+                    45.0217247
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Berzeg",
+                "idFTDNA": "510582",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D4j",
+                "PozycjaPrzypisanaPrzezProjekt": "D4j -> Asia (Japan, China, Siberia, Altai)",
+                "NazwaLokalizacji": "Khakurinokhabl, Adygea, Russia, 385440"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.82,
+                    37.06
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Adourian",
+                "idFTDNA": "447196",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Aintab, Cilician Armenia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.36723,
+                    43.6702232
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shabazgeriev",
+                "idFTDNA": "B119694",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e8a",
+                "PozycjaPrzypisanaPrzezProjekt": "H1",
+                "NazwaLokalizacji": "Хамидие"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.48358,
+                    39.3372726
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Marksberry",
+                "idFTDNA": "348859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "H13a1 -> Middle East, Caucasus",
+                "NazwaLokalizacji": "Greensburg, IN 47240, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.0637,
+                    42.7003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanov",
+                "idFTDNA": "230560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "I2",
+                "NazwaLokalizacji": "Chechen Republic, Sadoy / H'amtci /"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2705536,
+                    43.2795143
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benia",
+                "idFTDNA": "IN27126",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I4a",
+                "PozycjaPrzypisanaPrzezProjekt": "I4",
+                "NazwaLokalizacji": "Abkhazia, Gagra"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": "R0 (pre-HV)",
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.9467468,
+                    55.3185
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gusmanov",
+                "idFTDNA": "117713",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": "T1",
+                "NazwaLokalizacji": "Kukkuyan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1018524,
+                    38.401947
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yıldız",
+                "idFTDNA": "257305",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "T2",
+                "NazwaLokalizacji": "Zeydan Mahallesi, 13000 Bitlis Merkez/Bitlis, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1897736,
+                    43.110527
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khan Mamakaev",
+                "idFTDNA": "235493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2d2a",
+                "PozycjaPrzypisanaPrzezProjekt": "U2d2a",
+                "NazwaLokalizacji": "Ялхой-Мохк, Чеченская Республика, Россия, 366320"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.2761,
+                    42.2863
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Buzaladze",
+                "idFTDNA": "190732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W6",
+                "PozycjaPrzypisanaPrzezProjekt": "W6 -> South Caucasus",
+                "NazwaLokalizacji": "Chiatura, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.7141914,
+                    43.1369553
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Saglav",
+                "idFTDNA": "460977",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "X2e -> Caucasus, Middle East -> Altai, Siberia -> Native Americans",
+                "NazwaLokalizacji": "Lovech, Bulgaria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.5217254,
+                    51.2787056
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Joyce",
+                "idFTDNA": "359531",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр",
+                "NazwaLokalizacji": "Kent, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.121817,
+                    52.2053375
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Durand",
+                "idFTDNA": "29881",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр",
+                "NazwaLokalizacji": "Cambridge, Cambridge, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.46721,
+                    55.97702
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "21279",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1a1e",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр",
+                "NazwaLokalizacji": "Achabraid, Argyll and Bute, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.27877,
+                    50.92238
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Verschaeren",
+                "idFTDNA": "290994",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I3a",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр",
+                "NazwaLokalizacji": "Ossel, 1785 Merchtem, Belgium"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7974625,
+                    51.3087463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hein",
+                "idFTDNA": "E26191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр",
+                "NazwaLokalizacji": "Volga, Rusia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1947632,
+                    31.3805275
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rabe'A - Abbodah",
+                "idFTDNA": "179340",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS12531",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Al Shatrah"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.007845,
+                    34.0181236
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "SLAOUI",
+                "idFTDNA": "783325",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Fès, Maroc"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.84466,
+                    23.5251884
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Al-Massari",
+                "idFTDNA": "IN59076",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY37657",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "حوطة بني تميم السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.90167,
+                    15.285
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "AL-jabarti",
+                "idFTDNA": "M9290",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS2242",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Asmara International Airport (ASM), Hday Street, Asmara, إرتريا"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    53.8478165,
+                    23.4240761
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الشهراني",
+                "idFTDNA": "M4261",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-U174",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1a",
+                "NazwaLokalizacji": "United Arab Emirates"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.17299,
+                    21.54349
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Obaid",
+                "idFTDNA": "252782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-U174",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1a",
+                "NazwaLokalizacji": "Jeddah Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.64273,
+                    26.260807
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alessa",
+                "idFTDNA": "410349",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS1231",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1a",
+                "NazwaLokalizacji": "شارع عراد، الحد، البحرين"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.467,
+                    14.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "عبدالسلام احمد مانع الطيب الأزدي",
+                "idFTDNA": "322460",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Y39246",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "Alnadirah, Ibb, Yemen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.25154,
+                    17.72728
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tharwan",
+                "idFTDNA": "188620",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "Ad Darb Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.4817657,
+                    29.31166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "F",
+                "idFTDNA": "M9948",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "Kuwait"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.537499,
+                    33.8869171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Seklani",
+                "idFTDNA": "T1895",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L241",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "Tunisie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0791626,
+                    23.8859425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Al Marshd",
+                "idFTDNA": "731416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY36700",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    49.5853,
+                    25.4111671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "عبدالله عبدالرحمن العبيدان",
+                "idFTDNA": "M10972",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY10950",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b",
+                "NazwaLokalizacji": "السياسب"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1043053,
+                    29.8780022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "احمد عبدالله خلف الزامل الغفيلي الشمري",
+                "idFTDNA": "M11569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-BY134284",
+                "PozycjaPrzypisanaPrzezProjekt": "G",
+                "NazwaLokalizacji": "Sakaka Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.5577,
+                    26.0667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fakhro",
+                "idFTDNA": "282517",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Y90753",
+                "PozycjaPrzypisanaPrzezProjekt": "G",
+                "NazwaLokalizacji": "Kingdom Of Bahrain"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    49.0059853,
+                    16.0567112
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shihab (Ba' Alawi)",
+                "idFTDNA": "500005",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Y32613",
+                "PozycjaPrzypisanaPrzezProjekt": "G",
+                "NazwaLokalizacji": "Tarim, Yemen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.8166656,
+                    21.4166679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ABID",
+                "idFTDNA": "400616",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Mecca Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5024986,
+                    41.5889854
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Aliosman",
+                "idFTDNA": "527618",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I",
+                "NazwaLokalizacji": "6837 Биволяне, България"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.9055138,
+                    34.1660042
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ال مليس  (IQ Project)",
+                "idFTDNA": "MI38326",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1 (upgrade needed: BigY or J1-M267v3 SNP Pack)",
+                "NazwaLokalizacji": "Samarra, Iraq"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.756897,
+                    14.2203007
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Aljahmi",
+                "idFTDNA": "390991",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-BY8",
+                "NazwaLokalizacji": "Ryashyyah District, Yemen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.6166649,
+                    26.25
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "JALAL ZAID ALI SALEH",
+                "idFTDNA": "M9478",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS9302",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-CTS8120",
+                "NazwaLokalizacji": "المحرق، البحرين"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.91667,
+                    13.96667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Haidra",
+                "idFTDNA": "331939",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC1695",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC1695",
+                "NazwaLokalizacji": "Juban, Ad Dali', Yemen جُبن،الضالع، اليمن"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.42482,
+                    21.2840786
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الطويرقي الثقفي",
+                "idFTDNA": "782158",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC1717",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC1713",
+                "NazwaLokalizacji": "Taif Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.4817657,
+                    29.31166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "آل شافعة آل معيان آل عوير آل غفران آل شبيب المري",
+                "idFTDNA": "IN46559",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y21745",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC4415",
+                "NazwaLokalizacji": "Kuwait"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.72062,
+                    34.03247
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Abi-Acar",
+                "idFTDNA": "278629",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC4415",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC4415",
+                "NazwaLokalizacji": "Chahtoul, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.1608,
+                    35.2481
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Al Mrahi",
+                "idFTDNA": "E9880",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS4753",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC7",
+                "NazwaLokalizacji": "Ghriss, Algérie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7208252,
+                    27.51141
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الشمري",
+                "idFTDNA": "M12725",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ALK299",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC7",
+                "NazwaLokalizacji": "حائل السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    58.4059219,
+                    23.58589
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "عبدالرحمن عبدالله كوفان سلطنة عمان",
+                "idFTDNA": "M13695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3856",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Muscat, Oman"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    53.5568,
+                    16.79166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "سالم سعيد آل مرعي الكثيري ( J1c3d2 )",
+                "idFTDNA": "M8291",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS11259",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Ajdarawt, عمان"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    51.1838837,
+                    25.354826
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "خالد‎ (Khalid)",
+                "idFTDNA": "M8569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3856",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "قطر"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0333328,
+                    12.8
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wael Abdulelah Aman وائل عبدالإله أمان",
+                "idFTDNA": "M9546",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC8810",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "عدن، اليَمَن"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.88163,
+                    18.55478
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shamoug",
+                "idFTDNA": "746253",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC8809",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Nuri, Sudan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.8164024,
+                    18.4689369
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shamoug",
+                "idFTDNA": "IN47246",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC8810",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Merowe, Sudan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.40396,
+                    15.4581327
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Babikr",
+                "idFTDNA": "IN36529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS12531",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Kassala, Sudan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8933,
+                    33.5321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Berro",
+                "idFTDNA": "M11232",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC8812",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Kfar Qouq, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09227,
+                    17.01387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الرواس الكثيري",
+                "idFTDNA": "279430",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "صلالة، عمان"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09227,
+                    17.01387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "آل قطميم الكثيري",
+                "idFTDNA": "279435",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "صلالة، عمان"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09227,
+                    17.01387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "بن فاضل الكثيري",
+                "idFTDNA": "246901",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC40452",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Salalah, Oman"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.09096,
+                    17.0244331
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "آل فاضل الكثيري",
+                "idFTDNA": "181936",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L222",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": "Salalah, Oman"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.42,
+                    24.44
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Aljaberi",
+                "idFTDNA": "145159",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L222",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-FGC8812",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.85791,
+                    21.389082
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الشريف فهد محمد داحش آل صالح المشيخي",
+                "idFTDNA": "B305830",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC65960",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-L859",
+                "NazwaLokalizacji": "مكة السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    48.5163879,
+                    15.5527267
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "idFTDNA": "343103",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z1865",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-L860",
+                "NazwaLokalizacji": "Yemen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.5812149,
+                    19.8648872
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Albagash AlOmari",
+                "idFTDNA": "444535",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FT19146",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-S4924",
+                "NazwaLokalizacji": "بلجرشي السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.7,
+                    19.4666672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cohen",
+                "idFTDNA": "284846",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z18297",
+                "PozycjaPrzypisanaPrzezProjekt": "J1-Z643",
+                "NazwaLokalizacji": "Santiago De Los Caballeros, Dominican Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.769547,
+                    24.9798985
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Esquivel Huerta",
+                "idFTDNA": "312638",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "Coneto de Comonfort, Dgo., Mexico"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.5577,
+                    26.0667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fakhroo",
+                "idFTDNA": "358769",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "Bahrain"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8622856,
+                    33.85472
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ibn la ahad",
+                "idFTDNA": "E16051",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-PH962",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.6793747,
+                    22.29545
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alsalem",
+                "idFTDNA": "M11362",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "Eastern Province Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.5577,
+                    26.0667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zaid",
+                "idFTDNA": "M11559",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "البحرين"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8070869,
+                    34.16314
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Al-Nemnom/Nemnoum",
+                "idFTDNA": "N136769",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z455",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "Jaj, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.3773422,
+                    24.4538841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Saleh",
+                "idFTDNA": "M13952",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a",
+                "NazwaLokalizacji": "أبو ظبي - الإمارات العربية المتحدة"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.1065865,
+                    17.0506668
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "الخوار الكثيري",
+                "idFTDNA": "M12027",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY160215",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1-M205",
+                "NazwaLokalizacji": "صلالة، عمان"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.23755,
+                    21.2854061
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alamoudi",
+                "idFTDNA": "755698",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY37659",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1-M205",
+                "NazwaLokalizacji": "جدة السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.14252,
+                    17.0322113
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "AL Barami(البرعمي)",
+                "idFTDNA": "364868",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y60382",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1-M205",
+                "NazwaLokalizacji": "Dhofar Governorate, Oman"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0791626,
+                    23.8859425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "nan",
+                "idFTDNA": "245754",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1-M205",
+                "NazwaLokalizacji": "Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.355732,
+                    44.70084
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chernoff",
+                "idFTDNA": "399746",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-BY164513",
+                "PozycjaPrzypisanaPrzezProjekt": "L",
+                "NazwaLokalizacji": "Αλανία>1475>Körbekül>1945>Изобильное (Алушта)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.6622238,
+                    34.2733269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nader",
+                "idFTDNA": "336818",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "L",
+                "NazwaLokalizacji": "Koubba, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0791626,
+                    23.8859425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": ".RIYADH Study (1)  AL.K",
+                "idFTDNA": "498296",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "L",
+                "NazwaLokalizacji": "السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.29782,
+                    49.33577
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Weiss",
+                "idFTDNA": "567900",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1013",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a",
+                "NazwaLokalizacji": "059 78 Veľká Franková, Slovakia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nicholas",
+                "idFTDNA": "449718",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L1029",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a",
+                "NazwaLokalizacji": "Virginia, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    50.4489059,
+                    26.21093
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "المراغي",
+                "idFTDNA": "519800",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y74439",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a",
+                "NazwaLokalizacji": "Budaiya, Bahrain"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.4817657,
+                    29.31166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "البلوشي",
+                "idFTDNA": "314758",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z94",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a",
+                "NazwaLokalizacji": "Bahrain,Kuwait"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.44894,
+                    54.08262
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McCoy",
+                "idFTDNA": "239032",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FT16891",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Forkhill, Newry and Mourne BT35, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.668707,
+                    45.6947365
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pelliccioli  ( Saltiel )",
+                "idFTDNA": "139294",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U152",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Bérgamo BG, Italia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.943927,
+                    56.6208153
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thomas",
+                "idFTDNA": "561835",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S7432",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Dull, Aberfeldy PH15, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.249298,
+                    52.6504631
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "364732",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Kilkenny Castle, Kilkenny, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.468895,
+                    26.2366066
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alkelabi",
+                "idFTDNA": "IN23335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC55736",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Al Wajh Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.0791626,
+                    23.8859425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bin Ibraheem",
+                "idFTDNA": "M10236",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY14283",
+                "PozycjaPrzypisanaPrzezProjekt": "R2",
+                "NazwaLokalizacji": "السعودية"
+            }
+        }
+    ]
+}

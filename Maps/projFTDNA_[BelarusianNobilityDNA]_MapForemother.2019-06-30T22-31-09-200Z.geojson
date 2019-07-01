@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8166676,
+                    53.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10g",
+                "PozycjaPrzypisanaPrzezProjekt": "mt-Haplo H",
+                "NazwaLokalizacji": "Navahrudak, Belarus"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.71432,
+                    56.54596
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3",
+                "PozycjaPrzypisanaPrzezProjekt": "mt-Haplo H",
+                "NazwaLokalizacji": "Lucyn, Ludzas pilsēta, Łotwa"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.2681,
+                    53.18224
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "mt-Haplo H",
+                "NazwaLokalizacji": "Jawsiejavičy (Belarus)"
+            }
+        }
+    ]
+}

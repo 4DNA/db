@@ -1,0 +1,6025 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asimakidis",
+                "idFTDNA": "423596",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kestanelik, 34540 Kestanelik/Çatalca/İstanbul, Turkiet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4923,
+                    41.2343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosh",
+                "idFTDNA": "493010",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0279083,
+                    41.586937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Korenic",
+                "idFTDNA": "515588",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "47251, Bosiljevo, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2885485,
+                    45.4130936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alibas",
+                "idFTDNA": "598874",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Karaisaköyü (Chernolik), Silistra, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.08504,
+                    43.8834076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vekić",
+                "idFTDNA": "763033",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ervenik, Croatia, former Yugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94148,
+                    44.1089935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexandrov",
+                "idFTDNA": "B146196",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ruse, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9656563,
+                    43.83557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filipov",
+                "idFTDNA": "B410707",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pella, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.14302,
+                    40.9148026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "smear",
+                "idFTDNA": "B76766",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2,
+                    45.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Georgescu",
+                "idFTDNA": "MI24481",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Broșteni, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7449265,
+                    44.67179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popescu",
+                "idFTDNA": "MI24483",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Smeeni, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8538685,
+                    44.994854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petkov",
+                "idFTDNA": "MI38154",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "9669 Granichar, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5030556,
+                    43.7215042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dimitrov",
+                "idFTDNA": "N148312",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS9219",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Roussé, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9656563,
+                    43.83557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poy",
+                "idFTDNA": "639835",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M123+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0313911,
+                    41.5899162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kum",
+                "idFTDNA": "493007",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC77167",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M123+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0304127,
+                    41.5867424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metev",
+                "idFTDNA": "306837",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L791",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M123+",
+                "NazwaLokalizacji": "4370 Kalofer, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.96748,
+                    42.6130257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dragatev",
+                "idFTDNA": "248250",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "8166 Граматиково, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.654789,
+                    42.06218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tangardjiev",
+                "idFTDNA": "248277",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "8166 Граматиково, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.654789,
+                    42.06218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Filtsios",
+                "idFTDNA": "414032",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Serres, Griechenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5413189,
+                    41.0909233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pakalınlı",
+                "idFTDNA": "419766",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS4005",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Hanya, Yunanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0180359,
+                    35.51383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ilievski",
+                "idFTDNA": "587847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Bitola, Macédoine (ARYM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.329216,
+                    41.02968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hysi",
+                "idFTDNA": "525194",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Filiates 463 00, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.30777,
+                    39.60033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikolla",
+                "idFTDNA": "761321",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Kaçinar, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8946075,
+                    41.89349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hristov",
+                "idFTDNA": "MI38112",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "9355 Vedrina, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6662655,
+                    43.50008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bytyqi",
+                "idFTDNA": "IN39423",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Gjakova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.428503,
+                    42.38441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marsenic",
+                "idFTDNA": "E16847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Berane, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.874445,
+                    42.845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Preradović",
+                "idFTDNA": "IN15544",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->M35+",
+                "NazwaLokalizacji": "Prnjavor, Bosna in Hercegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6618233,
+                    44.8678665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B",
+                "idFTDNA": "B67167",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY14150",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->V13+",
+                "NazwaLokalizacji": "Macédoine (ARYM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7452755,
+                    41.6086349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mala",
+                "idFTDNA": "B37208",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->V13+",
+                "NazwaLokalizacji": "Nivice, Kurvelesh, Tepelene, Gjirokaster, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9245529,
+                    40.2387466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martazan",
+                "idFTDNA": "164490",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->V13+",
+                "NazwaLokalizacji": "Ocnita, Moldova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.439167,
+                    48.3852768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nenov",
+                "idFTDNA": "N98013",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b->V13+",
+                "NazwaLokalizacji": "Zavet, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.678278,
+                    43.7584763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zarzaliev",
+                "idFTDNA": "167532",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS5856",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856+",
+                "NazwaLokalizacji": "Sliven, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.315506,
+                    42.68173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis",
+                "idFTDNA": "121904",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC14092",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856+",
+                "NazwaLokalizacji": "England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krstic",
+                "idFTDNA": "389324",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY3880",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856+",
+                "NazwaLokalizacji": "Vratnice, Macedonia (FYROM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.116087,
+                    42.14146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbera",
+                "idFTDNA": "548919",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY6527",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856+",
+                "NazwaLokalizacji": "98020 Mandanici ME, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3169413,
+                    38.0037537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mali",
+                "idFTDNA": "IN10776",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS5856",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856+",
+                "NazwaLokalizacji": "Borove, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4306774,
+                    41.3476219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harlov",
+                "idFTDNA": "354583",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY6350",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->BY6203+",
+                "NazwaLokalizacji": "4824 Borino, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2930317,
+                    41.6840477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chit",
+                "idFTDNA": "344884",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0302925,
+                    41.58156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Constan",
+                "idFTDNA": "205801",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY30352",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": "Manaris, Valtetsi 22027, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3248119,
+                    37.3990631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ceustermans",
+                "idFTDNA": "225029",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY6043",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": "Vorst, Laakdal, België"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02024,
+                    51.07973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silikyan",
+                "idFTDNA": "501872",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY30352",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": "Огуз, Азербайджан (ранее Варташен)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.46507,
+                    41.0727921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabba",
+                "idFTDNA": "749846",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC44177",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": "03037 Pontecorvo FR, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6637678,
+                    41.454567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hubbard",
+                "idFTDNA": "78898",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-S7461",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->S7461+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.38,
+                    41.33
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N.",
+                "idFTDNA": "780707",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Y16729",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Y16729+",
+                "NazwaLokalizacji": "present-day Macedonia, 19th century Ottoman Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3203659,
+                    41.1872368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Georgiadis",
+                "idFTDNA": "425162",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z16663",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z16663+",
+                "NazwaLokalizacji": "Refahiye, 24300 Refahiye/Erzincan, Turkiet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7680664,
+                    39.8995819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lakic",
+                "idFTDNA": "405052",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4455",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Gornji Karin, 23450, Karin Gornji, Hrvatska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70792,
+                    44.08384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ivsan",
+                "idFTDNA": "349847",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z16988",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Donji Trpuci, Kroatien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9378548,
+                    45.6666145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinic",
+                "idFTDNA": "222988",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-A11837",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Божица, Србија"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3988914,
+                    42.6157074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gebaroff",
+                "idFTDNA": "175170",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-S26015",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Lovetch, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7172623,
+                    43.13484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laszczynski",
+                "idFTDNA": "296949",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4526",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Bychawa w województwie lubelskim, w powiecie lubelskim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5301151,
+                    51.013485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "iordanov",
+                "idFTDNA": "N111640",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z38456",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5017+",
+                "NazwaLokalizacji": "Ruse, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9552288,
+                    43.84958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kemp",
+                "idFTDNA": "N103610",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5375",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Giessen, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.678403,
+                    50.584053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Batalaku",
+                "idFTDNA": "B73740",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Gjakova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.428503,
+                    42.38441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toviah",
+                "idFTDNA": "7263",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L241",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Hořice, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6320715,
+                    50.36852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delija",
+                "idFTDNA": "541212",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-PH2180",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Bugjon, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9928589,
+                    42.23502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIZDAREVIĆ",
+                "idFTDNA": "300794",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS11286",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Kotlanice, Tešanj, Bosna i Hercegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97949,
+                    44.6024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delev",
+                "idFTDNA": "274487",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4914",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Leptokaria 581 00, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4621429,
+                    40.8618622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hristov",
+                "idFTDNA": "274490",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5350",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "4208 Pesnopoy, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8068466,
+                    42.48517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mavente",
+                "idFTDNA": "372190",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC11451",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "Sicily, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0153561,
+                    37.5999947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Damianov",
+                "idFTDNA": "434489",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z16661",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "5367 Mrazetsi, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.549408,
+                    42.79171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farrel* (Bio Dzivi)",
+                "idFTDNA": "442342",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5672",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b-V13->CTS5856->Z5018+",
+                "NazwaLokalizacji": "082 35 Hendrichovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006981,
+                    49.0214767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kum (kit admin)",
+                "idFTDNA": "493013",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1324",
+                "PozycjaPrzypisanaPrzezProjekt": "G1->M285+",
+                "NazwaLokalizacji": "Korova, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0126953,
+                    42.066494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iordache",
+                "idFTDNA": "525340",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-CTS342",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Sinaia, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5623512,
+                    45.3310432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iordache",
+                "idFTDNA": "525341",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-CTS342",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Sinaia, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5623512,
+                    45.3310432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hasperger",
+                "idFTDNA": "E17415",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Kostanjevac, 43233, Kostanjevac, Kroatien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8832626,
+                    45.6755829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Başdoğan",
+                "idFTDNA": "IN53917",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Solokhaul, Krasnodar Krai, Rusya, 354237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6764832,
+                    43.7991447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Efpraxiadis",
+                "idFTDNA": "290817",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z17886",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Ürgüp/Nevşehir, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9130554,
+                    38.63139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botu",
+                "idFTDNA": "320348",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z17887",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Oteşani, România"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0333328,
+                    45.0666656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macesich",
+                "idFTDNA": "20412",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-BY193714",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Budacka Rijeka, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6367369,
+                    45.29144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krayı, Rusya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yetis",
+                "idFTDNA": "232967",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-PF3296",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Çat/Konya, Turkije"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.01697,
+                    37.525528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Özel",
+                "idFTDNA": "N14671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a->P15+",
+                "NazwaLokalizacji": "Rusya, Adigey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2161865,
+                    44.4542427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schwartz",
+                "idFTDNA": "448337",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H-Z41289",
+                "PozycjaPrzypisanaPrzezProjekt": "H->L901",
+                "NazwaLokalizacji": "Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.96676,
+                    45.94316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kum (kit admin)",
+                "idFTDNA": "493012",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H-L901",
+                "PozycjaPrzypisanaPrzezProjekt": "H->L901",
+                "NazwaLokalizacji": "Balchik, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1617184,
+                    43.4269066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vasko, II",
+                "idFTDNA": "67264",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H-M82",
+                "PozycjaPrzypisanaPrzezProjekt": "H->L901",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0833,
+                    47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deli",
+                "idFTDNA": "493009",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y17218",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->L22+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0285149,
+                    41.5872574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sak",
+                "idFTDNA": "343564",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y16808",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->L22+",
+                "NazwaLokalizacji": "Kochan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0294647,
+                    41.586586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barach",
+                "idFTDNA": "177090",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC22054",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->L22+",
+                "NazwaLokalizacji": "Podlapaca, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.633585,
+                    44.5798836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Backo",
+                "idFTDNA": "300216",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC21732",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->L22+",
+                "NazwaLokalizacji": "Ramljane, Dalmatia, Republic of Venice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1988373,
+                    43.97406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varbansky",
+                "idFTDNA": "282086",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P109",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->L22+",
+                "NazwaLokalizacji": "Plovdiv, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.74529,
+                    42.1354065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Man",
+                "idFTDNA": "493006",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z58+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.03056,
+                    41.5854454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dokuz",
+                "idFTDNA": "493163",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y86150",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z58+",
+                "NazwaLokalizacji": "Karaisakoy, Silistra, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.06671,
+                    43.8838539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dokuz",
+                "idFTDNA": "677403",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z58+",
+                "NazwaLokalizacji": "7693 Cernolik, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.08504,
+                    43.8834076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kovačević",
+                "idFTDNA": "IN23502",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A11380",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z58+",
+                "NazwaLokalizacji": "Srednja Dobrinja, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.065,
+                    43.94
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hobrla",
+                "idFTDNA": "B66140",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z141",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z58+",
+                "NazwaLokalizacji": "bulgarian roma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.48583,
+                    42.7338829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macura",
+                "idFTDNA": "E14327",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y16434",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Macure Kistanje, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96248,
+                    43.98105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sylaj",
+                "idFTDNA": "MK40520",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY130489",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1683311,
+                    41.15333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Markaj",
+                "idFTDNA": "871211",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY205861",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Dardhe, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.82698,
+                    40.52086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sylaj",
+                "idFTDNA": "B36837",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY130489",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Malësi e Madhe District, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5833321,
+                    42.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pukic",
+                "idFTDNA": "470811",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY179171",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Bar, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0899048,
+                    42.09121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Biase Duerto",
+                "idFTDNA": "444792",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY34386",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "71036 Lucera, Province of Foggia, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3385286,
+                    41.50548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perić",
+                "idFTDNA": "382195",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Гњилане, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4694,
+                    42.46352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Todorov",
+                "idFTDNA": "315637",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y51867",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "2147 Novachene, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7329082,
+                    42.98085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Białek",
+                "idFTDNA": "188658",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2078",
+                "PozycjaPrzypisanaPrzezProjekt": "I1->M253->Z63+",
+                "NazwaLokalizacji": "Pietrzykowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16039,
+                    49.6957779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inal",
+                "idFTDNA": "259893",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y13335",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Komuniga/Poshevo,Kardzhali,Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.233,
+                    41.78
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kurşun",
+                "idFTDNA": "367241",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L161",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Komuniga,Kardzhali,Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.264,
+                    41.798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Efe",
+                "idFTDNA": "367242",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L161",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Komuniga,Kardzhali,Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2041225,
+                    41.78805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arıbozan",
+                "idFTDNA": "406949",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L161",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Patitsa,Kardzhali,Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3640957,
+                    41.7334137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saf",
+                "idFTDNA": "491830",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Vaklinovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.06342,
+                    41.5955658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ristemov",
+                "idFTDNA": "525262",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L161",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Vaklinovo,Blagoevgrad,Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.06742,
+                    41.5905647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Böge",
+                "idFTDNA": "N55539",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L161",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L161->Y13338+ (Thracian\\Bessi Cluster)",
+                "NazwaLokalizacji": "Ankara, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.86974,
+                    39.8333664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonev",
+                "idFTDNA": "654724",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Novakovtsi (Zelenika,Tryavna)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4681759,
+                    42.87059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tchapko",
+                "idFTDNA": "B12643",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Volyns'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3253822,
+                    50.7472343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cetinkaya",
+                "idFTDNA": "681873",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Halfeti, 63950 Halfeti/Şanlıurfa, Türkei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8684654,
+                    37.2482376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Čaušević",
+                "idFTDNA": "751425",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Strane, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.84744,
+                    43.7750168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stojcic",
+                "idFTDNA": "IN26212",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Modra Stena, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3094044,
+                    43.0018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikola",
+                "idFTDNA": "E14483",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Ljubetovo, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8893528,
+                    44.29451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beslagic",
+                "idFTDNA": "E16792",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Doboj, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0730247,
+                    44.7265244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alexov",
+                "idFTDNA": "413137",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Бегуновци, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8318043,
+                    42.69184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savić",
+                "idFTDNA": "383399",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Гњилане, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4694,
+                    42.46352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macich",
+                "idFTDNA": "384347",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->CTS10228+",
+                "NazwaLokalizacji": "Mostar 88000, Bosnia-Hercegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8077583,
+                    43.3437767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tari",
+                "idFTDNA": "360730",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Selanik, Yunanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0965061,
+                    40.7182732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andrei",
+                "idFTDNA": "393679",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Gaiu Mic, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4166679,
+                    45.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G",
+                "idFTDNA": "340985",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S17250",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Khmarivka, Vinnyts'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.667,
+                    48.509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Holjevac",
+                "idFTDNA": "349848",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Brinje, Kroatien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.129097,
+                    44.9986877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gures",
+                "idFTDNA": "351344",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Bulgaristan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.48583,
+                    42.7338829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eror",
+                "idFTDNA": "349846",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Бунић, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6114759,
+                    44.6716766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ken",
+                "idFTDNA": "493004",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0309086,
+                    41.58542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yurkovich",
+                "idFTDNA": "461858",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY106777",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Čanak, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4898815,
+                    44.73546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aleksich-Ryckman",
+                "idFTDNA": "467285",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.37439,
+                    42.70868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palikarov",
+                "idFTDNA": "488524",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y140560",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "4583 Розово, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3698483,
+                    42.0095177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eror",
+                "idFTDNA": "330061",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S17250",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Donji Babin Potok, 53223, Donji Babin Potok, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.48812,
+                    44.8336639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zovko",
+                "idFTDNA": "E16028",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Uzarići, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6343479,
+                    43.3465767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sosa",
+                "idFTDNA": "E16030",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Gorica, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2897968,
+                    43.4195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carapina",
+                "idFTDNA": "E16446",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Krehin Gradac, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.71269,
+                    43.2143326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vucic",
+                "idFTDNA": "E8115",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M423",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Golinjevo, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0506516,
+                    43.71739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coric",
+                "idFTDNA": "E17416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Široki Brijeg, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.583334,
+                    43.3666649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nikic",
+                "idFTDNA": "IN37467",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Srnice Donje, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4948521,
+                    44.77743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUYUMCU",
+                "idFTDNA": "IN43656",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Bihać 77000, Bosna Hersek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8685646,
+                    44.8119621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ćalasan",
+                "idFTDNA": "IN44977",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY152858",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.84241,
+                    43.2728043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Michas",
+                "idFTDNA": "569801",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250+",
+                "NazwaLokalizacji": "Λεωνίδιο 223 00, Ελλάδα"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8592834,
+                    37.16728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urusov",
+                "idFTDNA": "333648",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y32090",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->BY128+",
+                "NazwaLokalizacji": "Верхний Учкулан, Карачаево-Черкесская Република, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0583267,
+                    43.44088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Humeniuk",
+                "idFTDNA": "172857",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A815",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->BY128+",
+                "NazwaLokalizacji": "Terebleche, Chernivets'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0583324,
+                    48.025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Пейовић",
+                "idFTDNA": "271539",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Чево, Црна Гора"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9160538,
+                    42.5452461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hadžiahmetović",
+                "idFTDNA": "232479",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH908",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Donji Vakuf, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.401,
+                    44.14413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stankovic",
+                "idFTDNA": "295667",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS10228",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Osladić, Serbie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6833324,
+                    44.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ivanov",
+                "idFTDNA": "488525",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A13912",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "3460 Chiprovtsi, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8849373,
+                    43.3842621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bekić",
+                "idFTDNA": "352896",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH908",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Gornja Ploča, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.65126,
+                    44.4609871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vekić",
+                "idFTDNA": "571215",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH908",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Ervenik, Croatia, former Yugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94148,
+                    44.1089935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aliosman",
+                "idFTDNA": "527618",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "6837 Биволяне, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5024986,
+                    41.5889854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Суботић",
+                "idFTDNA": "811537",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY152858",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Подлозник, Босна и Херцеговина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7444115,
+                    43.83011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Neshkov",
+                "idFTDNA": "IN46947",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Markovtsi, Osikovitsa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0195,
+                    42.96
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asimakidis",
+                "idFTDNA": "N140468",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH908",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->PH908+",
+                "NazwaLokalizacji": "Istanbul, Turkiet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97696,
+                    41.00527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Telencio",
+                "idFTDNA": "N117657",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY30329",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->Y4882+",
+                "NazwaLokalizacji": "Wisłoczek, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8689,
+                    49.5023766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ostojic",
+                "idFTDNA": "349845",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z16983",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->Z16983+",
+                "NazwaLokalizacji": "Tepčići, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.77348,
+                    43.2236671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boutsidis",
+                "idFTDNA": "N64032",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L69",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->S17250->Z16983+",
+                "NazwaLokalizacji": "Topolovgrad, Βουλγαρία"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3369083,
+                    42.0845222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lundiak",
+                "idFTDNA": "344010",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC63213",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": "Molodkiv, Ivano-Frankivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4844437,
+                    48.66111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dau",
+                "idFTDNA": "343565",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0277176,
+                    41.5892448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uzu",
+                "idFTDNA": "493005",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0265,
+                    41.5883675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giannatsis",
+                "idFTDNA": "28397",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3118",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0441666,
+                    37.59361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bal",
+                "idFTDNA": "N126988",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS10228",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.024559,
+                    41.5863457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zai",
+                "idFTDNA": "639829",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Y4460+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0347252,
+                    41.5861778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ada",
+                "idFTDNA": "639830",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z17855",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Z17855+",
+                "NazwaLokalizacji": "Zhizhevo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0292511,
+                    41.5510674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jelic",
+                "idFTDNA": "IN10161",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY66632",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Z17855+",
+                "NazwaLokalizacji": "Brdjani, Gornji Milanovac, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3953381,
+                    43.96413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boyadjiev",
+                "idFTDNA": "216603",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z17855",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Z17855+",
+                "NazwaLokalizacji": "Preslav, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8066387,
+                    43.16223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stakovski",
+                "idFTDNA": "266801",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z17855",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a->L621->Z17855+",
+                "NazwaLokalizacji": "Novo Zmirnevo, Makedonien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3347225,
+                    41.0319443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Konfortov",
+                "idFTDNA": "291141",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2a->M223+",
+                "NazwaLokalizacji": "2500 Kyustendil, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6916389,
+                    42.2824745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kollias",
+                "idFTDNA": "689863",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y130323",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2b->L38+",
+                "NazwaLokalizacji": "Theodorakio 584 00, Griechenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1919689,
+                    40.9496841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benkovich",
+                "idFTDNA": "737667",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH2591",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2b->L38+",
+                "NazwaLokalizacji": "Bošt, Duga Resa, Karlovac, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5003519,
+                    45.40686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Selmani",
+                "idFTDNA": "E14951",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z26391",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c->L597+",
+                "NazwaLokalizacji": "Pristina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16454,
+                    42.67242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Penkov",
+                "idFTDNA": "N66516",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY4177",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c->L597+",
+                "NazwaLokalizacji": "Брезе, Своге, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1967564,
+                    43.0333061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cohen",
+                "idFTDNA": "N32022",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6667,
+                    47.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sobel",
+                "idFTDNA": "N108710",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS2755",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Iași, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5902786,
+                    47.1569443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuyumdjian",
+                "idFTDNA": "N112135",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS2566",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Tekirdağ, Süleymanpaşa/Tekirdağ, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5116749,
+                    40.9780922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petousis",
+                "idFTDNA": "B271786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC4416",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Λευκάδα, Ελλάδα"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.64073,
+                    38.706646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mehmedoğlu",
+                "idFTDNA": "573748",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "7658 Poroyno, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.108,
+                    43.842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuyumdjian",
+                "idFTDNA": "331350",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Tekirdağ, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5166664,
+                    40.9833336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kulenski",
+                "idFTDNA": "488523",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS11470",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Pazardzhik, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3335667,
+                    42.1927643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maksimović",
+                "idFTDNA": "356424",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS11470",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Velika Popina, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01,
+                    44.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chafkarov",
+                "idFTDNA": "343578",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS1460",
+                "PozycjaPrzypisanaPrzezProjekt": "J1->M267+",
+                "NazwaLokalizacji": "Struga, Macedonia (FYROM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6783257,
+                    41.1778336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ignatov",
+                "idFTDNA": "345430",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Lom, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2383327,
+                    43.8178368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petarchev",
+                "idFTDNA": "429377",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "5031 Беляковец, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.58181,
+                    43.10517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fendyan",
+                "idFTDNA": "331349",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-PH1038",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Yenice/Çanakkale Province, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26038,
+                    39.92829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monkin",
+                "idFTDNA": "267333",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Белошапки, Черниговская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.2130547,
+                    50.3819427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vukosavovic",
+                "idFTDNA": "515259",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z6065",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "southern Montenegro closest to Adriatic coast, records since 1650s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0899048,
+                    42.2389374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akinci",
+                "idFTDNA": "B273777",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z39558",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Mikropoli 662 00, Griechenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8205585,
+                    41.19188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Redzepagic",
+                "idFTDNA": "713124",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Plav, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9407539,
+                    42.600132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karipidis",
+                "idFTDNA": "N144094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS904",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Gümüshane, Gümüşhane Merkez/Gümüshane, Turkiet"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.48032,
+                    40.4608269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milutinovic",
+                "idFTDNA": "N92504",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410+",
+                "NazwaLokalizacji": "Rudovci, Srbija"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41565,
+                    44.375042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Angelov",
+                "idFTDNA": "211331",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS6061",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->L25+",
+                "NazwaLokalizacji": "Elhovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.56932,
+                    42.1720276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tonchev",
+                "idFTDNA": "397700",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z32067",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->L25+",
+                "NazwaLokalizacji": "5300 Chitakovtsi, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2874222,
+                    42.9369278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bash",
+                "idFTDNA": "398993",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->L25+",
+                "NazwaLokalizacji": "Tuhovishta, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.04406,
+                    41.4985161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Durakov",
+                "idFTDNA": "435358",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-SK1336",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->M67+",
+                "NazwaLokalizacji": "Silbaš, Serbie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4788551,
+                    45.4008751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saglav",
+                "idFTDNA": "460977",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z515",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->M67+",
+                "NazwaLokalizacji": "Sochi, Krasnodar Krai, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.7341537,
+                    43.6028061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G",
+                "idFTDNA": "488520",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y67910",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->M67+",
+                "NazwaLokalizacji": "Xanthi 671 00, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.88649,
+                    41.1300354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bogunovic",
+                "idFTDNA": "595419",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z500",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->M67+",
+                "NazwaLokalizacji": "Pljevlja, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35126,
+                    43.35824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perunovic",
+                "idFTDNA": "N93603",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M92",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->L26->M67+",
+                "NazwaLokalizacji": "Drenovstica, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9944382,
+                    42.65147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dokov",
+                "idFTDNA": "575878",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY40968",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->PF5008+",
+                "NazwaLokalizacji": "2193 Lopyan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0751171,
+                    42.8743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hadziahmetovic",
+                "idFTDNA": "E9592",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M410",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a->M410->PF5008+",
+                "NazwaLokalizacji": "Trebinje, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3425,
+                    42.7112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mateev",
+                "idFTDNA": "113415",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M102",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b->M102+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.63,
+                    43.07
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staykov (Koyundjiev)",
+                "idFTDNA": "159762",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Gramatikovo, Malko Tarnovo, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6553631,
+                    42.0619278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pazakis",
+                "idFTDNA": "107057",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1029,
+                    36.7999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jurcevic",
+                "idFTDNA": "107231",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Studenci, Imotski, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04,
+                    43.54
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Todorov",
+                "idFTDNA": "197831",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "София, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.321867,
+                    42.69771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Narancic",
+                "idFTDNA": "237709",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Вребац, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5044928,
+                    44.5239563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tsvetanov",
+                "idFTDNA": "238204",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "София, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.364,
+                    42.654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mandic",
+                "idFTDNA": "318463",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Korduševci, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0913448,
+                    45.22133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Новаковић",
+                "idFTDNA": "275214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y22063",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Кршље, Босна и Херцеговина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4168949,
+                    44.9375839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atanassov",
+                "idFTDNA": "248273",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Dichin, Veliko Tarnovo, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4795,
+                    43.2167931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kricka",
+                "idFTDNA": "489000",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Кричке, Дрниш, Далмација"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21081,
+                    43.82
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weaver",
+                "idFTDNA": "348847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Kovin, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9778461,
+                    44.73957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M",
+                "idFTDNA": "E9599",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Jablanica, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.271389,
+                    43.44389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Batocanin",
+                "idFTDNA": "E20746",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y22063",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Lopaš, Serbien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0779133,
+                    43.5725937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Herbez",
+                "idFTDNA": "IN18133",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Дабрица, Босна и Херцеговина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0361557,
+                    43.1550331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostic",
+                "idFTDNA": "IN22214",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Čačak, Srbija"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3501644,
+                    43.8914146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Батоћанин",
+                "idFTDNA": "IN23056",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Odžaci, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0241127,
+                    43.59471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bilyanski",
+                "idFTDNA": "N116487",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Смолян, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7011147,
+                    41.5774231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dupor",
+                "idFTDNA": "583042",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Karin Gornji, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63289,
+                    44.13546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radenković",
+                "idFTDNA": "666754",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Почековина, Србија"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0909386,
+                    43.5912933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tintor",
+                "idFTDNA": "608566",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Smoković, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3473558,
+                    44.12929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radovic",
+                "idFTDNA": "612707",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Булози, Босна и Херцеговина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5063725,
+                    43.8584442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Батоћанин",
+                "idFTDNA": "725696",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.033926,
+                    43.6003838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goravica",
+                "idFTDNA": "821945",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Шипанска Лука, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.86309,
+                    42.72905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vukovojac",
+                "idFTDNA": "763416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Zaluznica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3534021,
+                    44.85697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bean",
+                "idFTDNA": "B262310",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Bjelovar, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84231,
+                    45.8987961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stoan",
+                "idFTDNA": "N71653",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Vračev Gaj, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3577785,
+                    44.8711128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cirko",
+                "idFTDNA": "N86479",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Livno, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    43.8333321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Umic",
+                "idFTDNA": "N58150",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M205",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1->M102->M205+",
+                "NazwaLokalizacji": "Perušić, Хрватска"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3831091,
+                    44.64886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doqaj",
+                "idFTDNA": "858484",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y85522",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Mirditë District, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.90205,
+                    41.764286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ramadani",
+                "idFTDNA": "B351445",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y52453",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Rahovica kosovo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2338276,
+                    42.4240723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malaj",
+                "idFTDNA": "525187",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY87493",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Ducaj, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.63566,
+                    42.34175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ivanov",
+                "idFTDNA": "274489",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y37121",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Pazardzhik, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3335667,
+                    42.1927643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nenkov",
+                "idFTDNA": "306997",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-PH72",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "4448 Ovchepoltsi, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.40233,
+                    42.3325844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paripović",
+                "idFTDNA": "324786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z590",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Glamoč, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8557453,
+                    44.0461731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ayasi",
+                "idFTDNA": "306834",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY87493",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Trebisht, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5424023,
+                    41.4098473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manfreda",
+                "idFTDNA": "111227",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z639",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2->M102->M241+",
+                "NazwaLokalizacji": "Poljubinjske Ravne - Tolmin, Slovenija"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7330608,
+                    46.1828041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chernoff",
+                "idFTDNA": "399746",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-BY164513",
+                "PozycjaPrzypisanaPrzezProjekt": "L->M20",
+                "NazwaLokalizacji": "Αλανία>1475>Körbekül>1945>Изобильное (Алушта)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.355732,
+                    44.70084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braccio",
+                "idFTDNA": "N205227",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M357",
+                "PozycjaPrzypisanaPrzezProjekt": "L->M20",
+                "NazwaLokalizacji": "83040 Morra De Sanctis AV, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2425337,
+                    40.9327278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ikonen",
+                "idFTDNA": "N37846",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.43,
+                    62.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nemaric",
+                "idFTDNA": "N92307",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-A9416",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": "Petrčane, Zadar, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1614351,
+                    44.1847725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Güner",
+                "idFTDNA": "408427",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": "Peçenek Bucağı, 06740 Peçenek Bucağı/Çamlıdere/Ankara, Türkiye"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3131981,
+                    40.42279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burcă",
+                "idFTDNA": "311099",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y11882",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": "Satu Nou, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.60874,
+                    44.16091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paramonov",
+                "idFTDNA": "MI18191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y15159",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": "Казань, Респ. Татарстан, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.066082,
+                    55.83043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matić",
+                "idFTDNA": "E20162",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "N->M231+",
+                "NazwaLokalizacji": "Tomislavgrad, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22365,
+                    43.7187424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ravinski",
+                "idFTDNA": "764644",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M458+",
+                "NazwaLokalizacji": "Belarus, pre 1922 the Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9979019,
+                    53.27181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aksić",
+                "idFTDNA": "360908",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-A11460",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M458+",
+                "NazwaLokalizacji": "Гњилане"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4694,
+                    42.46352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vlahov",
+                "idFTDNA": "274481",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP418",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M458->L1029+",
+                "NazwaLokalizacji": "4583 Rozovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3698387,
+                    42.0095558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KAHYA",
+                "idFTDNA": "745166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1013",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M458->L1029+",
+                "NazwaLokalizacji": "Kastanaoto (Boyova), Kavala, Yunanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5475178,
+                    41.2228127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gardev",
+                "idFTDNA": "N94357",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4848",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M458->L1029+",
+                "NazwaLokalizacji": "Yambol, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5035019,
+                    42.4842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mihaylov",
+                "idFTDNA": "N4203",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Tresonce, Macedonia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7231,
+                    41.5611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koci",
+                "idFTDNA": "B188498",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Okshtun I Vogel, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.34801,
+                    41.3839073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cici",
+                "idFTDNA": "516613",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Drama 661 00, Yunanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.14708,
+                    41.1490021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agovi",
+                "idFTDNA": "558472",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Shkodër"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5032558,
+                    42.0692978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Curkovic",
+                "idFTDNA": "IN20511",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Kazaginac, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01528,
+                    43.61391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skoberne",
+                "idFTDNA": "E17417",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Celje, Slowenien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2677059,
+                    46.23975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stoyanov",
+                "idFTDNA": "IN56458",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "6585 Mandritsa, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1330967,
+                    41.3917732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lazarov",
+                "idFTDNA": "392791",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "4341 Klisura, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4496422,
+                    42.6930656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matic",
+                "idFTDNA": "414034",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Domaljevac, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.589819,
+                    45.0735435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doganalp",
+                "idFTDNA": "462078",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->M512+",
+                "NazwaLokalizacji": "Karakız, 66700 Karakız/Sorgun/Yozgat, Turquie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3554573,
+                    39.80819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jagodić",
+                "idFTDNA": "415467",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY68536",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Gradiška, Bosnia and Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2544231,
+                    45.1466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gigov",
+                "idFTDNA": "343581",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP613",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Milkovitsa, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7316284,
+                    43.6256447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jarić",
+                "idFTDNA": "351765",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS3402",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Ruista, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0220222,
+                    44.16404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galjen",
+                "idFTDNA": "351862",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2608",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "44400, Dragotina, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1824474,
+                    45.25556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jarić",
+                "idFTDNA": "329032",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY68536",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Kom, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0212631,
+                    44.1642456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jakšić",
+                "idFTDNA": "N141119",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2608",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Šibenik, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8952045,
+                    43.73502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rozentāls",
+                "idFTDNA": "B172612",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2609",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Puzes pagasts, LV-3613, Latvija"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0555725,
+                    57.36619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aybasti",
+                "idFTDNA": "B248325",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP3929",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y2613+",
+                "NazwaLokalizacji": "Debar, Macedonia (FYROM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5289,
+                    41.5197563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nevdahs",
+                "idFTDNA": "B216782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y1392",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y33+",
+                "NazwaLokalizacji": "Sititsk, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.57099,
+                    52.0407181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dimitrov",
+                "idFTDNA": "IN54307",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y5647",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y33+",
+                "NazwaLokalizacji": "Bayramlı, Uzunköprü, 22360 Bayramlı Köyü/Uzunköprü/Edirne, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8232327,
+                    41.30692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AKTAN",
+                "idFTDNA": "IN16544",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y1392",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->Y33+",
+                "NazwaLokalizacji": "9900 Yenipazar, Bulgaristan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.19706,
+                    43.3472633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golub",
+                "idFTDNA": "B190521",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y35780",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->YP237+",
+                "NazwaLokalizacji": "Petrovka-2, Donetsk Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.78221,
+                    48.67693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oshurkevich",
+                "idFTDNA": "550709",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP951",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->YP237+",
+                "NazwaLokalizacji": "Хотомель, Беларусь"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.04688,
+                    51.9484138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kadijevic",
+                "idFTDNA": "251078",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L366",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->YP237+",
+                "NazwaLokalizacji": "Mostar, Bósnia-Herzegovina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8,
+                    43.3333321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gologanov",
+                "idFTDNA": "248256",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6186",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->CTS3402->YP237+",
+                "NazwaLokalizacji": "5930 Béléné, Bulgarie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1246357,
+                    43.64451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitrović",
+                "idFTDNA": "IN12547",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP971",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->YP343",
+                "NazwaLokalizacji": "Crna Trava, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3030472,
+                    42.80723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bessonov",
+                "idFTDNA": "626512",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30750",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a->Z280->Z92",
+                "NazwaLokalizacji": "Marmyzhi, Konyshevskiy rayon, Kurskaya oblast', Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3600769,
+                    52.03835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adontic",
+                "idFTDNA": "E15399",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269+",
+                "NazwaLokalizacji": "Bogodol, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.677351,
+                    43.44313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chat",
+                "idFTDNA": "B71238",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y83069",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269+",
+                "NazwaLokalizacji": "Debren, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8229275,
+                    41.58178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Önal",
+                "idFTDNA": "E10930",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269+",
+                "NazwaLokalizacji": "Δοϊράνη, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7606373,
+                    41.17647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vasilev",
+                "idFTDNA": "274480",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PF7563",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269+",
+                "NazwaLokalizacji": "5084 Bebrovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0115089,
+                    42.9500732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levitsky",
+                "idFTDNA": "356093",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269+",
+                "NazwaLokalizacji": "Vasylkiv, Kiev Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.31964,
+                    50.17709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cristea",
+                "idFTDNA": "449362",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY39307",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->L51+",
+                "NazwaLokalizacji": "Cotorca, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8234959,
+                    44.82254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tyuf",
+                "idFTDNA": "493008",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY33316",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->L51+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0288525,
+                    41.58782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dincer",
+                "idFTDNA": "321135",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC32041",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->L51+",
+                "NazwaLokalizacji": "Beyağıl, Ulukışla, Niğde, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.537,
+                    37.551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taylor",
+                "idFTDNA": "B81644",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC46958",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->L51+",
+                "NazwaLokalizacji": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.24389,
+                    53.41291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karcich",
+                "idFTDNA": "N4824",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L11",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->L51+",
+                "NazwaLokalizacji": "Mali Lošinj, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4707613,
+                    44.5307961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shabanagha",
+                "idFTDNA": "M12406",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Bitola, Macedonia (FYROM)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.329216,
+                    41.02968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uzunov",
+                "idFTDNA": "N139072",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY39684",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "4765 Kiselchovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6023617,
+                    41.5257225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pllaha",
+                "idFTDNA": "N175337",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-A12332",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Voskopojë, Albania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5885849,
+                    40.633564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "N118842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH4902",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nochev",
+                "idFTDNA": "N112116",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH2761",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Челопеч, България"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0843258,
+                    42.6998062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zacharatos",
+                "idFTDNA": "527684",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y82752",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Cephalonia, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5692177,
+                    38.17537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radosevich",
+                "idFTDNA": "84697",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z2109",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7167,
+                    45.2753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kum",
+                "idFTDNA": "314859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY38903",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Tsrancha, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1029549,
+                    41.56676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maev",
+                "idFTDNA": "315636",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY39684",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Pazardzhik, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3335667,
+                    42.1927643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velev",
+                "idFTDNA": "331351",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y5586",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "4462 Kalugerovo, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1699,
+                    42.3265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malyshev",
+                "idFTDNA": "239214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY593",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Бехтеевка, Белгородская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2166672,
+                    50.80722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omer",
+                "idFTDNA": "189660",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L23",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.48583,
+                    42.7338829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agovic",
+                "idFTDNA": "479263",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y32147",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Gornja Vrbica, Montenegro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0032787,
+                    42.8777275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haji",
+                "idFTDNA": "393986",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y16145",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Kochan, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0248146,
+                    41.58764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hampartzymyan",
+                "idFTDNA": "343579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY13762",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "Nakhchivan, Azerbaijan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.4122238,
+                    39.20889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nochev",
+                "idFTDNA": "343580",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b->M269->L23->Z2103+",
+                "NazwaLokalizacji": "2087 Chelopech, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0846615,
+                    42.69955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "György",
+                "idFTDNA": "194665",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-CTS933",
+                "PozycjaPrzypisanaPrzezProjekt": "T1a2->L131->L446+",
+                "NazwaLokalizacji": "Tibeni, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0333328,
+                    47.8166656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abulfaraj",
+                "idFTDNA": "240464",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y7",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Medina Saudi Arabia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.62019,
+                    24.4609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kinali",
+                "idFTDNA": "333085",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC30901",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Huma, Samuil, Razgrad, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.73394,
+                    43.46506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fagerström",
+                "idFTDNA": "305672",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC43640",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Gålstad, 467 96 Grästorp, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578,
+                    58.3267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puranen",
+                "idFTDNA": "456859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS4179",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Rautu, Leningradin alue, Venäjä"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.22931,
+                    60.55231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baron",
+                "idFTDNA": "70297",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4078",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jurado",
+                "idFTDNA": "556879",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L51",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "23440 Baeza, Jaén, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4676156,
+                    37.99669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schiff",
+                "idFTDNA": "N107659",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC18215",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "Pîrliţa, Moldova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.87857,
+                    47.33105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enrique",
+                "idFTDNA": "MI30038",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Y3836",
+                "PozycjaPrzypisanaPrzezProjekt": "XXX-Unusual for Balkans",
+                "NazwaLokalizacji": "8800 Tavira, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.643002,
+                    37.13359
+                ]
+            }
+        }
+    ]
+}

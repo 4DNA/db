@@ -1,0 +1,4305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zolotarev",
+                "idFTDNA": "143121",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y35606",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Климовский район, Russian Federation, Province of Bryansk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.16792,
+                    52.27949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Friedman",
+                "idFTDNA": "17923",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP5950",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Spišské Podhradie, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7517033,
+                    49.0000153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slota",
+                "idFTDNA": "182857",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hrabovčík, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5568752,
+                    49.2817345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roth",
+                "idFTDNA": "186760",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lomnička, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5700417,
+                    49.24712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Holmes (R-BY39735)",
+                "idFTDNA": "203545",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "9700 Sao Bartolomeu de Regatos, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.2944927,
+                    38.6753235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kudlac",
+                "idFTDNA": "208629",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "02352 Olešná, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6765251,
+                    49.4230042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czakłosz",
+                "idFTDNA": "238097",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9666672,
+                    52.55
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kammer (Keis)",
+                "idFTDNA": "329536",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Võru, Võrumaa, Viro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9986973,
+                    57.8460732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guyon",
+                "idFTDNA": "337706",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hnilec, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.50231,
+                    48.8435364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenfield",
+                "idFTDNA": "366910",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vienna, Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37382,
+                    48.2081757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harahus",
+                "idFTDNA": "406171",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bukowsko, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0616035,
+                    49.4798851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliver",
+                "idFTDNA": "529005",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Azores, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.6755943,
+                    37.74125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zlobynets",
+                "idFTDNA": "532522",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Тахтаулове, Полтавська область, Україна, 38720"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5345764,
+                    49.6616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kalnik",
+                "idFTDNA": "784913",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Балясне, Полтавська область, Україна"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.33868,
+                    49.8205223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chesky",
+                "idFTDNA": "82263",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2,
+                    50.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pazdziorko",
+                "idFTDNA": "B12367",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rajcza, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1169624,
+                    49.51309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sedo",
+                "idFTDNA": "B229298",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "032 61 Važec, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9801235,
+                    49.0596046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manca",
+                "idFTDNA": "B330310",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z438",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "73047 Monteroni di Lecce, Province of Lecce, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1023312,
+                    40.3253365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pavlick",
+                "idFTDNA": "B78169",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Šambron, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7495975,
+                    49.225563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wargo",
+                "idFTDNA": "B88136",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Michalovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9183865,
+                    48.7556763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kutyba",
+                "idFTDNA": "B9741",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Szczepanów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6547642,
+                    50.0046158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polák",
+                "idFTDNA": "IN49274",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "906 45 Štefanov, Slovensko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2004375,
+                    48.6784248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metsack",
+                "idFTDNA": "N234226",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS3402",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "073 01 Baškovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2054253,
+                    48.78424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galovic",
+                "idFTDNA": "N49063",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Matiašovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3622875,
+                    49.3537865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Csizsmar",
+                "idFTDNA": "N81971",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Békéscsaba, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0867863,
+                    46.6842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dalton",
+                "idFTDNA": "H1103",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-F9992",
+                "PozycjaPrzypisanaPrzezProjekt": "C2b (M217+ F1906+ M48- M86- F3918- F1918-)",
+                "NazwaLokalizacji": "059 02 Slovenská Ves, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4230213,
+                    49.2264824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zimmerman",
+                "idFTDNA": "103044",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M44",
+                "PozycjaPrzypisanaPrzezProjekt": "E1a1 (M44+)",
+                "NazwaLokalizacji": "Also-Kortvelyes, Zemplin, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7727528,
+                    48.806797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malay",
+                "idFTDNA": "105741",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4507",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "06701 Radvaň nad Laborcom, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.926775,
+                    49.13042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maley",
+                "idFTDNA": "108074",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "Radvaň nad Laborcom, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.926775,
+                    49.13042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sameck",
+                "idFTDNA": "237216",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "91601 Stará Turá, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6934776,
+                    48.77916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farrel* (Bio Dzivi)",
+                "idFTDNA": "442342",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5672",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "082 35 Hendrichovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006981,
+                    49.0214767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabany",
+                "idFTDNA": "492356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY28623",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "Bratislava, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.107748,
+                    48.1485977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sameck",
+                "idFTDNA": "33563",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "Stará Turá, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6934776,
+                    48.77916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savalchak",
+                "idFTDNA": "310294",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5610",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": "Znyats'ovo, Zakarpats'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5147228,
+                    48.4833336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pak",
+                "idFTDNA": "N10205",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M78+ V13+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73,
+                    47.95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trebs",
+                "idFTDNA": "144188",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-GG362",
+                "PozycjaPrzypisanaPrzezProjekt": "G1a* (M285+ F1761+ L1324-)",
+                "NazwaLokalizacji": "Čachtice, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7871246,
+                    48.7121544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sovinec",
+                "idFTDNA": "67820",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L142",
+                "PozycjaPrzypisanaPrzezProjekt": "G2* (L142+ P15-) G2a negative, G2b not tested",
+                "NazwaLokalizacji": "Gajary, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.923254,
+                    48.4660835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEDLAK",
+                "idFTDNA": "77376",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+ L13+ L1263+ Z38846+)",
+                "NazwaLokalizacji": "Kassa Jaras, Abauj Megye, Hungary (now just over border in Slovakia)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.248,
+                    48.584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muller",
+                "idFTDNA": "467455",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Y19318",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+ L13+ L1263+ Z38846+)",
+                "NazwaLokalizacji": "Sastin (Slovakia, then Hungary), but should have immigrated from Moravia or even further west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.14301,
+                    48.6386948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hapl",
+                "idFTDNA": "367039",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": "Sikenička, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6818085,
+                    47.9351921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leslie",
+                "idFTDNA": "759929",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY161397",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": "053 15 Hrabušice, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4088135,
+                    48.97561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Obrincsák",
+                "idFTDNA": "167660",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": "Kikinda, Serbia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4652786,
+                    45.8283348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kocis",
+                "idFTDNA": "281674",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": "Ždaňa, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34625,
+                    48.6023026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kiyak",
+                "idFTDNA": "AM13051",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY169307",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": "Regetovka, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2744865,
+                    49.42026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stepanovic",
+                "idFTDNA": "N34933",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13,
+                    48.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tomko",
+                "idFTDNA": "N80047",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": "Vítaz, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9582348,
+                    48.97263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popovich/Friedman",
+                "idFTDNA": "N16360",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S17250",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.78,
+                    49.09
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rakicky",
+                "idFTDNA": "E13436",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M423",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": "Gallandau, Slowakei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7266636,
+                    48.18954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motil",
+                "idFTDNA": "78148",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.67,
+                    49.35
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skorka",
+                "idFTDNA": "625953",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": "Szarvas, 5540 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5526543,
+                    46.8635635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belovic",
+                "idFTDNA": "639714",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A815",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2 (L621+) \"Dinaro-Carpathian\"",
+                "NazwaLokalizacji": "Bratislava, Slovakien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.107748,
+                    48.1485977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brozenec",
+                "idFTDNA": "45673",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2a1a2a (M223+ L1229+)",
+                "NazwaLokalizacji": "Nowa Biala, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.15,
+                    49.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ondeck",
+                "idFTDNA": "269702",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2b (M267+ P58+ predicted) need M267 SNP pack",
+                "NazwaLokalizacji": "Lynden, WA 98264, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.448883,
+                    48.97686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barno",
+                "idFTDNA": "179794",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a3a (M267+ Z1828+ Z1842+)",
+                "NazwaLokalizacji": "Presov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24003,
+                    49.0016747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Resan",
+                "idFTDNA": "45403",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M92",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+)",
+                "NazwaLokalizacji": "Vojany, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9876289,
+                    48.57021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borish",
+                "idFTDNA": "N93774",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M92",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+)",
+                "NazwaLokalizacji": "Lesser Poland Voivodeship, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2503357,
+                    49.72253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bogusky",
+                "idFTDNA": "53787",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M241",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2 (M172+ M12+ M241+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23,
+                    49.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matus",
+                "idFTDNA": "675446",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y23094",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2 (M172+ M12+ M241+)",
+                "NazwaLokalizacji": "906 05 Sobotište, Slovensko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4059,
+                    48.73172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Munko",
+                "idFTDNA": "696852",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY29131",
+                "PozycjaPrzypisanaPrzezProjekt": "N2a1 (P43+ VL67+)",
+                "NazwaLokalizacji": "Turany, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0368366,
+                    49.1166878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jarrow",
+                "idFTDNA": "856624",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y28545",
+                "PozycjaPrzypisanaPrzezProjekt": "N3a3 (M178+ VL29+ L1025+ M2783+)",
+                "NazwaLokalizacji": "072 21 Petrovce nad Laborcom, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8723469,
+                    48.7932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Waskovich",
+                "idFTDNA": "N53117",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M178",
+                "PozycjaPrzypisanaPrzezProjekt": "N3a3 (M178+ VL29+ L1025+ M2783+)",
+                "NazwaLokalizacji": "Žakarovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9245052,
+                    48.87878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prokop",
+                "idFTDNA": "N73847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a (M417+) please order Z283 SNP pack or BigY",
+                "NazwaLokalizacji": "Prešov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24003,
+                    49.0016747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valkuchak",
+                "idFTDNA": "N10521",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a (M417+) please order Z283 SNP pack or BigY",
+                "NazwaLokalizacji": "Scottsdale, Arizona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04,
+                    49.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tarby",
+                "idFTDNA": "771432",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a (M417+) please order Z283 SNP pack or BigY",
+                "NazwaLokalizacji": "053 73 Brutovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7739754,
+                    49.0862465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siska",
+                "idFTDNA": "169691",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a (M417+) please order Z283 SNP pack or BigY",
+                "NazwaLokalizacji": "Ždiar, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2621212,
+                    49.2716446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dutzman",
+                "idFTDNA": "127728",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a (M417+) please order Z283 SNP pack or BigY",
+                "NazwaLokalizacji": "982 62 Levárt, Gomor, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.25432,
+                    48.5134773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mr. Bestvina/ Bestwina",
+                "idFTDNA": "140706",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Jaworzynka, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8697262,
+                    49.5398178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stana",
+                "idFTDNA": "16559",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Beharovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8123722,
+                    49.0041733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dolinak",
+                "idFTDNA": "166371",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L260",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Rokytov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1896267,
+                    49.3171921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lenhart",
+                "idFTDNA": "17932",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Spisska Nova Ves, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5679817,
+                    48.9435272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Besco",
+                "idFTDNA": "198109",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L260",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Sátoraljaújhely, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6559963,
+                    48.3941422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polak",
+                "idFTDNA": "78786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Koňuš, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2646675,
+                    48.774868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hudak",
+                "idFTDNA": "613873",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6476",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Betliar, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5093613,
+                    48.7036972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaz",
+                "idFTDNA": "65812",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M458",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Mád, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2765446,
+                    48.18982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruatti",
+                "idFTDNA": "49250",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "spisak",
+                "idFTDNA": "B122247",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY25708",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Boldogkőváralja, 3885 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2367554,
+                    48.3380623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roehm",
+                "idFTDNA": "E13418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4517",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Flacht, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.913093,
+                    48.8355637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrovic",
+                "idFTDNA": "N71575",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M458+ L260+)",
+                "NazwaLokalizacji": "Dačov Lom, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.24973,
+                    48.32239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mello",
+                "idFTDNA": "84308",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M458+ L1029+)",
+                "NazwaLokalizacji": "Nižná Olšava, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.63264,
+                    49.1437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weiss",
+                "idFTDNA": "567900",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1013",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M458+ L1029+)",
+                "NazwaLokalizacji": "059 78 Veľká Franková, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.29782,
+                    49.33577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Foltin",
+                "idFTDNA": "178255",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY158444",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M458+ L1029+)",
+                "NazwaLokalizacji": "Jászberény, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9147186,
+                    47.500618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valko",
+                "idFTDNA": "13191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP417",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M458+ L1029+)",
+                "NazwaLokalizacji": "Brezova pod Bradlom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.32,
+                    48.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galovic",
+                "idFTDNA": "N49064",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y51769",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b (Z280+ CTS1211+ YP371+) \"Old Carpathian\"",
+                "NazwaLokalizacji": "542, Matiašovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3595772,
+                    49.34942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hurni",
+                "idFTDNA": "N51553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y2613+) \"Carpathian D type\"",
+                "NazwaLokalizacji": "Breznica, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6612663,
+                    49.16158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kozak",
+                "idFTDNA": "N107031",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y2613+) \"Carpathian D type\"",
+                "NazwaLokalizacji": "34-482 Zubrzyca Dolna, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6738415,
+                    49.52506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyke (pajkos)",
+                "idFTDNA": "137766",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y2613+) \"Carpathian D type\"",
+                "NazwaLokalizacji": "Ladomérvágása, Szlovákia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6247177,
+                    49.3295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bahle",
+                "idFTDNA": "171829",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y2613+) \"Carpathian D type\"",
+                "NazwaLokalizacji": "049 42 Lipovník, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6209335,
+                    48.6288147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matviya",
+                "idFTDNA": "211819",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y2613+) \"Carpathian D type\"",
+                "NazwaLokalizacji": "08271 Milpoš, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0036964,
+                    49.1807747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M",
+                "idFTDNA": "222891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "Bana, Magyarország"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9198551,
+                    47.65079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popovecz",
+                "idFTDNA": "26724",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "Svidník, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5683365,
+                    49.3062477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uhrik",
+                "idFTDNA": "117019",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "97662 Brusno, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3891048,
+                    48.79021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kotlarchik",
+                "idFTDNA": "365268",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "Spišská Teplica, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2518368,
+                    49.0483246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liska (BigY & YFull)",
+                "idFTDNA": "492104",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y35408",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "Szarvas, 5540 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5526543,
+                    46.8635635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iglar",
+                "idFTDNA": "N4377",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.23,
+                    49.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uhrik",
+                "idFTDNA": "N49290",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14,
+                    48.73
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pavlichek",
+                "idFTDNA": "N26803",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M459",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (Z280+ CTS1211+ CTS3402+ Y33+ Y2902+) \"Carpathian B type\"",
+                "NazwaLokalizacji": "Perkáta, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.788187,
+                    47.0499039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sidlosky",
+                "idFTDNA": "N83089",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2 (M269+) please order M343 SNP pack or BigY",
+                "NazwaLokalizacji": "06501 Forbasy, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.61636,
+                    49.2984543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dupay",
+                "idFTDNA": "B126878",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2 (M269+) please order M343 SNP pack or BigY",
+                "NazwaLokalizacji": "086 36 Ondavka, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3385849,
+                    49.4363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dobias",
+                "idFTDNA": "59063",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2 (M269+) please order M343 SNP pack or BigY",
+                "NazwaLokalizacji": "90877 Borský Mikuláš, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2071323,
+                    48.629528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sariscak",
+                "idFTDNA": "601358",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2 (M269+) please order M343 SNP pack or BigY",
+                "NazwaLokalizacji": "082 71 Ďačov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.929533,
+                    49.14844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walko",
+                "idFTDNA": "19477",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2 (M269+) please order M343 SNP pack or BigY",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.49,
+                    48.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lukác",
+                "idFTDNA": "233290",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L257",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1b1a1 (U106+ Z19+ L257+)",
+                "NazwaLokalizacji": "Kysucké Nové Mesto, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7866287,
+                    49.3019447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisarik",
+                "idFTDNA": "149103",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L257",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1b1a1 (U106+ Z19+ L257+)",
+                "NazwaLokalizacji": "Andrejová, Slovensko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.33278,
+                    49.3342743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Senko",
+                "idFTDNA": "N13267",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY172021",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1b1a1 (U106+ Z19+ L257+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1333313,
+                    49.05472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruzicka",
+                "idFTDNA": "B13084",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY205963",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1c2 (U106+ Z381+ Z301+)",
+                "NazwaLokalizacji": "906 06 Vrbovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4689522,
+                    48.7995148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krokus",
+                "idFTDNA": "49385",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1c2 (U106+ Z381+ Z301+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.64,
+                    49.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krokus",
+                "idFTDNA": "36905",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z301",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a1c2 (U106+ Z381+ Z301+)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.64,
+                    49.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rekrut",
+                "idFTDNA": "236148",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS5689",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a2a2b1 (P312+ U152+ L2+)",
+                "NazwaLokalizacji": "Podolínec, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5341473,
+                    49.25754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hlivar",
+                "idFTDNA": "482266",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a1a2a2b2 (P312+ U152+ Z36+ L671+)",
+                "NazwaLokalizacji": "Budapest, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0402355,
+                    47.4979134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marflak",
+                "idFTDNA": "N10409",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a2a2 (Z2105+ predicted)",
+                "NazwaLokalizacji": "05375 Hnilec, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.50231,
+                    48.8435364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Feyko",
+                "idFTDNA": "177636",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-F1092",
+                "PozycjaPrzypisanaPrzezProjekt": "R2a (M124+)",
+                "NazwaLokalizacji": "Davidov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6429272,
+                    48.8244972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schneider",
+                "idFTDNA": "265759",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Slovaks with Ashkenazi paternal line",
+                "NazwaLokalizacji": "Bratislava, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1071377,
+                    48.1458931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jacobs",
+                "idFTDNA": "80193",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Slovaks with Ashkenazi paternal line",
+                "NazwaLokalizacji": "Szolnok, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.17628,
+                    47.1746635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noviczky",
+                "idFTDNA": "N212935",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-S12192",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Slovaks with Ashkenazi paternal line",
+                "NazwaLokalizacji": "082 57 Olejníkov, Slowakei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0642567,
+                    49.1817665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pecka",
+                "idFTDNA": "N22372",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "675 27 Štěměchy, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7142477,
+                    49.19352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ikonen",
+                "idFTDNA": "N37846",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.43,
+                    62.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schepak",
+                "idFTDNA": "N4025",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z17107",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Темрюкский район, Russian Federation, Region of Krasnodar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2264,
+                    45.2610931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flanders",
+                "idFTDNA": "N27830",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z31300",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Suffolk, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9707801,
+                    52.18725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polivach",
+                "idFTDNA": "N31703",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-M70",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.56,
+                    52.12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Horvat",
+                "idFTDNA": "N49136",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02,
+                    46.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hraba",
+                "idFTDNA": "N72607",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L20",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "282 01 Přistoupim, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8789339,
+                    50.0606346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "meiron",
+                "idFTDNA": "N55799",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Vilnius, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2800236,
+                    54.68939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kodre",
+                "idFTDNA": "N93067",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "1386 Lož, Slovenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4681587,
+                    45.7237854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reimer",
+                "idFTDNA": "N7393",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Malbork County, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0336723,
+                    54.0860443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frye",
+                "idFTDNA": "N76863",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Lilla Moo, Mellby, Jönköping, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4666,
+                    58.0333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuczawski",
+                "idFTDNA": "N78613",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M178",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Gmina Chrzanów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3995285,
+                    50.1441841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shomin",
+                "idFTDNA": "N94988",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Jugovac, Žakanje, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3721085,
+                    45.5853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seklani",
+                "idFTDNA": "T1895",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L241",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Tunisie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.537499,
+                    33.8869171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sandhu",
+                "idFTDNA": "U2321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L657",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Punjab 144701, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.3025,
+                    31.1559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poster",
+                "idFTDNA": "E6269",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Nonnewitz, 06711 Zeitz, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1236,
+                    51.09224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Başdoğan",
+                "idFTDNA": "IN53917",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Solokhaul, Krasnodar Krai, Rusya, 354237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6764832,
+                    43.7991447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kvach",
+                "idFTDNA": "MI41685",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Старосілля, Волинська область, Україна"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6500263,
+                    51.09782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zalewski",
+                "idFTDNA": "N18451",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Krotoschin, Löbau, Westpreussen, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3932419,
+                    53.5010834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Özel",
+                "idFTDNA": "N14671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rusya, Adigey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2161865,
+                    44.4542427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lape",
+                "idFTDNA": "B161055",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY6357",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "East Hampton, NY 11937, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1848,
+                    40.9634323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nevdahs",
+                "idFTDNA": "B216782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y1392",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Sititsk, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.57099,
+                    52.0407181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Strandberg",
+                "idFTDNA": "853055",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "873 30 Ytterlännäs, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6852264,
+                    63.00615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hraber",
+                "idFTDNA": "B108721",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3153",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Pomonyata, Ivano-Frankivs'ka oblast, Ukraine, 77032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4369278,
+                    49.3964424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K",
+                "idFTDNA": "E10639",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.71289,
+                    37.09024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grigorash",
+                "idFTDNA": "B337221",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP5222",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Tulukiv, Ivano-Frankivs'ka oblast, Ukraine, 78340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3140221,
+                    48.46418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Griskey",
+                "idFTDNA": "B5185",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-FGC13372",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Wiłkopedzie, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.279932,
+                    54.1942177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urusov",
+                "idFTDNA": "333648",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y32090",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Верхний Учкулан, Карачаево-Черкесская Република, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.0583267,
+                    43.44088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de Mello",
+                "idFTDNA": "271488",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rua Uruguai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.243084,
+                    -22.92903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walsh",
+                "idFTDNA": "316866",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Meath, Co. Meath, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.656417,
+                    53.60555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Johnson",
+                "idFTDNA": "321321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY4242",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weyant",
+                "idFTDNA": "374180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y17444",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Bedford, PA 15522, Сполучені Штати Америки"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.50391,
+                    40.018692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrowski",
+                "idFTDNA": "389729",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A7358",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Khrabuzna, Khmel'nyts'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.492,
+                    49.931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kleiman c/o Kristen Simmons",
+                "idFTDNA": "395506",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS2361",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Pidvolochys'k, Ternopil's'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1416988,
+                    49.5290833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popovych",
+                "idFTDNA": "405701",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Чорні Ослави, Івано-Франківська область, Україна"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.74611,
+                    48.45972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEDIMINID ROYAL PRINC",
+                "idFTDNA": "353043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY21908",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Vilnius, Lietuvos Respublika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polomij",
+                "idFTDNA": "353767",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Диканька, Полтавський полк, Військо Запорізьке"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.4520454,
+                    49.82961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levitsky",
+                "idFTDNA": "356093",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Vasylkiv, Kiev Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.31964,
+                    50.17709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "364732",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Kilkenny Castle, Kilkenny, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.249298,
+                    52.6504631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Korchane",
+                "idFTDNA": "486597",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2633",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Bizerte, Tunisie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.862724,
+                    37.2746124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rego Neto",
+                "idFTDNA": "518443",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Viana do Castelo, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.83441,
+                    41.6918259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vojticek",
+                "idFTDNA": "52002",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP371",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Lipnica Mala, Galicia,Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38,
+                    49.32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orochena",
+                "idFTDNA": "36892",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "León, Nicaragua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8722153,
+                    12.4315538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernas",
+                "idFTDNA": "464438",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gauss",
+                "idFTDNA": "48102",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.567,
+                    45.26907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zalewski",
+                "idFTDNA": "60563",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Warsaw, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.012228,
+                    52.2296753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ochkas",
+                "idFTDNA": "634321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y128286",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Ярмаки, Полтавская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.493515,
+                    49.90834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ankushev",
+                "idFTDNA": "644559",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M12335",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Зюбриха, Черкасская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0148125,
+                    49.09454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petkovic",
+                "idFTDNA": "571847",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S17250",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Горњи Рињ, Србија"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2892551,
+                    43.3109055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rauch",
+                "idFTDNA": "57872",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP380",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rudolstadt, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.346,
+                    50.72
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Javitt",
+                "idFTDNA": "58181",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-S12192",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.951,
+                    29.556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosneck",
+                "idFTDNA": "56442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC19283",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rostajne, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4333324,
+                    49.4833336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forys",
+                "idFTDNA": "536380",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Szówsko, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7114658,
+                    50.0497131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deigan",
+                "idFTDNA": "7894",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY32839",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Castlewarren, Co. Kilkenny, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.102736,
+                    52.71171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schoemann",
+                "idFTDNA": "82698",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-L245",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rhineland-Palatinate, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.308953,
+                    50.1183472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sobers",
+                "idFTDNA": "859413",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Shamokin, PA 17872, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5588455,
+                    40.7889748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lowen",
+                "idFTDNA": "860478",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-A20849",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Velymche, Volyns'ka oblast, Ukraine, 44164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7387753,
+                    51.5797348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyka",
+                "idFTDNA": "866335",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Poland and Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pietsch",
+                "idFTDNA": "99970",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Dresden, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7396746,
+                    51.0491333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KHUTORIANSKYI",
+                "idFTDNA": "742192",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Батьки, Опішнянська сотня, Гадяцький полк"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5727577,
+                    50.02618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sulyma",
+                "idFTDNA": "780941",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Великі Будища, Великобудищанська сотня, Полтавський полк"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5811462,
+                    49.8632927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Felten",
+                "idFTDNA": "178249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M67",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Wangen, 44 Rue des Vignerons, 67520 Wangen, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.46751356,
+                    48.618248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barach",
+                "idFTDNA": "177090",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC22054",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Podlapaca, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.633585,
+                    44.5798836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fincke",
+                "idFTDNA": "170376",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC79327",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Göttingen, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.915804,
+                    51.54128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riha",
+                "idFTDNA": "170521",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Z16980",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Minice, Česká republika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0121393,
+                    49.4898453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dohanich",
+                "idFTDNA": "153308",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P312",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Drohobych, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5110073,
+                    49.34834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lapinski",
+                "idFTDNA": "157639",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Pomiechowo, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7354031,
+                    52.4676743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suda",
+                "idFTDNA": "159318",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-DF98",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Großkrut, Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7247276,
+                    48.64411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krayı, Rusya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marus",
+                "idFTDNA": "164877",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1701",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Slavkovichi, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4833,
+                    52.7167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hurgoi",
+                "idFTDNA": "118487",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Gyula, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2688084,
+                    46.642498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wagner",
+                "idFTDNA": "126374",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Luxemburg, Luxemburg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129596,
+                    49.6100044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kubasiak",
+                "idFTDNA": "109222",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1182",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Juncewo, Kujawsko-Pomorskie, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5256119,
+                    52.8345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nowicki",
+                "idFTDNA": "116518",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1337",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "17-132 Mulawicze, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0836086,
+                    52.8667374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chigas",
+                "idFTDNA": "107343",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L23",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Trikala, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7600136,
+                    39.56162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kupec",
+                "idFTDNA": "100044",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wood",
+                "idFTDNA": "102127",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY17152",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9,
+                    41.81
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gurevich Varnavatii",
+                "idFTDNA": "132416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V22",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Odesa, Odes'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7326,
+                    46.4845848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Verba",
+                "idFTDNA": "136150",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Y56250",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2,
+                    45.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orinick",
+                "idFTDNA": "146289",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Żegiestów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8069019,
+                    49.3782234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miller",
+                "idFTDNA": "147146",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Tylawa, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.69671,
+                    49.4671745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pilat",
+                "idFTDNA": "239065",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-CTS8173",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "37-470 Irena, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0520439,
+                    50.7583733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walko",
+                "idFTDNA": "24709",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M459",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Subcarpathia, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.08957,
+                    50.057476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maxelon",
+                "idFTDNA": "249444",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "47-134 Błotnica Strzelecka, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41074,
+                    50.48881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuehn",
+                "idFTDNA": "259864",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S15510",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "North Rhine-Westphalia, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.661594,
+                    51.4332352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Durall",
+                "idFTDNA": "26059",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-A9029",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Duplin, North Carolina, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.01954,
+                    34.88401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Svehlak",
+                "idFTDNA": "26769",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP5243",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Vrbětice 136, 763 24 Vlachovice, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9427757,
+                    49.1164627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glueck",
+                "idFTDNA": "284378",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L243",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Wieliczka, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0647964,
+                    49.98706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walko",
+                "idFTDNA": "29041",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15,
+                    47.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Draghici",
+                "idFTDNA": "29149",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC12346",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Cujmir, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9275131,
+                    44.21008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paziorko",
+                "idFTDNA": "300932",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-M70",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rajcza, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1181316,
+                    49.5139351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lieberman",
+                "idFTDNA": "223082",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "E 23rd St, New York, NY 10010, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98091,
+                    40.7378922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krueger",
+                "idFTDNA": "225200",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC24444",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "67030 Villetta Barrea L'Aquila, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9342632,
+                    41.7756577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goldman",
+                "idFTDNA": "227974",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Slavuta, Khmel'nyts'ka oblast, Ukraine, 30000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8666668,
+                    50.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drottner",
+                "idFTDNA": "228558",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Příbor, Česká republika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1449966,
+                    49.640934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Evans",
+                "idFTDNA": "213201",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56738,
+                    41.87194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lowery",
+                "idFTDNA": "218514",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z326",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Alb-Donau-Kreis, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733249,
+                    48.42771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ночевной",
+                "idFTDNA": "222813",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L654",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Тейково, Ивановская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.52954,
+                    56.85399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pazdziorko",
+                "idFTDNA": "182724",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-CTS6507",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "Rajcza, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.113039,
+                    49.50945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dramshek",
+                "idFTDNA": "187505",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA not from Slovakia",
+                "NazwaLokalizacji": "present day Slovenia, could be entered as Yugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9954634,
+                    46.15124
+                ]
+            }
+        }
+    ]
+}

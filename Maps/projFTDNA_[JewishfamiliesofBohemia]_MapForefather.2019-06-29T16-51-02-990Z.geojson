@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weisskopf",
+                "idFTDNA": "177210",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY268",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Bohemia, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4416056,
+                    48.9457779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fuerth",
+                "idFTDNA": "247541",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y13511",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Böhmerwald"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2324057,
+                    49.14895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porges",
+                "idFTDNA": "107825",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14,
+                    50
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lowe",
+                "idFTDNA": "425039",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tuczno (Tütz, West Prussia), Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1559,
+                    53.19462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aranda",
+                "idFTDNA": "857695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY1371",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Val D'Aran, Lérida, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.79563,
+                    42.7018967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyka",
+                "idFTDNA": "866335",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Poland and Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erlich",
+                "idFTDNA": "B344792",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nyzhniv, Ivano-Frankivs'ka oblast, Ukraine, 78013"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0966663,
+                    48.945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bazzell",
+                "idFTDNA": "B346615",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Z19969",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kerz 557070, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5656853,
+                    45.7906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Munits",
+                "idFTDNA": "542767",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Braslav, Novo-Aleksandrovsk, Kovno, Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.06371,
+                    55.62964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kajava",
+                "idFTDNA": "663354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY84621",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup N",
+                "NazwaLokalizacji": "Kuusamo, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1886654,
+                    65.9645844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schoenberg",
+                "idFTDNA": "116134",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY16148",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R",
+                "NazwaLokalizacji": "Szécsény, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5196285,
+                    48.0811234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "364732",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R",
+                "NazwaLokalizacji": "Kilkenny Castle, Kilkenny, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.249298,
+                    52.6504631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glaser",
+                "idFTDNA": "391547",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R",
+                "NazwaLokalizacji": "Tukums, Tukuma pilsēta, Latvia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.15319,
+                    56.9696655
+                ]
+            }
+        }
+    ]
+}

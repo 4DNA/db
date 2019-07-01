@@ -1,0 +1,2225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1d3a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.766667,
+                    51.2833328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vaŭkavysk, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4666672,
+                    53.1666679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2w",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jalapa, Guatemala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.96268,
+                    14.6121445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U7a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Butrimonys, Alytaus savivaldybė 64061, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2520027,
+                    54.5015831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c14",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Satu Mare, Transylvania, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8575935,
+                    47.80167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b2a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Warsaw, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.012228,
+                    52.2296753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nemesbikk, 3592 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.966116,
+                    47.8876877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Central City, PA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.80196,
+                    40.1106339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bollnäs Ö, Ruotsi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5679,
+                    61.2286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "076 41 Dobrá, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0277214,
+                    48.4121475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pontevedra, Pontevedra, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64462,
+                    42.4298859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c14",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sárospatak, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5687313,
+                    48.3196945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kharkiv, Kharkiv Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.2303848,
+                    49.9935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Uruguay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.7658348,
+                    -32.5227776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vámosgyörk, 3291 Magyarország"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9248219,
+                    47.68501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ermihalyfalva, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1264629,
+                    47.5226479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H15a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jutland, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20105,
+                    55.62955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "La Esperanza, Arecibo 00612, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.74684,
+                    18.3818932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "34393 Grebenstein, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.410264,
+                    51.4472122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kaunas, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9035969,
+                    54.89852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.640815,
+                    51.4516029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1c3b1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Paracatu - MG, 38600-000, Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.8711357,
+                    -17.217453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Åsnes kommun, Norge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0108576,
+                    60.6131973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5500717,
+                    47.51623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1n-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Graz, Österreich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4395037,
+                    47.070713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Wilkes County, GA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7778549,
+                    33.8082657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vargata, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8039589,
+                    46.57793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kerékteleki, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9390278,
+                    47.5151863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jonkoping County, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3439169,
+                    57.370842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Russian Federation"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.318756,
+                    61.52401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A-T152C!-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": "A",
+                "NazwaLokalizacji": "Oradea, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.94151,
+                    47.05792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Topeka, KS, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.68902,
+                    39.0558243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Kaliningrad, Kaliningrad Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5,
+                    54.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Calatayud, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.64700866,
+                    41.35432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H39",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Asperjoc, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354119,
+                    44.6987724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Nyírjákó, 4541 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0752468,
+                    48.02832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Hajdúböszörmény, הונגריה"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.507618,
+                    47.6732368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7e",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Henley-on-Thames, Oxfordshire RG9, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.902894,
+                    51.5357628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5c2",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "סבליאבה, זקרפטסקה, אוקראינה, 89300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.98611,
+                    48.5472221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a4a",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Devon, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.999461,
+                    50.7772141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3w",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Sniatyn, Ivano-Frankivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5666676,
+                    48.45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Furta, 4141 Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.467,
+                    47.133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Central City, KY 42330, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.12234,
+                    37.2837448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Norge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.468946,
+                    60.472023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Isle of Lewis, United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.667202,
+                    58.24361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Cikó, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.56151,
+                    46.25932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Tarcal, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3471985,
+                    48.12691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H40b",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5,
+                    47.52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.74,
+                    40.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7e",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Dnepropetrovsk, Ucrania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.13789,
+                    48.42289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c2",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Sambor, Sambir, L'vivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2145,
+                    49.5157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.04,
+                    30.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": "87-600 Lipno, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1784134,
+                    52.8441467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV16",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": "Augustów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9605541,
+                    53.7783127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": "Sopronhorpács, Ungarn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7359066,
+                    47.4831848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": "HV",
+                "NazwaLokalizacji": "gerouk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.092865,
+                    26.5877323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "I",
+                "NazwaLokalizacji": "Ramocsaháza, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9883,
+                    48.03998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I",
+                "PozycjaPrzypisanaPrzezProjekt": "I",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6295033,
+                    47.4945831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I",
+                "PozycjaPrzypisanaPrzezProjekt": "I",
+                "NazwaLokalizacji": "Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5500717,
+                    47.51623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "I",
+                "NazwaLokalizacji": "Satu Mare, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8762245,
+                    47.7868042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2c1",
+                "PozycjaPrzypisanaPrzezProjekt": "J",
+                "NazwaLokalizacji": "Isle of Wight, Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68747,
+                    36.92889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "J",
+                "NazwaLokalizacji": "Neilston, East Renfrewshire Scotland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42488337,
+                    55.7854958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "J",
+                "NazwaLokalizacji": "Devon, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.999461,
+                    50.7772141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Derna, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3124847,
+                    47.20331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.48,
+                    49.02
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "DJ109K, Oraşu Nou, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2947178,
+                    47.8383369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Fredonia, KS 66736, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8266449,
+                    37.53394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a9",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Moscow, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62368,
+                    55.7496452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Satu Mare, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.88519,
+                    47.79209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Ady Endre, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6144428,
+                    47.5814056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a2",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Slovenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9954634,
+                    46.15124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1f",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "340 21 Janovice nad Úhlavou-Veselí, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2033453,
+                    49.3497925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Gomel, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9606323,
+                    52.4252853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Györ, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63815,
+                    47.67831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Kėdainiai, LIthuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.973135,
+                    55.2893562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Uman, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2240925,
+                    48.7453537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Beresti-Trig, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.67,
+                    46.23
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": "Ilova, Croatia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84,
+                    45.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "K",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32,
+                    48.16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M",
+                "PozycjaPrzypisanaPrzezProjekt": "M",
+                "NazwaLokalizacji": "Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.3451157,
+                    30.37532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M1a1b1c",
+                "PozycjaPrzypisanaPrzezProjekt": "M",
+                "NazwaLokalizacji": "Vynohradivs'kyi district, Zakarpats'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0318184,
+                    48.1198235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N1b",
+                "PozycjaPrzypisanaPrzezProjekt": "N",
+                "NazwaLokalizacji": "Brody, L'vivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.15,
+                    50.0833321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N9a",
+                "PozycjaPrzypisanaPrzezProjekt": "N",
+                "NazwaLokalizacji": "Nerchinsk, Zabaykalsky Krai, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.58,
+                    51.98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N1b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "N",
+                "NazwaLokalizacji": "Brid, Zakarpats'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.005,
+                    48.34639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.227512,
+                    46.8181877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1j",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Budapest, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0407581,
+                    47.4984055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4f",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Co. Cavan, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.36089563,
+                    53.99421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Hanover, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.735686,
+                    52.3720665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1j",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Milas, Muğla Province, Turkey (formerly Ottoman Empire)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.77973,
+                    37.31691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Veľký Slavkov, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2811,
+                    49.0962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.33,
+                    46.18
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1b",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5500717,
+                    47.51623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1b",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Poruba pod Vihorlatom, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.137249,
+                    48.8250923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Marijampolė, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3498116,
+                    54.55781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1b",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Miskolc, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.791357,
+                    48.1043854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Alsfeld, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.26916,
+                    50.7508278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U6a1",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Utuado 00641, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.7004547,
+                    18.2655087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U7",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Tapolca, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4413586,
+                    46.88289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Sassenheim, The Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.52004957,
+                    52.2246475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Kerecsend, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3465786,
+                    47.796917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1f1a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V13",
+                "PozycjaPrzypisanaPrzezProjekt": "V",
+                "NazwaLokalizacji": "Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "X",
+                "NazwaLokalizacji": "Brezovica, 9225 Velika Polana, Slovenia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33532,
+                    46.59402
+                ]
+            }
+        }
+    ]
+}

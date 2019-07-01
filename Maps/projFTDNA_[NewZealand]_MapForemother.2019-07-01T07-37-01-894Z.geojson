@@ -1,0 +1,3405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.54120147,
+                    53.9915047
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dixon",
+                "idFTDNA": "IN66716",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c8a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "West Yorkshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.1354229,
+                    52.6817169
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Boekman",
+                "idFTDNA": "N42188",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Leverington, Cambridgeshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.21,
+                    -33.87
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Middleton",
+                "idFTDNA": "N46255",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.970721,
+                    56.4620171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Foss",
+                "idFTDNA": "MI35646",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Dundee, Scotland, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.006044,
+                    55.1563759
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Foss",
+                "idFTDNA": "MI35647",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Kirkwhelpington, Newcastle upon Tyne NE19 2RY, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.699932,
+                    52.27131
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cournane (admin  Josephine Ormsby)",
+                "idFTDNA": "N130087",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Tralee, Co. Kerry, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.909761,
+                    54.7318268
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nelson",
+                "idFTDNA": "N207827",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3i",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Slieve True, Carrickfergus BT38 8QH, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.2806041,
+                    53.13697
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brown",
+                "idFTDNA": "IN41569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V24",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Martin, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1277583,
+                    51.50735
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "O'Connor",
+                "idFTDNA": "IN42061",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a24a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Poplar, London, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.68795443,
+                    50.56385
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Prout",
+                "idFTDNA": "IN31826",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "St Breward, Bodmin PL30, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.525864,
+                    -34.73415
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "CAMERON",
+                "idFTDNA": "IN20719",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Kangaroo Valley NSW 2577, Australia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.596393,
+                    51.44758
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kennedy",
+                "idFTDNA": "IN26076",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Ramsbury, Marlborough SN8, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.02127,
+                    53.29823
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dawson",
+                "idFTDNA": "IN28235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Caulagh Castlegar , Co. Galway, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.25722265,
+                    55.8656273
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jacob",
+                "idFTDNA": "E4440",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V10a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Glasgow, Vereinigtes Königreich"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.457947,
+                    51.11306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pegram",
+                "idFTDNA": "B427209",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b19",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Goudhurst, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.3238,
+                    -42.8819046
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Martin",
+                "idFTDNA": "B81005",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2b1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Hobart TAS, Australia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.077357,
+                    50.8373566
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall",
+                "idFTDNA": "B91672",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Stockland, Honiton, Devon EX14, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.36815071,
+                    49.5431633
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "K",
+                "idFTDNA": "N74276",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Remich, Luxembourg"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.465134,
+                    -31.9558582
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Menzies",
+                "idFTDNA": "N93202",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Broken Hill NSW 2880, Australia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.04649067,
+                    54.4474564
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stoddard",
+                "idFTDNA": "B67744",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Hillsborough, Down, Northern, Ireland, BT26, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.410364,
+                    53.0000267
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Heddle",
+                "idFTDNA": "B3490",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c4c",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Co. Wicklow, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.187115,
+                    55.3913155
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McNicol",
+                "idFTDNA": "B294698",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "New Cumnock, Cumnock KA18, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.25724745,
+                    55.8478279
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ramírez",
+                "idFTDNA": "B23658",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I3c",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "34 Pollokshaws Rd, Glasgow, Glasgow City G41 1PX, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.359766,
+                    51.7718925
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Woolston Cameron Cannon",
+                "idFTDNA": "B201766",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U8a1a3",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "UK 1803"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.088378,
+                    52.49171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Baird",
+                "idFTDNA": "B129248",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Netherton, Dudley, Worcestershire, England"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.6375,
+                    35.3197975
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lyons",
+                "idFTDNA": "690200",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Petersburg, TN 37144, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.48505437,
+                    51.78594
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lean",
+                "idFTDNA": "B101113",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ba",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Witney, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Calvert",
+                "idFTDNA": "B103449",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3a2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Yorkshire, England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.49192333,
+                    51.2111969
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Read",
+                "idFTDNA": "750376",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a6",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Andover, Hampshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.571,
+                    52.222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fischer",
+                "idFTDNA": "73056",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W5a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Denham, Bury Saint Edmunds, Suffolk IP29 5EN, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.684586,
+                    -37.1332664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Doney",
+                "idFTDNA": "608193",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4a1a1m1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Thames-Coromandel District, Waikato, New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.850067,
+                    19.69243
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "NAVES",
+                "idFTDNA": "608544",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4a1a1m1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "North Kona, HI, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.025437,
+                    52.2598152
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hamilton",
+                "idFTDNA": "634380",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Boxworth, Cambridge CB23 4NB, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.432207,
+                    55.60003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stoddard",
+                "idFTDNA": "579739",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b11",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Kelso TD5, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.519932,
+                    37.3925819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jurado",
+                "idFTDNA": "556879",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "18550 Iznalloz, Granada, España"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.213749,
+                    46.22764
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brown",
+                "idFTDNA": "567203",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "France"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.268162,
+                    53.7592621
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McCaffery",
+                "idFTDNA": "568658",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ag1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Roscommon, Co. Roscommon, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.578807,
+                    50.3525162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "PYCROFT",
+                "idFTDNA": "554089",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Dartmouth, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5660858,
+                    35.8031921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Collison",
+                "idFTDNA": "527028",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a2b3",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Wake County, NC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.178,
+                    52.9226
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barclay",
+                "idFTDNA": "538178",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Bicker, Lincolnshire UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.22627258,
+                    57.5359268
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johnston",
+                "idFTDNA": "539663",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3g",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Skye, United Kingdom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.01218808,
+                    51.8814468
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Holland",
+                "idFTDNA": "520610",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Grendon Underwood"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.122745,
+                    53.3093033
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hewett",
+                "idFTDNA": "512715",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3af",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Worksop, Worksop, Nottinghamshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.14265633,
+                    50.3754578
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Warn-Screach",
+                "idFTDNA": "509547",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1aw",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Plymouth, Plymouth, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.353993,
+                    50.8092155
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Maben-Whear",
+                "idFTDNA": "509558",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H11a8",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Holsworthy, Holsworthy, Devon EX22, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.07890892,
+                    51.28023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McCaughan",
+                "idFTDNA": "506300",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a9",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Canterbury, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.780405,
+                    52.68588
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Forrestall",
+                "idFTDNA": "494044",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3ad",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Myshall, Co. Carlow, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    172.63623,
+                    -43.5320549
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "TIBBLE",
+                "idFTDNA": "481635",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c5",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Christchurch, New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.60779,
+                    18.3526134
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "APPLETON (ECCLES)",
+                "idFTDNA": "454492",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b1a3",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Trelawny Parish, Jamaica"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.287926,
+                    53.855
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Collett",
+                "idFTDNA": "444385",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Castlebar, Co. Mayo, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.570371,
+                    51.3209763
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Farrelly",
+                "idFTDNA": "464068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Horsell, Woking, Surrey, England"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.60519075,
+                    57.7651253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Reid",
+                "idFTDNA": "449415",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Poolewe, Achnasheen IV22, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.045685,
+                    -28.86424
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cole",
+                "idFTDNA": "424830",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10e",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Casino, NSW, Australia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.201322,
+                    53.00251
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McMullen",
+                "idFTDNA": "425771",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Bulwell, Nottingham, Nottingham NG6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.692054,
+                    53.14237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "forrestal",
+                "idFTDNA": "430575",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.396615,
+                    51.14844
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cole",
+                "idFTDNA": "293749",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H11a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Brenchley, Kent TN12, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.202646,
+                    56.4906731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Frampton",
+                "idFTDNA": "364357",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bs",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Scotland, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.64462,
+                    42.4298859
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "BRITO",
+                "idFTDNA": "411751",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Pontevedra, Pontevedra, Spain"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.734577,
+                    53.58186
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kane",
+                "idFTDNA": "417060",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Fulstone, Holmfirth HD9 7DL, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.875019,
+                    51.1464653
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tutt Brown",
+                "idFTDNA": "381734",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Ashford, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.226666,
+                    50.23302
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thornton",
+                "idFTDNA": "387566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bs",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Redruth, Cornwall, England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.296254,
+                    52.757843
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hall",
+                "idFTDNA": "390788",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV-T16311C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Terrington Saint Clement, King's Lynn, Norfolk PE34, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.068678,
+                    55.68381
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Young",
+                "idFTDNA": "378019",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Avondale, Lanarkshire, Scotland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0264139,
+                    51.48156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Spinner",
+                "idFTDNA": "373994",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1n-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Deptford, London SE8, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.210535,
+                    52.3860741
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brelsford",
+                "idFTDNA": "357808",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Witchford, Ely, Cambridgeshire CB6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.38319,
+                    43.6532249
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Heckenlaible",
+                "idFTDNA": "356639",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2a2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Toronto, ON, Canada"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.224499,
+                    50.9785652
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hunter",
+                "idFTDNA": "353958",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0f",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Wellington, Somerset, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.5762361,
+                    51.41905
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lynch",
+                "idFTDNA": "346882",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a2a2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Hoo St. Werburgh, Medway, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.530875,
+                    50.71556
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "B",
+                "idFTDNA": "307354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3f",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Devon, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.24478769,
+                    52.6541443
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coakley",
+                "idFTDNA": "340379",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1g1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Kilkenny, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.734609,
+                    57.0622978
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Findlay",
+                "idFTDNA": "342429",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Birse, Aboyne AB34 5BY, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.2603097,
+                    53.3498039
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coakley",
+                "idFTDNA": "326023",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Somewhere in Ireland (daughter born Dublin)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.05271244,
+                    50.26605
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alexander",
+                "idFTDNA": "329464",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Cornwall, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.24389,
+                    53.41291
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tomlinson",
+                "idFTDNA": "330968",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V-C72T!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0477249,
+                    51.5159836
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bishop",
+                "idFTDNA": "332418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b3b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Stepney, London E1, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.79846954,
+                    52.9551773
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jack",
+                "idFTDNA": "332509",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Roscrea, Co. Tipperary, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1379954,
+                    51.5202065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Critchley",
+                "idFTDNA": "296139",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "middlesex, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1,
+                    54
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thompson",
+                "idFTDNA": "295566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H47a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Yorkshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.435973,
+                    55.37805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coates",
+                "idFTDNA": "291594",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H82",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Kent, United Kingdom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.36725426,
+                    52.9862328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sykes",
+                "idFTDNA": "291569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2f5",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Wicklow, Co. Wicklow, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.963287,
+                    -37.814106
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walker",
+                "idFTDNA": "291589",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H66a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Melbourne VIC, Australia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1999702,
+                    53.21788
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gilbert",
+                "idFTDNA": "290048",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Lincolnshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.013443,
+                    51.4494438
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dixon",
+                "idFTDNA": "291554",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Lee, London Borough of Lewisham, London, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.91697454,
+                    54.57564
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lundy",
+                "idFTDNA": "286779",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Belfast, Antrim, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.84198,
+                    51.22669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Willis",
+                "idFTDNA": "275376",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Blackford, Somerset BS28, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.809727,
+                    57.4319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cole",
+                "idFTDNA": "276027",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Applecross, Strathcarron, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.223774,
+                    49.539753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Grant-Taylor",
+                "idFTDNA": "263770",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Großkarlbach, Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.049123,
+                    50.857357
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Power",
+                "idFTDNA": "253733",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H81",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Widley, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.53177643,
+                    52.9360237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "England",
+                "idFTDNA": "236599",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Cranareen, Co. Wicklow, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.202646,
+                    56.4906731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Manning",
+                "idFTDNA": "242544",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2a2",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Scotland, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.20724964,
+                    54.719532
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thomson",
+                "idFTDNA": "210819",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2o",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Antrim BT41, Northern Ireland,  UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.53929281,
+                    53.3122826
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Verrall",
+                "idFTDNA": "229701",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Antrobus, Cheshire West and Chester CW9, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.71941662,
+                    57.1621437
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Murphy",
+                "idFTDNA": "196677",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Aberdeenshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.2107,
+                    40.66399
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rogers",
+                "idFTDNA": "199936",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H24a",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Elizabeth, NJ, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.8864021,
+                    52.6139679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wills",
+                "idFTDNA": "193444",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Norfolk, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.299475,
+                    52.3872375
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "McIntosh (T629662)",
+                "idFTDNA": "179930",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2b-T226C",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Abbeyfeale, Co. Limerick, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.788536,
+                    50.7393
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mac Isaac",
+                "idFTDNA": "181124",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Symondsbury, Dorset DT6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.077316,
+                    51.5173
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "COOK",
+                "idFTDNA": "157367",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Middlesex, London, England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.669331,
+                    52.8243141
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kellaway",
+                "idFTDNA": "15961",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Skillington, Grantham NG33 5HQ, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.4623,
+                    57.5389328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Turner",
+                "idFTDNA": "132392",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Turriff AB53, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.570305,
+                    51.23645
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "King",
+                "idFTDNA": "112546",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Guildford, Surrey, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.07841372,
+                    55.2082558
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cooze",
+                "idFTDNA": "114180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Northumberland, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.46058941,
+                    52.1314125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fischer",
+                "idFTDNA": "115015",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b3g",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": "Stradbally, Co. Waterford, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.762,
+                    50.972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sewell",
+                "idFTDNA": "116346",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "1.  Arrival details of DIRECT female maternal ancestor needed",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    175.437561,
+                    -38.0594254
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lee",
+                "idFTDNA": "458680",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4a1a1m1",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Ancestors arriving in Aotearoa",
+                "NazwaLokalizacji": "Taupiri Waikato, New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    178.065033,
+                    -17.7133713
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cassels",
+                "idFTDNA": "512737",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4a1a1u",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Ancestors arriving in Aotearoa",
+                "NazwaLokalizacji": "Fiji"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    174.194962,
+                    -41.06372
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "TIPUNA",
+                "idFTDNA": "MI22497",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4a1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Ancestors arriving in Aotearoa",
+                "NazwaLokalizacji": "Otaki 7282, New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    174.26062,
+                    -35.2329865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Herewini",
+                "idFTDNA": "N100484",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Ancestors arriving in Aotearoa",
+                "NazwaLokalizacji": "Rawhiti 0184, New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.5509269,
+                    51.88009
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Armstrong",
+                "idFTDNA": "509330",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "Braintree, Essex, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0501518,
+                    58.35132
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Moore",
+                "idFTDNA": "B11012",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1g1",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "541 78 Värsås, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.46012449,
+                    52.33916
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Oldbury",
+                "idFTDNA": "191496",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2f5",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "Wexford, Co. Wexford, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.74848557,
+                    54.34129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Smith",
+                "idFTDNA": "243015",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "Down, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.220405,
+                    54.61405
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "(Tifft) Cooper",
+                "idFTDNA": "236604",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1a2a",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "Beaghs, Parish of Ardstraw, Co. Tyrone, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.375655,
+                    53.7843971
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walkley",
+                "idFTDNA": "292430",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2o",
+                "PozycjaPrzypisanaPrzezProjekt": "1. Direct Maternal Settlers arriving to Old Province of Auckland (or Onehunga)",
+                "NazwaLokalizacji": "Co. Roscommon, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.7903726,
+                    50.78538
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Puckey",
+                "idFTDNA": "314523",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b5",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Sidlesham, West Sussex, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.193642,
+                    55.6530724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Douglas",
+                "idFTDNA": "379907",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Peebles, Peebles, Scottish Borders EH45, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thomason",
+                "idFTDNA": "254923",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.4804935,
+                    49.4020271
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jakowetz",
+                "idFTDNA": "258546",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1d",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Dobrčice, Czech Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.041765,
+                    55.93321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Whitehead",
+                "idFTDNA": "218706",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H31a",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Inveresk, East Lothian EH21, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.02084637,
+                    52.89283
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Swaysland",
+                "idFTDNA": "223609",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3c1",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Arles, Co. Laois, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Reeve",
+                "idFTDNA": "228364",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1a1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.202646,
+                    56.4906731
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rae-Venter",
+                "idFTDNA": "109324",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Scotland, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1254872,
+                    51.5085144
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barnett",
+                "idFTDNA": "104400",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "London, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1277583,
+                    51.50735
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "FOWLER BLACKBURN",
+                "idFTDNA": "B217098",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "London, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.670679,
+                    53.7069778
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Turner",
+                "idFTDNA": "47808",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Heckmondwike, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.81818,
+                    57.69045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "LAWS  (nee Bell)",
+                "idFTDNA": "452841",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2b8",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Cullen, Banff, Scotland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.833333,
+                    55.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fletcher - GedMatch T700765",
+                "idFTDNA": "453214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b5",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Lanarkshire, Lanark, South Lanarkshire ML11, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.32596827,
+                    53.469696
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Reid",
+                "idFTDNA": "449426",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3v",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "South Yorkshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.593961,
+                    52.2332458
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "COATES",
+                "idFTDNA": "443778",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Hatfield, Leominster HR6 0SG, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.68233037,
+                    50.690052
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Verissimo",
+                "idFTDNA": "439569",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Dunsford, Exeter, Devon EX6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.9338884,
+                    52.5998344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hall",
+                "idFTDNA": "N74599",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H17b",
+                "PozycjaPrzypisanaPrzezProjekt": "2. Direct Maternal Settlers arriving to Old Province of Wellington",
+                "NazwaLokalizacji": "Kibbitz Mill, Brome, Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.75037,
+                    50.78976
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Symon",
+                "idFTDNA": "643594",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "3. Direct Maternal Settlers arriving to Old Province of New Plymouth (Taranaki)",
+                "NazwaLokalizacji": "Netherbury, Dorset, England"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.5484436,
+                    51.8774757
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Henderson",
+                "idFTDNA": "105164",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4a",
+                "PozycjaPrzypisanaPrzezProjekt": "3. Direct Maternal Settlers arriving to Old Province of New Plymouth (Taranaki)",
+                "NazwaLokalizacji": "Braintree, Essex, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gargiulo",
+                "idFTDNA": "243574",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "3. Direct Maternal Settlers arriving to Old Province of New Plymouth (Taranaki)",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Keighley (Kelly)",
+                "idFTDNA": "248181",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "3. Direct Maternal Settlers arriving to Old Province of New Plymouth (Taranaki)",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.6435013,
+                    60.1281624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wilkins",
+                "idFTDNA": "291610",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "4. Direct Maternal Settlers arriving to Old Province of Hawkes Bay (Napier)",
+                "NazwaLokalizacji": "Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5624676,
+                    60.8820724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gibson",
+                "idFTDNA": "586188",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1i",
+                "PozycjaPrzypisanaPrzezProjekt": "4. Direct Maternal Settlers arriving to Old Province of Hawkes Bay (Napier)",
+                "NazwaLokalizacji": "Elverum, Norway"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.84066,
+                    52.31954
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mackay",
+                "idFTDNA": "662153",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W5a2",
+                "PozycjaPrzypisanaPrzezProjekt": "4. Direct Maternal Settlers arriving to Old Province of Hawkes Bay (Napier)",
+                "NazwaLokalizacji": "Holcot, Northampton NN6 9TF, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johnson",
+                "idFTDNA": "B107810",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "5. Direct Maternal Settlers arriving to Old Province of Marlborough (and Nelson)",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.23803353,
+                    51.864212
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Southwell",
+                "idFTDNA": "587786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "St George's, Gloucestershire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.55008,
+                    52.19794
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hutching",
+                "idFTDNA": "446828",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2b4a",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Currans, Co. Kerry, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.166243,
+                    55.9751167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Canning",
+                "idFTDNA": "447663",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Leith, Edinburgh, Edinburgh, Edinburgh EH6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.63268,
+                    52.4978638
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Prvanov",
+                "idFTDNA": "289235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Weldon, Corby, Northamptonshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.895239,
+                    55.77974
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ralston",
+                "idFTDNA": "380316",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ag1",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Cambusnethan, Wishaw, Wishaw, North Lanarkshire ML2, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Delany",
+                "idFTDNA": "303427",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.435973,
+                    55.37805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Carr",
+                "idFTDNA": "156064",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H16b",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "United Kingdom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.26749372,
+                    53.3441048
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Riddell",
+                "idFTDNA": "195730",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3as",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Dublin, Co. Fingal, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.99221611,
+                    57.66618
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lawrence",
+                "idFTDNA": "191796",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Barnyards of Philorth, Fraserburgh, Aberdeenshire AB43, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.0912,
+                    51.4736
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cone",
+                "idFTDNA": "16309",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.583,
+                    56.563
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cone",
+                "idFTDNA": "16310",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a6",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.471094,
+                    51.8978653
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lewis",
+                "idFTDNA": "187172",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Cork, Co. Cork, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.326306,
+                    53.3528366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Riddell",
+                "idFTDNA": "204364",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3as",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Dublin, Co. Dublin, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.620841,
+                    57.21755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Worker",
+                "idFTDNA": "IN25857",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "6. Direct Maternal Settlers arriving to Old Province of Canterbury (includes West Coast)",
+                "NazwaLokalizacji": "Glenmoriston, Inverness-shire, Scotland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.99498129,
+                    53.55779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Foss",
+                "idFTDNA": "B399882",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Saddleworth, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.860073,
+                    50.4511681
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kesterton",
+                "idFTDNA": "N64814",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "St. Wenn, Cornwall PL30, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.80138254,
+                    55.98959
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Menzies",
+                "idFTDNA": "N94504",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Slamannan Road, Falkirk FK1, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.2764899,
+                    50.9285965
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelly",
+                "idFTDNA": "223767",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Cornwall, UK and New Zealand"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.65249825,
+                    50.50363
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelly",
+                "idFTDNA": "229196",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Cornwall, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.8778367,
+                    52.6487236
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Driscoll",
+                "idFTDNA": "233326",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3k1",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Moyaliffe, Upperchurch, Co. Tipperary, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.066495,
+                    52.71929
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bush-King",
+                "idFTDNA": "267764",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5'36",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Ballynacally, Co. Clare, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3893583,
+                    52.1234
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hugtenburg",
+                "idFTDNA": "187214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Cople, Bedford MK44, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.558998,
+                    54.95108
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Whitehead",
+                "idFTDNA": "170975",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3b",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Kilrea, Coleraine, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.91313529,
+                    51.3127365
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hymen",
+                "idFTDNA": "148329",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h3b",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Zaamslag, Netherlands"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.7111399,
+                    52.82078
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dickson",
+                "idFTDNA": "127497",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "East Rudham, Norfolk, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.94405961,
+                    56.1200371
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Donaldson",
+                "idFTDNA": "305470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H31a",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Stirling Old Town Jail, Stirling FK8 1EA, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.99737048,
+                    55.8878975
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "MacDonald",
+                "idFTDNA": "356643",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3b",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "New Monkland  Airdrie, North Lanarkshire ML6, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.522716,
+                    50.8057938
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lawrence",
+                "idFTDNA": "363659",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bv1",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Marhamchurch, Bude, Cornwall EX23, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.105353,
+                    55.8745651
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bone",
+                "idFTDNA": "447664",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Midlothian, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.251806,
+                    55.86424
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelly A11242+",
+                "idFTDNA": "454491",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "Glasgow, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.7704463,
+                    55.949337
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall",
+                "idFTDNA": "424750",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "7. Direct Maternal Settlers arriving to Old Province of Otago (includes Invercargill)",
+                "NazwaLokalizacji": "East Lothian, UK"
+            }
+        }
+    ]
+}

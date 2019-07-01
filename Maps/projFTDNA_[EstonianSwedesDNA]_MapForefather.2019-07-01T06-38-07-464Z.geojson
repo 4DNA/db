@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    23.262394,
+                    59.00489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ahlström",
+                "idFTDNA": "684045",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "y-DNA haplogroup  I-M253",
+                "NazwaLokalizacji": "Ormsö, Läänemaa, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.6222,
+                    59.0762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Granberg",
+                "idFTDNA": "IN54365",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "y-DNA haplogroup  I-M253",
+                "NazwaLokalizacji": "Suur-Nõmmküla, Suur-Nõmmküla / Klottorp, 91232 Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.283886,
+                    59.00993
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rönnberg",
+                "idFTDNA": "648345",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH2510",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp I1 > DF29",
+                "NazwaLokalizacji": "Rälby, Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.6222,
+                    59.0762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Seffers",
+                "idFTDNA": "749068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY34568",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp I1 > L1302",
+                "NazwaLokalizacji": "Suur-Nõmmküla, 91232 Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.262394,
+                    59.00489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wahlberg",
+                "idFTDNA": "683770",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY35264",
+                "PozycjaPrzypisanaPrzezProjekt": "y-DNA haplogrupp I-BY35264",
+                "NazwaLokalizacji": "Vormsi, Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5423622,
+                    59.11923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Drakencrona",
+                "idFTDNA": "416113",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-A14187",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp N-M231 med undergrupper",
+                "NazwaLokalizacji": "Riguldi, 91218 Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.262394,
+                    59.00489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hammerman",
+                "idFTDNA": "583422",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y83469",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp N-M231 med undergrupper",
+                "NazwaLokalizacji": "Vormsi, Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7411766,
+                    58.99871
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ahlström",
+                "idFTDNA": "631165",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y83469",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp N-M231 med undergrupper",
+                "NazwaLokalizacji": "Kärrdal, Hiiu län, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.2768841,
+                    58.9687157
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Widgren",
+                "idFTDNA": "MK45418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp N-M231 med undergrupper",
+                "NazwaLokalizacji": "Rumpo, Lääne County, Estonia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5683117,
+                    59.13771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Blomberg",
+                "idFTDNA": "MI26226",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp R1a (R-M198/R-M512) med undergrupper",
+                "NazwaLokalizacji": "Harju-Risti-Riguldi-Võntküla, Höbringi / Höbring, 91213 Lääne maakond, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.52665,
+                    59.216877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Österman",
+                "idFTDNA": "IN20193",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA haplogrupp R1a (R-M198/R-M512) med undergrupper",
+                "NazwaLokalizacji": "Spithamn, Spithami / Spithamn, 91220 Lääne County, Estland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.9824047,
+                    59.33584
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sjölund",
+                "idFTDNA": "759279",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Y-DNA Haplogrupp R1b (R-M269) med undergrupper",
+                "NazwaLokalizacji": "Väike-Pakri, 76805 Harju maakond, Estland"
+            }
+        }
+    ]
+}

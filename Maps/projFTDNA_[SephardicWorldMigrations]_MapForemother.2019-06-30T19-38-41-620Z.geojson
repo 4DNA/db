@@ -1,0 +1,3165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baca",
+                "idFTDNA": "102698",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "38-200 Żółków, Poland (Jaslo Parish)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4713058,
+                    49.71198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Felix",
+                "idFTDNA": "11383",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2ak",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Chalchihuites, Zac., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.880989,
+                    23.47583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Römer",
+                "idFTDNA": "115877",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2am",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Southern Corsica, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.924534,
+                    41.8102646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valdez",
+                "idFTDNA": "121122",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b11",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.17,
+                    19.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis",
+                "idFTDNA": "124158",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Balti, Moldova"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.913,
+                    47.75494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reynoso",
+                "idFTDNA": "128021",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2c2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nochistlán, Nochistlan de Mejía, Zacatecas, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.8479,
+                    21.36148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rogov",
+                "idFTDNA": "128737",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Molodechno, Vilna governorate, Belarus, Russian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.86,
+                    54.32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall",
+                "idFTDNA": "129450",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a1c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Venezuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.58973,
+                    6.42375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brown",
+                "idFTDNA": "132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "07-430 Myszyniec, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3495312,
+                    53.3804932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mayorga",
+                "idFTDNA": "139422",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Texas, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.90181,
+                    31.9686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brooks",
+                "idFTDNA": "144456",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Langensoultzbach, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.733819,
+                    48.96747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goldman",
+                "idFTDNA": "151378",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aleppo, Syria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.15928,
+                    36.21555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dain",
+                "idFTDNA": "156161",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mogilev, Belarus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.333334,
+                    53.9
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barrett",
+                "idFTDNA": "171348",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a8",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "China, Nuevo León, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.23652,
+                    25.703331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Resendiz",
+                "idFTDNA": "175635",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Real de Catorce, San Luis Potosi, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.885544,
+                    23.6893959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fletez",
+                "idFTDNA": "183071",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2w",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jalapa, Guatemala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.96268,
+                    14.6121445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dane",
+                "idFTDNA": "185460",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1f",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "340 21 Janovice nad Úhlavou-Veselí, Czech Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2033453,
+                    49.3497925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rendon",
+                "idFTDNA": "194244",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a8",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cerralvo Municipality, Nuevo León, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6156,
+                    26.08427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romano",
+                "idFTDNA": "201384",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H14b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Istanbul, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.97836,
+                    41.0082359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ortiz",
+                "idFTDNA": "208284",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.59015,
+                    18.2208328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanchez",
+                "idFTDNA": "221512",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "San Martín de Bolaños, Jalisco, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.8,
+                    21.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabriel",
+                "idFTDNA": "227591",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7e",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "pohorila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9564381,
+                    48.6322441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oliveira",
+                "idFTDNA": "233831",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rio de Janeiro - RJ, República Federativa do Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.2095871,
+                    -22.90354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LINARES",
+                "idFTDNA": "247477",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1c5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "42400 Huichapan, Hgo., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.65084,
+                    20.3786678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greengard",
+                "idFTDNA": "251061",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Metz, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.176905,
+                    49.1196671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shaltiel",
+                "idFTDNA": "25348",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.71289,
+                    37.09024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montoya",
+                "idFTDNA": "267968",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "New Mexico, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.870087,
+                    34.51994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ballesteros Lima",
+                "idFTDNA": "268870",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cárdenas, Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.20361,
+                    23.042778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SABALLOS",
+                "idFTDNA": "269647",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74922,
+                    40.46367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castro-Garcia",
+                "idFTDNA": "280359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Caguas, Caguas, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.03525,
+                    18.2388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rios",
+                "idFTDNA": "285231",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sanchez Roman, Zacatecas, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.583244,
+                    22.7708549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Medrano",
+                "idFTDNA": "286374",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a8",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "San Fernando, Tamaulipas, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.1502457,
+                    24.841917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sciaky",
+                "idFTDNA": "287678",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Thessaloniki, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.965456,
+                    40.6206779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardoza",
+                "idFTDNA": "29068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hermosillo, Sonora, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.945724,
+                    29.0916386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barreto",
+                "idFTDNA": "297960",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "La Esperanza, Arecibo 00612, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.74684,
+                    18.3818932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alberts",
+                "idFTDNA": "300229",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H11a2a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Berezhnytsya, Lviv Oblast, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9127769,
+                    49.20889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Escobar",
+                "idFTDNA": "313425",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2q1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jamay, Jalisco, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.71064,
+                    20.2960472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garcia",
+                "idFTDNA": "314075",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2o",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Peñasco, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.687469,
+                    36.17048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castañeda",
+                "idFTDNA": "318496",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sonora, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.971924,
+                    32.0622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villanueva Garcia",
+                "idFTDNA": "329814",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2g2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Saltillo, Coah., México"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.995422,
+                    25.4267235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C",
+                "idFTDNA": "333262",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Calling Lake, AB T0G 0K0, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.186646,
+                    55.0974655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castañeda",
+                "idFTDNA": "340664",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a8",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Juárez, Nuevo Leon, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.105919,
+                    25.6516476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hernández",
+                "idFTDNA": "34322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cerralvo Municipality, Nuevo León, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6156,
+                    26.08427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CEZAR",
+                "idFTDNA": "355828",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2d2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lucca, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4950609,
+                    43.83762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rofheart",
+                "idFTDNA": "361264",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "آل دشَّاش الغانمي - وادي حلي (Al Ghanmi)",
+                "idFTDNA": "372782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "وادي حلي، منطقة مكة المكرمة"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.4113235,
+                    18.768198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gonzalez y Suarez",
+                "idFTDNA": "381556",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3j",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Havana, Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.27106,
+                    23.1591663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Presley",
+                "idFTDNA": "395513",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H10",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Quartiere XXIV Don Bosco, Roma, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56738,
+                    41.87194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosinceanu",
+                "idFTDNA": "399697",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4c1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Băiceni, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.91789,
+                    47.30113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van der Vlugt",
+                "idFTDNA": "400634",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "F",
+                "HaploGleboka": "F",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bandung, Bandung City, West Java, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.619125,
+                    -6.917464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirelez-Huca",
+                "idFTDNA": "403554",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "New Mexico, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.870087,
+                    34.51994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Domiciano Correia",
+                "idFTDNA": "442451",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "São Paulo - Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.666,
+                    -23.535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cleveland",
+                "idFTDNA": "447191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U7a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jimenez",
+                "idFTDNA": "453784",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H15a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "86021 Bojano CB, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4736938,
+                    41.48207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brook",
+                "idFTDNA": "4680",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Khorostkiv, Ternopil's'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.903471,
+                    49.203083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "González",
+                "idFTDNA": "487854",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Catalina de Güines, Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97803,
+                    22.9264317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cardoza",
+                "idFTDNA": "494618",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Thessaloniki, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94442,
+                    40.6400642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haj-Ibrahim Jaradat (Palestine)",
+                "idFTDNA": "509338",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Haifa, Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.98957,
+                    32.7940445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Escalante Aguilar",
+                "idFTDNA": "512718",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Costa Rica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7534256,
+                    9.748917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meza",
+                "idFTDNA": "522118",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2i2a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Chimbarongo, Chimbarongo, VI Región, Chile"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.041275,
+                    -34.70924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tudela Razuri",
+                "idFTDNA": "540136",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tauca, Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0380859,
+                    -8.468039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pineda",
+                "idFTDNA": "545450",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2w",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ramos Arizpe, Coahuila, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.948311,
+                    25.54115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pastorkovich",
+                "idFTDNA": "54740",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "West Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4549,
+                    38.5976257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ochoa Delgado",
+                "idFTDNA": "548343",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Medellin, Antioquia, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5812149,
+                    6.244203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubenstein",
+                "idFTDNA": "561762",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c7a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Philen",
+                "idFTDNA": "561817",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b10",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cadereyta Jiménez, Nuevo Leon, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.99682,
+                    25.5859871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duran",
+                "idFTDNA": "562608",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1j",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.39853,
+                    40.6331253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stewart Sokol",
+                "idFTDNA": "573291",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.16558,
+                    48.3794327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benveniste (Big Y500)",
+                "idFTDNA": "573713",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1e",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Livorno, Province of Livorno, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3105679,
+                    43.5484734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colon-Novick",
+                "idFTDNA": "576621",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3aa",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Santa Rosa de Copan, Honduras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.77825,
+                    14.783886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nadon",
+                "idFTDNA": "577950",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.213749,
+                    46.22764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mercado",
+                "idFTDNA": "583897",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2k",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Madrid, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70379019,
+                    40.4167747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mendoza Cosgrove",
+                "idFTDNA": "584344",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ejido Conchos, Chih., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.30101,
+                    27.9613228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saldaña",
+                "idFTDNA": "58625",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1c2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Montemorelos, Nuevo León, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.82968,
+                    25.1834965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Isaac",
+                "idFTDNA": "594145",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Safita, Syria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1192322,
+                    34.8190346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lo Forte",
+                "idFTDNA": "634193",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "40030 Grizzana Morandi BO, Italia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1390877,
+                    44.2496223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gies",
+                "idFTDNA": "636579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H27a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Edinburgh, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.188267,
+                    55.95325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Banani",
+                "idFTDNA": "639405",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.6880455,
+                    32.42791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mourad",
+                "idFTDNA": "647567",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "09500 Camon, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.966245,
+                    43.02188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wolinsky",
+                "idFTDNA": "65",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV1b2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4166679,
+                    55.0833321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mustajärvi",
+                "idFTDNA": "656633",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "41800 Korpilahti, Suomi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5717812,
+                    62.0209923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salinas Saenz",
+                "idFTDNA": "668020",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "88390 Cd Mier, Tamps., México"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.15115,
+                    26.4265442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Estrada-Croker",
+                "idFTDNA": "675301",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "11510 Puerto Real, Cádiz, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.18319464,
+                    36.5316467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paul",
+                "idFTDNA": "680714",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Del Toro",
+                "idFTDNA": "68753",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U6b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.53,
+                    28.08
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valdez",
+                "idFTDNA": "69557",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B4'5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "New Mexico, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.032364,
+                    34.97273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barao",
+                "idFTDNA": "713039",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Figueira da Foz, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.857583,
+                    40.15214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cofino",
+                "idFTDNA": "715539",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2k1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "San Lorenzo, 00754, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.961,
+                    18.1894016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martínez",
+                "idFTDNA": "725239",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Santa Cruz, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.047249,
+                    35.9922447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Medina",
+                "idFTDNA": "73700",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "San Juan Capistrano, CA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.654755,
+                    33.5035858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith",
+                "idFTDNA": "73899",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kedington, Haverhill, Suffolk CB9, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.48794,
+                    52.091877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Angulo",
+                "idFTDNA": "739049",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alvrado Veracruz Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.75895,
+                    18.769619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanchez Abdeljalek",
+                "idFTDNA": "754872",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mexico City, CDMX, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.13321,
+                    19.4326077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caban",
+                "idFTDNA": "758782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Antilla, Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7284241,
+                    20.8325253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOULKEDRA",
+                "idFTDNA": "763309",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U6a7a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jijel, Algeria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.74909353,
+                    36.81674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mentell",
+                "idFTDNA": "771",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V15",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.483,
+                    50.4
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith",
+                "idFTDNA": "783222",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2f",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Las Cruces, NM 88012"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.763657,
+                    32.31994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bregman",
+                "idFTDNA": "792771",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a2m",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Loschitz, Moravia, Austrian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9289284,
+                    49.7446976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bolin",
+                "idFTDNA": "805775",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a11",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tuckerman, AR, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.19846,
+                    35.7306328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aspis",
+                "idFTDNA": "830662",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rio Grande do Sul, Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.2176971,
+                    -30.0346317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moreno",
+                "idFTDNA": "836166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2-G153A!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alice, TX 78332, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.069725,
+                    27.7522488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaramillo",
+                "idFTDNA": "841748",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1d1d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.29733,
+                    4.570868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S",
+                "idFTDNA": "84725",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Honduras (Maya) > Venezuela-Brasil-Guyana (Carib)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.14,
+                    14.84
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aranda",
+                "idFTDNA": "857695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D1h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bilbao, Vizcaya, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.922222,
+                    43.25778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benyakonski",
+                "idFTDNA": "87547",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Dieveniškės, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6256313,
+                    54.19343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hodge",
+                "idFTDNA": "876882",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1b2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Poplar Bluff, MO 63901, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.39289,
+                    36.757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pizarro",
+                "idFTDNA": "885492",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Santa Ana Pueblo, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.52253,
+                    35.3399849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camara",
+                "idFTDNA": "96149",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pains - State of Minas Gerais, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.6619873,
+                    -20.3736134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harmon",
+                "idFTDNA": "96390",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a1f1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Saint Michael, Barbados"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.59881,
+                    13.1132221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Payne",
+                "idFTDNA": "98390",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I4a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Morocco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.09262,
+                    31.7917023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Estrada Gilligan",
+                "idFTDNA": "B100195",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2p",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Coahuila, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.706833,
+                    27.0586758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cotter",
+                "idFTDNA": "B108473",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1c4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Canary Islands, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.6291313,
+                    28.291563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rofheart",
+                "idFTDNA": "B12053",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H8c2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cheshire, England"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6103158,
+                    53.2326355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REYNAUD",
+                "idFTDNA": "B193080",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W4b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "73110 Presle, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13868,
+                    45.4543228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M",
+                "idFTDNA": "B257762",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Coahuila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.592232,
+                    27.025341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sánchez",
+                "idFTDNA": "B277236",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Puruándiro, Michoacán, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.5157,
+                    20.0880146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perez",
+                "idFTDNA": "B316892",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "26321 Pedroso, La Rioja, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.71765113,
+                    42.29962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "suarez",
+                "idFTDNA": "B347456",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1cf",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "350 University Ave, San Diego, CA 92103, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.161896,
+                    32.7484779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Van Alstyne",
+                "idFTDNA": "B361574",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "weinstein",
+                "idFTDNA": "B391157",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alger, Sidi M'Hamed, Algérie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.058756,
+                    36.75377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gamrasni",
+                "idFTDNA": "B399493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV13b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Métlaoui, Tunisie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.407457,
+                    34.3193665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vieira",
+                "idFTDNA": "B407218",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Braga, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.426507,
+                    41.54545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rodriguez",
+                "idFTDNA": "B76366",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Richland County, OH, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5185852,
+                    40.75667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Navarrete",
+                "idFTDNA": "B99508",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2c1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Zacatecas, Zac., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.583252,
+                    22.7709255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GABION",
+                "idFTDNA": "E21000",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I3a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Savoie, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4724,
+                    45.493206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juarez Franz",
+                "idFTDNA": "E26004",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Spanien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74922,
+                    40.46367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borregon Diago",
+                "idFTDNA": "E26059",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1f1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "48891 Soscaño, Bizkaia, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.36676836,
+                    43.22383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hermannstadt, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1255817,
+                    45.79833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carter",
+                "idFTDNA": "E32777",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Thessalonique, Grèce"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94442,
+                    40.6400642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casado Diez",
+                "idFTDNA": "E7177",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "León, Spanien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.56709576,
+                    42.59873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salama Azagury",
+                "idFTDNA": "IN12026",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Thessaloniki, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94442,
+                    40.6400642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morales Aguilar",
+                "idFTDNA": "IN29412",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ataros, Chih., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.468887,
+                    28.0497227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rebegel",
+                "idFTDNA": "IN40039",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Câineni, Roumanie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3,
+                    45.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Araújo de Castro",
+                "idFTDNA": "IN51153",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L0a1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Areia Branca - State of Rio Grande do Norte, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37.08296,
+                    -5.01731873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "forero - Gomez",
+                "idFTDNA": "IN51565",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Coímbra, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.410257,
+                    40.2033157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lahlou",
+                "idFTDNA": "IN63851",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H20a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Fès, Maroc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.007845,
+                    34.0181236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bannister",
+                "idFTDNA": "MK32781",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M11d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tehran, Tehran Province, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3889732,
+                    35.6891975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruiz",
+                "idFTDNA": "MK32801",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Comerío, 00782, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.2256,
+                    18.2192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davila",
+                "idFTDNA": "MK42772",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": null,
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Trinidad, CO 81082, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.500542,
+                    37.1694641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barahona-castillo",
+                "idFTDNA": "MK45307",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Olancho Department, Honduras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.76666,
+                    14.8067408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martinez Borrome",
+                "idFTDNA": "N102321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Guiria, Venezuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.29717,
+                    10.58005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salas",
+                "idFTDNA": "N116813",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1a1a3a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Šventežeris, Lithuania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.64783,
+                    54.243515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raciti-Caggegi",
+                "idFTDNA": "N12956",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Santo Stefano Di Camastra, ME, Sicily, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3478127,
+                    38.0139542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garibay Cotto",
+                "idFTDNA": "N132496",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aguas Buenas, Aguas Buenas, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.10509,
+                    18.2572517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rodriguez (Y67, Big Y,  mtFull Sequence)",
+                "idFTDNA": "N134477",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Fort Davis, TX 79734, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.894623,
+                    30.5882111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARIAS-ANDERSON",
+                "idFTDNA": "N227158",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Panama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.78213,
+                    8.537981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salas",
+                "idFTDNA": "N245123",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cumana, Sucre, Venezuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.18332,
+                    10.4319162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hurtado",
+                "idFTDNA": "N29759",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a2m",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cuenca, Ecuador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0059,
+                    -2.9001286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nakash",
+                "idFTDNA": "N41038",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U7",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Krasyliv, Khmel'nyts'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9757214,
+                    49.6492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gil",
+                "idFTDNA": "N4337",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7e",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.56,
+                    50.28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blonder",
+                "idFTDNA": "N58266",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1f",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Berdychiv, Zhytomyr Oblast, Ukraine, 13300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.59003,
+                    49.91066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaimes-Branger",
+                "idFTDNA": "N7304",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "86600 Lusignan, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.122425,
+                    46.4352379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maio",
+                "idFTDNA": "N75519",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "84060 Perito Salerno, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1440992,
+                    40.29621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kline",
+                "idFTDNA": "N75596",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2j",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pánuco, Ver., Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.18206,
+                    22.0535641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fra",
+                "idFTDNA": "N90749",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Surigao City, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.513771,
+                    9.757132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ackerman",
+                "idFTDNA": "N91315",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Islay, Argyll and Bute, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.177067,
+                    55.73625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Khalaf",
+                "idFTDNA": "N95096",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L0a1'4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kuwait"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.4817657,
+                    29.31166
+                ]
+            }
+        }
+    ]
+}

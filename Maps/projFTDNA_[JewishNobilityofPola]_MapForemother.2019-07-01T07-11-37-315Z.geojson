@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    29.9706287,
+                    62.429718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Niemeläinen",
+                "idFTDNA": "101024",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.55557966,
+                    54.9515877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Huppert z Wieliczki",
+                "idFTDNA": "133079",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kilrea"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.227512,
+                    46.8181877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pelliccioli  ( Saltiel )",
+                "idFTDNA": "139294",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Switzerland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9574785,
+                    48.84085
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Merrick",
+                "idFTDNA": "176873",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Deggendorf, Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.930788,
+                    54.1115227
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sinykin",
+                "idFTDNA": "178791",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gmina Suwałki, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.49363,
+                    29.4241219
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Milliron",
+                "idFTDNA": "211260",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "San Antonio, TX, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2153378,
+                    51.9764671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Czerwick",
+                "idFTDNA": "220657",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Góra Kalwaria, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5886469,
+                    57.88737
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bragdell",
+                "idFTDNA": "222356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Marstrand, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.2024956,
+                    55.8945732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Davis Zlatkovski",
+                "idFTDNA": "258877",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Skapiškis, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5861053,
+                    34.73037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Liles",
+                "idFTDNA": "265620",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Huntsville, AL, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.21428,
+                    54.71363
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Russell",
+                "idFTDNA": "307368",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Antrim BT41, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.9666672,
+                    47.7166672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Glembocki",
+                "idFTDNA": "325471",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Anan'iv, Odessa Oblast, Ukraine"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.94393,
+                    55.6299171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GEDIMINID ROYAL PRINC",
+                "idFTDNA": "353043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kelmė, Lietuvos Respublika"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.13,
+                    51.51
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Schweitzer",
+                "idFTDNA": "45731",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16311C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ayres",
+                "idFTDNA": "655044",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.714838,
+                    53.1194649
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wadolowski",
+                "idFTDNA": "847712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "18-204 Kobylin-Pogorzałki, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.59496,
+                    62.555584
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Haikonen",
+                "idFTDNA": "85991",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.9666653,
+                    62.88333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Haikonen",
+                "idFTDNA": "86045",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.8591461,
+                    45.5282631
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Krupa",
+                "idFTDNA": "89372",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lasinja, Hrvatska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.161896,
+                    32.7484779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "suarez",
+                "idFTDNA": "B347456",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1cf",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "350 University Ave, San Diego, CA 92103, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5500717,
+                    47.51623
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nagy",
+                "idFTDNA": "E13555",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Austria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.4395037,
+                    47.070713
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kaiser",
+                "idFTDNA": "E19495",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1n-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Graz, Österreich"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.1255817,
+                    45.79833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hermannstadt, Rumänien"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.90662,
+                    45.7648773
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Guni",
+                "idFTDNA": "E37299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sibiel 557234, Rumänien"
+            }
+        }
+    ]
+}

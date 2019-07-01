@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "382555",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "21-570 Drelów, Польша"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8715668,
+                    51.91194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN38780",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP443",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "22-400 Zamość, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2519684,
+                    50.7230873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN40391",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "21-007 Minkowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7687912,
+                    51.22517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "444847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "1.1. Powiat LUBELSKI/ County of LUBLIN",
+                "NazwaLokalizacji": "Krężnica Okrągła, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.244833,
+                    51.1644554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "627031",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "1.1. Powiat LUBELSKI/ County of LUBLIN",
+                "NazwaLokalizacji": "Olszowiec, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5949345,
+                    51.0149078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "324062",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1570",
+                "PozycjaPrzypisanaPrzezProjekt": "1.1. Powiat LUBELSKI/ County of LUBLIN",
+                "NazwaLokalizacji": "Motycz, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.37902,
+                    51.2393837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "467923",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP314",
+                "PozycjaPrzypisanaPrzezProjekt": "1.2.Powiat KRAŚNICKI/ County of KRAŚNIK",
+                "NazwaLokalizacji": "Salomin, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0499249,
+                    50.82657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "152595",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "1.2.Powiat KRAŚNICKI/ County of KRAŚNIK",
+                "NazwaLokalizacji": "23-235 Chamówka, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.91358,
+                    50.941082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "749597",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z287",
+                "PozycjaPrzypisanaPrzezProjekt": "1.3.Powiat JANOWSKI/ County of JANOW",
+                "NazwaLokalizacji": "Modliborzyce, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3182812,
+                    50.76102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "392450",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1020",
+                "PozycjaPrzypisanaPrzezProjekt": "2.Powiat CHEŁMSKI/ County of CHEŁM",
+                "NazwaLokalizacji": "Dubienka, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8924427,
+                    51.0484962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "223137",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-BZ48",
+                "PozycjaPrzypisanaPrzezProjekt": "3.Powiat BIALSKI/ County of BIAŁA PODLASKA",
+                "NazwaLokalizacji": "Biała Podlaska, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1164684,
+                    52.0324249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "262816",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1410",
+                "PozycjaPrzypisanaPrzezProjekt": "3.Powiat BIALSKI/ County of BIAŁA PODLASKA",
+                "NazwaLokalizacji": "Drelów, Польша"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9459667,
+                    51.9258232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "293217",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP654",
+                "PozycjaPrzypisanaPrzezProjekt": "4.Powiat PARCZEWSKI/ County of PARCZEW",
+                "NazwaLokalizacji": "Parczew, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.90032,
+                    51.64027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "392451",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y5576",
+                "PozycjaPrzypisanaPrzezProjekt": "5.Powiat HRUBIESZOWSKI/ County of HRUBIESZÓW",
+                "NazwaLokalizacji": "Alojzów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8209648,
+                    50.7538338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "87919",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1626",
+                "PozycjaPrzypisanaPrzezProjekt": "6.Powiat BIŁGORAJSKI/ County of BIŁGORAJ",
+                "NazwaLokalizacji": "Korchów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7833,
+                    50.3833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N82670",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "6.Powiat BIŁGORAJSKI/ County of BIŁGORAJ",
+                "NazwaLokalizacji": "Dąbrowica, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6582355,
+                    50.53799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N45834",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M406",
+                "PozycjaPrzypisanaPrzezProjekt": "7.Powiat ZAMOJSKI/ County of ZAMOŚĆ",
+                "NazwaLokalizacji": "Wysokie, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2221165,
+                    50.7535248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N72600",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "8.Powiat KRASNOSTAWSKI/ County of KRASNYSTAW",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.93,
+                    51.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N16931",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY33396",
+                "PozycjaPrzypisanaPrzezProjekt": "9.Powiat TOMASZOWSKI/ County of TOMASZÓW",
+                "NazwaLokalizacji": "Tomaszów Lubelski, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.41631,
+                    50.4470253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "519170",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-DF103",
+                "PozycjaPrzypisanaPrzezProjekt": "GUESTS",
+                "NazwaLokalizacji": "Kępno, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98906,
+                    51.2781372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "389729",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A7358",
+                "PozycjaPrzypisanaPrzezProjekt": "GUESTS",
+                "NazwaLokalizacji": "Khrabuzna, Khmel'nyts'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.492,
+                    49.931
+                ]
+            }
+        }
+    ]
+}

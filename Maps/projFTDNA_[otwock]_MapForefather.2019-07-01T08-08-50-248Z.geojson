@@ -1,0 +1,445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2907848,
+                    51.90781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dominiczak",
+                "idFTDNA": "B523465",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "08-443 Śniadków Dolny, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.3193989,
+                    52.00472
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bogucki",
+                "idFTDNA": "278287",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H-M69",
+                "PozycjaPrzypisanaPrzezProjekt": "3. HINDUSKO-ROMSKA (H1a: M69>M82)",
+                "NazwaLokalizacji": "Całowanie, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2319431,
+                    51.95861
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Paczesny",
+                "idFTDNA": "306771",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "4B. NORMAŃSKA - POLSKA (I1: M253>DF29>Z2336>Y3866>S4767>S7642>Y6340>Y6343>Y15543*)",
+                "NazwaLokalizacji": "Czersk, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.3977261,
+                    52.1262856
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kopka",
+                "idFTDNA": "579150",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "4C. STAROEUROPEJSKA/CELTYCKO-GERMAŃSKA (I2: L460>M436>M223*)",
+                "NazwaLokalizacji": "Wola Karczewska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2874031,
+                    51.86855
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Słowiński",
+                "idFTDNA": "298316",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y17491",
+                "PozycjaPrzypisanaPrzezProjekt": "8. INDOEUROPEJSKA PIERWOTNA (R1a: Z283>Z282>Y17491>YP5872)",
+                "NazwaLokalizacji": "Sambodzie, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.26238,
+                    52.04616
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jobda",
+                "idFTDNA": "N87722",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY24952",
+                "PozycjaPrzypisanaPrzezProjekt": "8A-2.2. JOBDA-SKIBA (R1a: Z283>Z282>Z280>CTS1211>CTS3402>Y33>CTS8816>Y3301>S18681>YP315>YP314>YP331>YP1361>YP1363>BY24952/YP5509*)",
+                "NazwaLokalizacji": "05-480 Glinki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2153378,
+                    51.9764671
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stanaszek",
+                "idFTDNA": "N62965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY50754",
+                "PozycjaPrzypisanaPrzezProjekt": "8A-2.3. GAWIN-ROSŁONEK-STANASZEK (R1a: Z283>Z282>Z280>CTS1211>CTS3402>Y33>CTS8816>Y3301>S18681>YP315>YP314>YP331>YP1361>YP1363>BY24952>BY50754) DYS436=11",
+                "NazwaLokalizacji": "Góra Kalwaria, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.3201618,
+                    51.95551
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kasprzak",
+                "idFTDNA": "276341",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP389",
+                "PozycjaPrzypisanaPrzezProjekt": "8D-2. KASPRZAK/KACPRZAK (R1a: Z283>Z282>Z280>CTS1211>CTS3402>YP237>YP234>L365>YP243>YP389*)",
+                "NazwaLokalizacji": "Sobienie Biskupie, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.18716,
+                    52.0282822
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Borowski",
+                "idFTDNA": "213004",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6445",
+                "PozycjaPrzypisanaPrzezProjekt": "9B-3. BOROWSKI (R1a: Z283>Z282>PF6155>M458>PF7521>L260>YP256>YP254>Y2905>YP1364>YP3927>YP6445)",
+                "NazwaLokalizacji": "Brześce, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.3775349,
+                    51.8516579
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Woźniak",
+                "idFTDNA": "562713",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "9E. SŁOWIAŃSKA 2 (R1a: Z283>Z282>PF6155>M458>PF7521>CTS11962>YP515*)",
+                "NazwaLokalizacji": "Wilga, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.12709,
+                    54.42684
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pionke",
+                "idFTDNA": "545903",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6495",
+                "PozycjaPrzypisanaPrzezProjekt": "KREWNIACY GENETYCZNI R1a-S18681",
+                "NazwaLokalizacji": "Będargowo, Szemud, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    33.1309624,
+                    49.2335167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Slabinskyi",
+                "idFTDNA": "230479",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y104915",
+                "PozycjaPrzypisanaPrzezProjekt": "KREWNIACY GENETYCZNI R1a-S18681",
+                "NazwaLokalizacji": "Gradizhsk, Poltava region, Ukraine, 39070"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.8751755,
+                    48.8602867
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Husar",
+                "idFTDNA": "256471",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1409",
+                "PozycjaPrzypisanaPrzezProjekt": "KREWNIACY GENETYCZNI R1a-S18681",
+                "NazwaLokalizacji": "07223 Staré, Slovakia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.4559841,
+                    51.7592468
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dabrowski",
+                "idFTDNA": "270329",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1363",
+                "PozycjaPrzypisanaPrzezProjekt": "KREWNIACY GENETYCZNI R1a-S18681",
+                "NazwaLokalizacji": "Łódź, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.3956623,
+                    53.25997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gutt",
+                "idFTDNA": "275076",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30484",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "Brodnica, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.7833,
+                    51.75
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Skarbek-Kozietulski",
+                "idFTDNA": "105394",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A17797",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.012228,
+                    52.2296753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Staniszewski",
+                "idFTDNA": "121244",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS5274",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "Warszawa, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.817461,
+                    51.8498421
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ducki",
+                "idFTDNA": "155428",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "Zasiadały, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.0706,
+                    52.5886955
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dolinski",
+                "idFTDNA": "166081",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "64-420 Kurnatowice, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.82755,
+                    35.48882
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wyer",
+                "idFTDNA": "74033",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "Davidson, NC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9196548,
+                    52.94317
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Myśliński",
+                "idFTDNA": "764313",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6445",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "09-320 Myślin, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.6738415,
+                    49.52506
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kozak",
+                "idFTDNA": "N107031",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "SYMPATYCY PROJEKTU, POTENCJALNI URZECZANIE...",
+                "NazwaLokalizacji": "34-482 Zubrzyca Dolna, Poland"
+            }
+        }
+    ]
+}

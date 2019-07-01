@@ -1,0 +1,365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    19.1169624,
+                    49.51309
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rajcza, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.0020447,
+                    49.3665237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Biały Dunajec, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.1051,
+                    49.3892
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "34-405 Białka Tatrzańska, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.4329166,
+                    49.4368362
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Krościenko, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.471087,
+                    51.8978729
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Non-Podhale Y results",
+                "NazwaLokalizacji": "Cork, Co. Cork, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.6706448,
+                    47.2726364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Non-Podhale Y results",
+                "NazwaLokalizacji": "8731 Gaal, Austria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4481869,
+                    38.0299034
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y35899",
+                "PozycjaPrzypisanaPrzezProjekt": "Non-Podhale Y results",
+                "NazwaLokalizacji": "90036 Misilmeri PA, Italy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.10507,
+                    49.38918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Białka Tatrzańska, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9127941,
+                    49.4232559
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Stare Bystre, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.6484776,
+                    51.1338921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Odrowąż, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.0320969,
+                    49.4774666
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Nowy Targ, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.839077,
+                    49.4452362
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Czarny Dunajec, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.04017,
+                    49.3023262
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3742",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "34-531 Murzasichle, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.0607414,
+                    49.3898354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P95",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Groń, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.113039,
+                    49.50945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-CTS6507",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Rajcza, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.1050243,
+                    49.3891068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "34-405 Białka Tatrzańska, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.850769,
+                    49.4417419
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP589",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Czarny Dunajec, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.7377148,
+                    49.5466728
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC35805",
+                "PozycjaPrzypisanaPrzezProjekt": "Podhale",
+                "NazwaLokalizacji": "Podwilk, Poland"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    14.658782,
+                    37.39793
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Geraci",
+                "idFTDNA": "137282",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sicily, Italy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    34.355732,
+                    44.70084
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chernoff",
+                "idFTDNA": "399746",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-BY164513",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Αλανία>1475>Körbekül>1945>Изобильное (Алушта)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.4923,
+                    41.2343
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Asimakidis",
+                "idFTDNA": "423596",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kestanelik, 34540 Kestanelik/Çatalca/İstanbul, Turkiet"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.2046,
+                    51.6387
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brooker",
+                "idFTDNA": "491864",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-FGC51036",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Little Wittenham Rd, Long Wittenham, Abingdon OX14 4QT, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1351166,
+                    40.79048
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Turhan",
+                "idFTDNA": "IN48851",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "61630 Köprübaşı/Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.6244,
+                    33.596
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Seif",
+                "idFTDNA": "M11072",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-Z8032",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Niha Chouf, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.70043,
+                    33.7413368
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Abu-Aychi",
+                "idFTDNA": "M11073",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-F3987",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ain Zhalta, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.73329,
+                    33.82525
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mezher",
+                "idFTDNA": "M11127",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-FGC63400",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hammana, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.329216,
+                    41.02968
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "shabanagha",
+                "idFTDNA": "M12406",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bitola, Macedonia (FYROM)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.70984,
+                    33.89591
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zayd",
+                "idFTDNA": "M9536",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-FGC62980",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Zaraoun, Lebanon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.4663811,
+                    40.864933
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Parastatidis",
+                "idFTDNA": "MI49891",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kato Kleines 531 00, Greece"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "N118842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH4902",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.12194,
+                    40.9094162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alioglu",
+                "idFTDNA": "B9374",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sürmene/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.537499,
+                    33.8869171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Seklani",
+                "idFTDNA": "T1895",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-L241",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tunisie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8373451,
+                    40.656456
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Paschalidis",
+                "idFTDNA": "418689",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-PF5116",
+                "PozycjaPrzypisanaPrzezProjekt": "Amasya",
+                "NazwaLokalizacji": "Amasya, Amasya Merkez/Amasya, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2280464,
+                    40.26032
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Budagov",
+                "idFTDNA": "373639",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M67",
+                "PozycjaPrzypisanaPrzezProjekt": "Bayburt",
+                "NazwaLokalizacji": "Bayburt, 69000 Bayburt Merkez/Bayburt, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Circassia/ Cherkessia",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krayı, Rusya"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.72589,
+                    43.38463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Organokov",
+                "idFTDNA": "IN40752",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Circassia/ Cherkessia",
+                "NazwaLokalizacji": "Aushiger, Kabardino-Balkaria, Russia, 361820"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2161865,
+                    44.4542427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Özel",
+                "idFTDNA": "N14671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": "Circassia/ Cherkessia",
+                "NazwaLokalizacji": "Rusya, Adigey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1382751,
+                    40.1750526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Leonov",
+                "idFTDNA": "298823",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A1143",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Hacıahmet, 25800 Hacıahmet/Horasan/Erzurum, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.2658234,
+                    39.9055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pelivanov",
+                "idFTDNA": "397826",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y12386",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Эрзурум, Эрзурум, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.7680664,
+                    39.8995819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Georgiadis",
+                "idFTDNA": "425162",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z16663",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Refahiye, 24300 Refahiye/Erzincan, Turkiet"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.42344,
+                    40.398304
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Amvrosov",
+                "idFTDNA": "373658",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-Y18888",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Vişneli, 25430 Vişneli/Tortum/Erzurum, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1382751,
+                    40.1750526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mikelov",
+                "idFTDNA": "373668",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Hacıahmet, 25800 Hacıahmet/Horasan/Erzurum, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6680756,
+                    39.97718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Muradov",
+                "idFTDNA": "373682",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-PH3523",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Пасинлер, 25300 Pasinler District/Эрзурум, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6755562,
+                    39.97972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karaashev",
+                "idFTDNA": "373683",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-BY13002",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Pasinler/Erzurum Province, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6680756,
+                    39.97718
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Anozov (Feodorov)",
+                "idFTDNA": "373686",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y97937",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Pasinler, Erzurum, NE Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1688766,
+                    40.04005
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kadjarov",
+                "idFTDNA": "373636",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Erzurum",
+                "NazwaLokalizacji": "Horasan, 25800 Horasan/Erzurum, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.1313248,
+                    42.46622
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sharabidze",
+                "idFTDNA": "216529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y25813",
+                "PozycjaPrzypisanaPrzezProjekt": "Georgia",
+                "NazwaLokalizacji": "Khotevi, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.04581,
+                    41.9442749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andghuladze",
+                "idFTDNA": "258944",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Georgia",
+                "NazwaLokalizacji": "Guria, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.7134666,
+                    40.9487457
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Salasidis",
+                "idFTDNA": "335962",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Giresun",
+                "NazwaLokalizacji": "Espiye, Turkey , pre 1920 Ottoman Empire"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.4496536,
+                    40.337677
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chopozov",
+                "idFTDNA": "373654",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M67",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Гюмюшхане, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48032,
+                    40.4608269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fulidis",
+                "idFTDNA": "372280",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-PH1728",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Gümüşhane, Gümüşhane Merkez/Gümüşhane, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48032,
+                    40.4608269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karagezov",
+                "idFTDNA": "373684",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L584",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Gümüşhane, Gümüşhane Merkez/Gümüşhane, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48032,
+                    40.4608269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lefterov",
+                "idFTDNA": "373685",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-Y18889",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Gümüşhane, Gümüşhane Merkez/Gümüşhane, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.48032,
+                    40.4608269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karipidis",
+                "idFTDNA": "N144094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS904",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Gümüshane, Gümüşhane Merkez/Gümüshane, Turkiet"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.5063934,
+                    40.54297
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kalliaridis",
+                "idFTDNA": "527795",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Gümüşhane",
+                "NazwaLokalizacji": "Ayvazanton (Pontic Greek village)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.87641,
+                    40.98388
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kurnaz",
+                "idFTDNA": "261120",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS6804",
+                "PozycjaPrzypisanaPrzezProjekt": "Ordu",
+                "NazwaLokalizacji": "Ordu, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.2406,
+                    41.0131035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yıldız",
+                "idFTDNA": "257305",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC35503",
+                "PozycjaPrzypisanaPrzezProjekt": "Ordu",
+                "NazwaLokalizacji": "Yeşilkent, 52300 Yeşilkent/Ünye/Ordu, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.47023,
+                    40.8194923
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akyıldız",
+                "idFTDNA": "203251",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "Rize",
+                "NazwaLokalizacji": "53690 Güneyce Bucağı/İkizdere/Rize, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.7275352,
+                    41.0901527
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Balikcioglu Ozcan",
+                "idFTDNA": "402100",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z28580",
+                "PozycjaPrzypisanaPrzezProjekt": "Rize",
+                "NazwaLokalizacji": "Senoz, Çayeli, Rize, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6367455,
+                    41.6167564
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Doganci",
+                "idFTDNA": "670040",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z435",
+                "PozycjaPrzypisanaPrzezProjekt": "Rize",
+                "NazwaLokalizacji": "Batumi, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.5401649,
+                    40.9578629
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kurtulus",
+                "idFTDNA": "N12720",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC58821",
+                "PozycjaPrzypisanaPrzezProjekt": "Rize",
+                "NazwaLokalizacji": "Lestenkoz,Rize"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.6798477,
+                    40.8296738
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GOSTERIT",
+                "idFTDNA": "525662",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Oğulağaç/Maçka/Trabzon/Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.7033234,
+                    40.844
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "OZDEMIR",
+                "idFTDNA": "526097",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-SK1414",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Ogulagac/Maçka/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.26855,
+                    40.7790031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Güveli- Güvelioğlu",
+                "idFTDNA": "IN35770",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z7944",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Ulucami, Ulucami Mahallesi, 61940 Çaykara/Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.38115,
+                    41.0821762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yaz",
+                "idFTDNA": "772077",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Carsibasi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.0551529,
+                    40.9397163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Demiray",
+                "idFTDNA": "B370127",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Araklı, Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.68865,
+                    40.828064
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coban",
+                "idFTDNA": "B92235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y16569",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Oğulağaç/Maçka/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.11876,
+                    40.9113655
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lurci",
+                "idFTDNA": "441727",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Sürmene, Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.593441,
+                    36.14952
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kafcaloudis",
+                "idFTDNA": "471734",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Kastellorizo 851 11, Greece"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2902756,
+                    40.6199722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "ZENGİN",
+                "idFTDNA": "378346",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-Y18889",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Uzungöl/Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1237,
+                    40.8086433
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ustabaş",
+                "idFTDNA": "311345",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Koyuncular Village (Vadon), Sürmene, Trabzon"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.12194,
+                    40.9094162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alioğlu",
+                "idFTDNA": "311354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M406",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Sürmene/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.08598,
+                    40.89944
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sürmen",
+                "idFTDNA": "311908",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-CTS6804",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Yukarıçavuşlu/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.7178,
+                    41.00145
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Demir",
+                "idFTDNA": "282388",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.7793465,
+                    40.65602
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kiriakidis",
+                "idFTDNA": "373657",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M12135",
+                "PozycjaPrzypisanaPrzezProjekt": "Trabzon",
+                "NazwaLokalizacji": "Dumanlı, 29100 Dumanlı/Gümüşhane Merkez/Gümüşhane, Турция"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.5166664,
+                    40.1833344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Araz",
+                "idFTDNA": "278749",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M317",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-Azerbaican-xxx",
+                "NazwaLokalizacji": "Erivan, Ermenistan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.19038,
+                    39.81282
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "YILDIZ",
+                "idFTDNA": "415402",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS7111",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-North Caucasia-xxx",
+                "NazwaLokalizacji": "Sorgun, Sorgun/Yozgat, Turquie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.56285,
+                    43.3932457
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Deniz",
+                "idFTDNA": "E7891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-U1",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-North Caucasia-xxx",
+                "NazwaLokalizacji": "Russian Federation, Республика Кабардино-Балкария"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.0551529,
+                    40.9397163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gülak",
+                "idFTDNA": "IN25019",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M173",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-North Caucasia-xxx",
+                "NazwaLokalizacji": "Araklı, Trabzon, Türkei"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0426331,
+                    39.5601044
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karakhan",
+                "idFTDNA": "510757",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y30217",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-North Caucasia-xxx",
+                "NazwaLokalizacji": "24400 Tan/Kemah/Erzincan, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.267025,
+                    38.3114853
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "özdemir",
+                "idFTDNA": "367810",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-South East Anatolia-xxx",
+                "NazwaLokalizacji": "Yeşilyurt/Malatya, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.24332,
+                    38.9637451
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Koç",
+                "idFTDNA": "374458",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-Western and Central Anatolia-xxx",
+                "NazwaLokalizacji": "Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.4825974,
+                    38.72049
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cinar",
+                "idFTDNA": "633073",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Y38327",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-Western and Central Anatolia-xxx",
+                "NazwaLokalizacji": "Kayseri, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.97696,
+                    41.00527
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Asimakidis",
+                "idFTDNA": "N140468",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH908",
+                "PozycjaPrzypisanaPrzezProjekt": "xxx-Another Places Around Black Sea-Western and Central Anatolia-xxx",
+                "NazwaLokalizacji": "Istanbul, Turkiet"
+            }
+        }
+    ]
+}

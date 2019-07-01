@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    48.8475,
+                    38.75287
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khansuvar",
+                "idFTDNA": "453854",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ленкорань, Азербайджан"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.97836,
+                    41.0082359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ikiz",
+                "idFTDNA": "525159",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Istanbul"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.9359131,
+                    54.8089066
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tot (Tsivtsivaze / Evdokimov)",
+                "idFTDNA": "630092",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Кондрово, Калужская обл., Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.37149,
+                    40.4392281
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Crott",
+                "idFTDNA": "B153213",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Orhangazi/Bursa, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    48.33772,
+                    15.4902334
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bazqamah",
+                "idFTDNA": "M11251",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R2-T13500C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alhajrain, Yemen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.78495,
+                    41.6473427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jalaghonia",
+                "idFTDNA": "559523",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Melaani"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7868576,
+                    42.65017
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "461909",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Chkhuteli, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5833,
+                    41.2333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sakhltkhutsishvili",
+                "idFTDNA": "47732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.27138,
+                    42.0709572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pateishvili",
+                "idFTDNA": "321884",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Kvemo Nogha, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.25,
+                    43.3333321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rabaia",
+                "idFTDNA": "232377",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "H",
+                "NazwaLokalizacji": "Gagra, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.04581,
+                    41.9442749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sherozia-Iremadze",
+                "idFTDNA": "420178",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "J",
+                "NazwaLokalizacji": "Guria, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.33508,
+                    41.72539
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "359424",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Sagarejo, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.90008,
+                    32.1656227
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Beria",
+                "idFTDNA": "460470",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "U",
+                "NazwaLokalizacji": "Джорджия, США"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.2761,
+                    42.2863
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Buzaladze",
+                "idFTDNA": "190732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W6",
+                "PozycjaPrzypisanaPrzezProjekt": "W",
+                "NazwaLokalizacji": "Chiatura, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.73566,
+                    42.62803
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "E10625",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2e2a",
+                "PozycjaPrzypisanaPrzezProjekt": "X",
+                "NazwaLokalizacji": "Gali, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5219135,
+                    49.3495674
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gogitidze",
+                "idFTDNA": "199820",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D4c2b",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Drohobych, L'vivs'ka oblast, Ukraine"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.0637,
+                    42.7003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanov",
+                "idFTDNA": "230560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Chechen Republic, Sadoy / H'amtci /"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7510643,
+                    43.3084526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bayraktar",
+                "idFTDNA": "248446",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Verkhniy Baksan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    85.34512,
+                    51.9657059
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vatsadze",
+                "idFTDNA": "283398",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W6a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Алтайское, Алтайский край, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.5566921,
+                    38.7507133
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "pal",
+                "idFTDNA": "320190",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a-C150T",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Emirdag, Turkije"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.89418,
+                    41.1788521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "G",
+                "idFTDNA": "293622",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other ethnic groups XX",
+                "NazwaLokalizacji": "Pazar, Türkiye"
+            }
+        }
+    ]
+}

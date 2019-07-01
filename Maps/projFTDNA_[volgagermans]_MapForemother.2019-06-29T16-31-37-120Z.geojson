@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Niemeläinen",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9706287,
+                    62.429718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Einspenner",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arrington/Wells",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vermont, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.57784,
+                    44.5588036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brown",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1am",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "England, United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7704274,
+                    52.0190277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gordon",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jackson, TN, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.81395,
+                    35.6145172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Väisänen",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "01900 Nurmijärvi, Suomi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8071747,
+                    60.4655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hernández",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cerralvo Municipality, Nuevo León, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6156,
+                    26.08427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEDIMINID ROYAL PRINC",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kelmė, Lietuvos Respublika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.94393,
+                    55.6299171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stahlman",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gould",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Stuttgart, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.182932,
+                    48.7758446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wagner",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Werchnjaja Kulaninka, Oblast Wolgograd, Russland, 403863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.69583,
+                    50.41528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dunaway",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "87024 Fuscaldo CS, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0266953,
+                    39.4129524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "forrestal",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.692054,
+                    53.14237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meisinger",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Missouri, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.83183,
+                    37.9642525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rodriguez",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Berlino, Germania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404954,
+                    52.5200081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scholz",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bremen, Palatine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.801694,
+                    53.0792961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jurado",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "18550 Iznalloz, Granada, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.519932,
+                    37.3925819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schreiber",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rendel, 61184 Karben, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.790282,
+                    50.21403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koch",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1d1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Saint-Valentin, QC J0J, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.33625,
+                    45.1242867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cloughly",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1j7",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "kentucky, united states"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.27002,
+                    37.8393326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suttora",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Palásovka, Óblast de Volgogrado, Rusia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.88867,
+                    50.0429764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haikonen",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.59496,
+                    62.555584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilcoxon",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cortland, NY 13045, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.18048,
+                    42.60118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REDGATE (ADOPTED)",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "B",
+                "HaploGleboka": "B2d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Boyacá, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.362,
+                    5.454511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Streck",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3aj",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Abbeville, SC 29620, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.37901,
+                    34.1781731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hobrla",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Varna, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9275,
+                    43.2260971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reinhart Sinclair",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flatt",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Stahl-am-Tarlyk near Stepnoje, Saratov Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.8425865,
+                    51.37728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mangano",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1af",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lesnoy Karamesh, Saratov Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.9798164,
+                    51.5563774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boos",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Măgherani 547385, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9018326,
+                    46.56427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manninen",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "77330 Hällinmäki, Suomi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5243244,
+                    62.0810661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hopp",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kulm, Bessarabia, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.044178,
+                    46.2502136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zito",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Warenburg, Staropoltavsky District, Volgograd Oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.05,
+                    50.56
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H56a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Byrne",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Y",
+                "HaploGleboka": "Y1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Žilina, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.741951,
+                    49.2215919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ikonen",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.43,
+                    62.38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GROSSE",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg C",
+                "NazwaLokalizacji": "Paulista - PE, Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34.8723335,
+                    -7.940088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kindsvater",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Russian Federation, Province of Irkutsk, поселок Усть-Уда"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.032448,
+                    54.17143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kern",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H16a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Saratov, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.318756,
+                    61.52401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clark",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Barbour, AL, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3549652,
+                    31.81729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mehudar",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H26a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Bavaria, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4978895,
+                    48.7904472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weeder",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H78",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Dayton, OH, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1916046,
+                    39.75895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Propp",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H31",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.24389,
+                    53.41291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zickar",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hein",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "North Carolina, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0193,
+                    35.7595749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slagle Sheridan",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1s1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "selo Nekrasovo, Province of Saratov, Russian Federation"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.31753,
+                    51.16122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wood",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Gerdau, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4175711,
+                    52.9670143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duffy",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg H",
+                "NazwaLokalizacji": "Saratov Oblast, Russia, 413287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46,
+                    51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kraus",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV6",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg HV",
+                "NazwaLokalizacji": "Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viste",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg I",
+                "NazwaLokalizacji": "In Baden, 66571 Eppelborn, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00112,
+                    49.41726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartman",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg I",
+                "NazwaLokalizacji": "Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.16558,
+                    48.3794327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hundertmark",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg I",
+                "NazwaLokalizacji": "Haselbury Plucknett, Somerset TA18, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.750257,
+                    50.8966064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krupa",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg J",
+                "NazwaLokalizacji": "Lasinja, Hrvatska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8591461,
+                    45.5282631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bachman",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg J",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schroh",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c15",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg J",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nichols",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg J",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.68,
+                    50.17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartmann",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg K",
+                "NazwaLokalizacji": "Черниговская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.28935,
+                    51.4982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noffs",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg K",
+                "NazwaLokalizacji": "Abercorn, Monmouthshire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.672088,
+                    51.7825432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg R",
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Markel",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg T",
+                "NazwaLokalizacji": "Cannon, Tennessee, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05296,
+                    35.8070335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Read",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg T",
+                "NazwaLokalizacji": "Russian Federation, Province of Saratov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.75394,
+                    51.8369255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heinze",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b3b",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg T",
+                "NazwaLokalizacji": "Russell County, KY, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.06491,
+                    36.980648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cariaga",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg U",
+                "NazwaLokalizacji": "Ochsenbach, Sachsenheim, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.973981,
+                    49.0275726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thom",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V26",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg V",
+                "NazwaLokalizacji": "Fenny Stratford, Bletchley, Milton Keynes MK2, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.722885,
+                    51.9979744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jensen-Clark",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1-T119C",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg W",
+                "NazwaLokalizacji": "Bramberg, 96106 Ebern, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6631117,
+                    50.098423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duhaime",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg W",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.84,
+                    53.04
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karlin",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg X",
+                "NazwaLokalizacji": "Донки (Фёдоровка), Сапожковский район, Рязанская область, Россия"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.77198,
+                    53.9354248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pingel",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg X",
+                "NazwaLokalizacji": "Hüsten, Arnsberg, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.976842,
+                    51.4306221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pingel-McAfee",
+                "idFTDNA": "",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hg X",
+                "NazwaLokalizacji": "Süchteln, 41749 Viersen, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.372265,
+                    51.2833252
+                ]
+            }
+        }
+    ]
+}

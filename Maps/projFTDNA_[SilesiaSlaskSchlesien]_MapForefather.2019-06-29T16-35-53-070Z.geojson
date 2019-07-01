@@ -1,0 +1,1485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.",
+                "idFTDNA": "534783",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Boronów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9239063,
+                    50.6716156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Granieczny",
+                "idFTDNA": "698734",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Raszczyce, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2996273,
+                    50.1210327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gawlica",
+                "idFTDNA": "719248",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19394,
+                    50.2566872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Folwarczny",
+                "idFTDNA": "B140649",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "44-348 Krostoszowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.47827,
+                    49.95771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dehn",
+                "idFTDNA": "B270006",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Wirek, 41-700 Ruda Slaska, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8601055,
+                    50.2696266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czmok",
+                "idFTDNA": "IN59088",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1182",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bierawa, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3050518,
+                    50.2813072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sas",
+                "idFTDNA": "MI41608",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "96-115 Doleck, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.30306,
+                    51.8990936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vogt",
+                "idFTDNA": "312597",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M78",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo E1b",
+                "NazwaLokalizacji": "Kamitz bei Patschkau Prussia now Kamienica Opole Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9539757,
+                    50.4493446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kowalski",
+                "idFTDNA": "231079",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FGC477",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo G2a",
+                "NazwaLokalizacji": "Uszyce, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.35,
+                    51.11667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEDLAK",
+                "idFTDNA": "77376",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo G2a",
+                "NazwaLokalizacji": "Kassa Jaras, Abauj Megye, Hungary (now just over border in Slovakia)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.248,
+                    48.584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liehr",
+                "idFTDNA": "N11115",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z59",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I1",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58,
+                    51.93
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botur",
+                "idFTDNA": "167103",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I1",
+                "NazwaLokalizacji": "Tarnowskie Góry, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.52,
+                    50.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitrenga",
+                "idFTDNA": "392904",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A17799",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I1",
+                "NazwaLokalizacji": "Świerklaniec, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.946207,
+                    50.43591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bulla",
+                "idFTDNA": "468007",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L1242",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I1",
+                "NazwaLokalizacji": "Boronów, present-day Poland, pre 1922 Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.90676,
+                    50.67424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bochnia",
+                "idFTDNA": "491970",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I2-M223",
+                "NazwaLokalizacji": "Dziewkowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33903,
+                    50.5110779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitrenga",
+                "idFTDNA": "528194",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I2-P37.2",
+                "NazwaLokalizacji": "Kuźnia Raciborska, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31153,
+                    50.20009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mitrenga",
+                "idFTDNA": "IN40676",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I2-P37.2",
+                "NazwaLokalizacji": "47-420 Kuźnia Raciborska, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31153,
+                    50.20009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mrohs",
+                "idFTDNA": "N237509",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I2-P37.2",
+                "NazwaLokalizacji": "Grodzisko, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.240366,
+                    50.5844269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jureczko",
+                "idFTDNA": "570335",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo I2-P37.2",
+                "NazwaLokalizacji": "Suszec, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8460922,
+                    50.032093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prissovsky",
+                "idFTDNA": "797752",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y144394",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo J2",
+                "NazwaLokalizacji": "Ołbin, 50-001 Wrocław, Польша"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0544586,
+                    51.1220474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jureczko",
+                "idFTDNA": "470984",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y30086",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo J2",
+                "NazwaLokalizacji": "Suszec, Kryry and Łąka (Górny Śląsk)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7916775,
+                    50.0295677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baron",
+                "idFTDNA": "211403",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo J2",
+                "NazwaLokalizacji": "Paczkow, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01,
+                    50.46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabel",
+                "idFTDNA": "278599",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y13373",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo J2",
+                "NazwaLokalizacji": "Wroclaw, Poland (Breslau, Schlesien)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0174847,
+                    51.11421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krupa",
+                "idFTDNA": "89372",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-YP1035",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo Q",
+                "NazwaLokalizacji": "Mikołów, Poljska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9038029,
+                    50.17902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brzoska",
+                "idFTDNA": "750656",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Krasowy, 41-409 Mysłowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1384983,
+                    50.1833076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noack",
+                "idFTDNA": "536140",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Crossen an der Oder, Brandenburg, Prussia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09721,
+                    52.05504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Behnke",
+                "idFTDNA": "178329",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M458",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Chorzów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9545727,
+                    50.29749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dunin-Wasowicz",
+                "idFTDNA": "199575",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP593",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Wrocław, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.038538,
+                    51.1078835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schwabe",
+                "idFTDNA": "271280",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP416",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Milicz, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2712116,
+                    51.5275955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chlebus-Jancarczyk",
+                "idFTDNA": "496261",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2912",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 CTS11962",
+                "NazwaLokalizacji": "Harbutowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.78257,
+                    49.81378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kubiczek",
+                "idFTDNA": "528442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1337",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "747 64 Budišovice, Czechy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03962,
+                    49.8613167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wickramapala",
+                "idFTDNA": "400643",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y16235",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Wrocław, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.038538,
+                    51.1078835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skowron",
+                "idFTDNA": "439329",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2905",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Paniówki, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.782259,
+                    50.23195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wick",
+                "idFTDNA": "329542",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y16235",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Breslau, Prussia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.038538,
+                    51.1078835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rolka",
+                "idFTDNA": "363910",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2905",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Międzyrzecze, Polska - Poland (Upper Silesia, German Empire pre 1918)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.065876,
+                    50.02283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HECHELSKI",
+                "idFTDNA": "376660",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP414",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Brzęczkowice, Pologne"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58737,
+                    50.6260643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rose",
+                "idFTDNA": "172283",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Walbrzych, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2843552,
+                    50.784008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mr. Bestvina/ Bestwina",
+                "idFTDNA": "140706",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Jaworzynka, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8697262,
+                    49.5398178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanak",
+                "idFTDNA": "154913",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP610",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Niemodlin, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6267757,
+                    50.63944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernatek",
+                "idFTDNA": "260299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1364",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Glubczyce, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8166676,
+                    50.2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czekala",
+                "idFTDNA": "701812",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Gamów (Gammau)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1275063,
+                    50.1363678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tomaszek",
+                "idFTDNA": "N18946",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M458",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-M458 L260",
+                "NazwaLokalizacji": "Żywiec, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1823978,
+                    49.6913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wiancko",
+                "idFTDNA": "N156262",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP314",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Breslau, Silesian Voivodeship, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3219776,
+                    50.57166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bulawa",
+                "idFTDNA": "N38418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Krzyzowa, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3333,
+                    49.6167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kleemann",
+                "idFTDNA": "E5412",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P278",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Opole, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9244385,
+                    50.67043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biallas (mgd by dau)",
+                "idFTDNA": "721381",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27799",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Falkowitz (Fałkowice)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8579235,
+                    50.9205055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gazda",
+                "idFTDNA": "465642",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP237",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Bładnice Górne, Polsko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7889442,
+                    49.75779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maxelon",
+                "idFTDNA": "249444",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "47-134 Błotnica Strzelecka, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41074,
+                    50.48881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lasek",
+                "idFTDNA": "295227",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Warszowice, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71157,
+                    49.9924545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kotzur",
+                "idFTDNA": "163780",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P278",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "44-172 Niewiesze, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4903011,
+                    50.4000664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hammann",
+                "idFTDNA": "210950",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP4335",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salzmann",
+                "idFTDNA": "192545",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z92",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z280",
+                "NazwaLokalizacji": "48-100 Głubczyce, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8287,
+                    50.20027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huebner",
+                "idFTDNA": "878910",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z93",
+                "NazwaLokalizacji": "Schmottseiffen, County Loewenberg, Silesia, present-day 59-623 Pławna Górna, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5637674,
+                    51.0388832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Twardoch",
+                "idFTDNA": "645401",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z2123",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1a-Z93",
+                "NazwaLokalizacji": "Bujaków, Mikołów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8011646,
+                    50.1846428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Klose",
+                "idFTDNA": "386977",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-??? (SNP test needed)",
+                "NazwaLokalizacji": "Wrocław, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.038538,
+                    51.1078835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peltz",
+                "idFTDNA": "464824",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-??? (SNP test needed)",
+                "NazwaLokalizacji": "Prussia (Germany)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404954,
+                    52.5200081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ulfik",
+                "idFTDNA": "657346",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L51",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-L51 (L151-, Big Y needed)",
+                "NazwaLokalizacji": "Sadów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7481365,
+                    50.6715775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUNERT",
+                "idFTDNA": "MI21782",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC79327",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-P312->U152",
+                "NazwaLokalizacji": "Heidau (kreis Ohlau) / Gać (powiat Oława) - Schlesien/Śląsk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3654346,
+                    50.8870277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schindler",
+                "idFTDNA": "B250927",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-A7992",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-P312->U152",
+                "NazwaLokalizacji": "pre WW2 Kochendorf Niederschlesien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.250227,
+                    50.7835464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schirm",
+                "idFTDNA": "E2541",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY20350",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-U106",
+                "NazwaLokalizacji": "Oberschlesien, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3219776,
+                    50.57166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schulz",
+                "idFTDNA": "N89895",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC564",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-U106",
+                "NazwaLokalizacji": "Gmina Żagań, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3248329,
+                    51.6178436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Janocha",
+                "idFTDNA": "E17086",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L150",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-Z2103",
+                "NazwaLokalizacji": "Walzen, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.003334,
+                    50.3731461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nawrot",
+                "idFTDNA": "684074",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M12149",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-Z2103",
+                "NazwaLokalizacji": "Bytom, Polska (Górny Śląsk)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9157181,
+                    50.34838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vůjtek",
+                "idFTDNA": "502383",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY74360",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-Z2103",
+                "NazwaLokalizacji": "Klimkovice, Česká republika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1328754,
+                    49.7864075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Konieczny",
+                "idFTDNA": "176123",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY593",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo R1b-Z2103",
+                "NazwaLokalizacji": "Gliwice, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.671381,
+                    50.29449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schuetz",
+                "idFTDNA": "161332",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-P322",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplo T",
+                "NazwaLokalizacji": "Zielona Góra, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6,
+                    52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pilat",
+                "idFTDNA": "239065",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-CTS8173",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "37-470 Irena, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0520439,
+                    50.7583733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schlesier",
+                "idFTDNA": "244137",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3789",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "Wellerswalde, 04758 Liebschützberg, Sachsen, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.095149,
+                    51.3409653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ernst",
+                "idFTDNA": "443711",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "south of Hanover, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.732011,
+                    52.3758926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phillips",
+                "idFTDNA": "446468",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "Bochnia, Austria (now Poland)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4303284,
+                    49.9684563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Persson",
+                "idFTDNA": "403480",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27180",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "534 96 Ryda, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8666668,
+                    58.2833328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaszyca",
+                "idFTDNA": "549852",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "Włosienica, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.31604,
+                    50.0173645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jurowski",
+                "idFTDNA": "575786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y53380",
+                "PozycjaPrzypisanaPrzezProjekt": "X. Guests (mtDNA and autosomal or unproven connections)",
+                "NazwaLokalizacji": "Rejon grodzieński, Białoruś"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.20887,
+                    53.60935
+                ]
+            }
+        }
+    ]
+}

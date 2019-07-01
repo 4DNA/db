@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tieniber",
+                "idFTDNA": "703094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lipno, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1784134,
+                    52.8441467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hermanson",
+                "idFTDNA": "B80962",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rudziny, West Prussia (Poland)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.85153,
+                    53.8593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kleczkowska",
+                "idFTDNA": "N60356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Skórcz, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5248966,
+                    53.7937164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuch",
+                "idFTDNA": "N61776",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "87-851 Łania, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9401989,
+                    52.41883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moyer",
+                "idFTDNA": "B4519",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1u",
+                "PozycjaPrzypisanaPrzezProjekt": "Connection to Vistula not established",
+                "NazwaLokalizacji": "Clapham, Bedford, Bedford, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5031412,
+                    52.1643944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myers",
+                "idFTDNA": "277874",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Connection to Vistula not established",
+                "NazwaLokalizacji": "Scotland, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.202646,
+                    56.4906731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harding",
+                "idFTDNA": "207883",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Connection to Vistula not established",
+                "NazwaLokalizacji": "Somerset, PA 15501, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.07809,
+                    40.00841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Welke",
+                "idFTDNA": "132682",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "Connection to Vistula not established",
+                "NazwaLokalizacji": "Iowa, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.0977,
+                    41.8780022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weyant",
+                "idFTDNA": "374180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": "Connection to Vistula not established",
+                "NazwaLokalizacji": "Central City, PA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.80196,
+                    40.1106339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gudgeon",
+                "idFTDNA": "178451",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Europe",
+                "NazwaLokalizacji": "Austria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5500717,
+                    47.51623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braun",
+                "idFTDNA": "161136",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7",
+                "PozycjaPrzypisanaPrzezProjekt": "Hungary",
+                "NazwaLokalizacji": "Cikó, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.56151,
+                    46.25932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van der Meij",
+                "idFTDNA": "128054",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e",
+                "PozycjaPrzypisanaPrzezProjekt": "Netherlands/Germany",
+                "NazwaLokalizacji": "2411 Bodegraven, Nederland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.746084,
+                    52.082325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Weintraub",
+                "idFTDNA": "355318",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Poland",
+                "NazwaLokalizacji": "Ostrowiec, Ostrowiec Świętokrzyski, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4,
+                    50.933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schultz",
+                "idFTDNA": "B2205",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2e1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Poland",
+                "NazwaLokalizacji": "87-500 Rypin, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.40941,
+                    53.065712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wolter",
+                "idFTDNA": "E16460",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Poland",
+                "NazwaLokalizacji": "21-070 Sewerynów, Polen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.13,
+                    51.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Pommern Prussia/Poland",
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gatzke",
+                "idFTDNA": "252758",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7b4",
+                "PozycjaPrzypisanaPrzezProjekt": "Pommern Prussia/Poland",
+                "NazwaLokalizacji": "Wierszyno, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2121868,
+                    54.2765961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gutt",
+                "idFTDNA": "275076",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W",
+                "PozycjaPrzypisanaPrzezProjekt": "Vistula River Basis",
+                "NazwaLokalizacji": "Bolimów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1635971,
+                    52.0763969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radtke",
+                "idFTDNA": "74192",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": "Vistula River Basis",
+                "NazwaLokalizacji": "Grójczyk, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.84696,
+                    52.4750557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ikelman",
+                "idFTDNA": "379722",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Vistula River Basis",
+                "NazwaLokalizacji": "Zielonka, Germany, present-day Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1607246,
+                    52.30344
+                ]
+            }
+        }
+    ]
+}

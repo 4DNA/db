@@ -1,0 +1,1725 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubadeau",
+                "idFTDNA": "114665",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY31784",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Galicia, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.133856,
+                    42.5750542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guerreiro",
+                "idFTDNA": "311503",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "7700 Almodôvar, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.060501,
+                    37.5117874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castells",
+                "idFTDNA": "320723",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2077",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Barcelona, Spanien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1734035,
+                    41.3850632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosa Oliveira",
+                "idFTDNA": "490056",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Madalena, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.5185089,
+                    38.5298843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "543826",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jämtlands län, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95918,
+                    63.1711922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garcia",
+                "idFTDNA": "579602",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY171267",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "La Rochelle, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.151139,
+                    46.1603279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lima",
+                "idFTDNA": "613692",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "9950 Bandeiras, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.463768,
+                    38.5389252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Searfoss",
+                "idFTDNA": "61377",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U106",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Beaver Township, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.44222,
+                    40.78611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lindqvist",
+                "idFTDNA": "635579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y12322",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nybyn, Överkalix, Norrbotten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8427525,
+                    66.32718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mojica",
+                "idFTDNA": "860748",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Río Piedras, San Juan, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0404053,
+                    18.3894787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Medeiros",
+                "idFTDNA": "AM20505",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Natal, State of Rio Grande do Norte, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35.2009163,
+                    -5.779257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rudd",
+                "idFTDNA": "B169612",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jumping Run, Halifax County, NC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.0069351,
+                    36.10543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richardson",
+                "idFTDNA": "B187084",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2077",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lincoln County, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.406807,
+                    33.88533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kull",
+                "idFTDNA": "B36243",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY332",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gaisburg, 70188 Stuttgart, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.21591,
+                    48.7838364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anguiano",
+                "idFTDNA": "B400506",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "26321 Pedroso, La Rioja, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.71765113,
+                    42.29962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gouveia",
+                "idFTDNA": "IN10705",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Castelo de Penalva, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.643961,
+                    40.6552429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corbella",
+                "idFTDNA": "IN15561",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC20030",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Catalonia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.23707235,
+                    41.5630379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castillo",
+                "idFTDNA": "N144931",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS1977",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.16265,
+                    18.735693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vazquez",
+                "idFTDNA": "N28836",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "21600 Valverde del Camino, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.75337648,
+                    37.5733948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sequeira",
+                "idFTDNA": "N45455",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Meirinhos, Mogadouro, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.82510948,
+                    41.262722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferreira",
+                "idFTDNA": "N77515",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Cruz Machado - PR, Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.3457069,
+                    -26.0174847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gonzalez Restrepo",
+                "idFTDNA": "N85944",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Cisneros, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.08594,
+                    6.53826427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romero",
+                "idFTDNA": "B92009",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY108219",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Atrisco Dr NW, Albuquerque, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.70163,
+                    35.11082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paiva",
+                "idFTDNA": "93597",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Curuçá - Pará, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.8518867,
+                    -0.7398782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLA",
+                "idFTDNA": "605521",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Mataró, Barcelona, Espanya"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.44474053,
+                    41.5381126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noyes",
+                "idFTDNA": "567548",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S14887",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Alabama, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9023,
+                    32.31823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "da Ponte",
+                "idFTDNA": "574494",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2078",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "9600 Ribeira Grande, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.5148144,
+                    37.8210373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eklund",
+                "idFTDNA": "319401",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Marche, Italien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9896154,
+                    43.5058746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gomes (BigY & YFull)",
+                "idFTDNA": "518336",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y138776",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "9950 Santa Luzia, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.3944016,
+                    38.5469475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Machado Alvernaz",
+                "idFTDNA": "520795",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "9950 Santa Luzia, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.3944016,
+                    38.5469475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosa",
+                "idFTDNA": "496970",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "9950 Bandeiras, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.463768,
+                    38.5389252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silveira",
+                "idFTDNA": "497002",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "9950 Bandeiras, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.463768,
+                    38.5389252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mendes",
+                "idFTDNA": "500282",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.224454,
+                    39.39987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabral",
+                "idFTDNA": "410127",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Porto Formoso, Sao Miguel island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.4281883,
+                    37.82177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cabanellas",
+                "idFTDNA": "424003",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "07460 Pollença, Illes Balears, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.01620269,
+                    39.8771935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Archibeque",
+                "idFTDNA": "427989",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Bayonne, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.474841,
+                    43.49295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rodríguez-Ortega",
+                "idFTDNA": "27906",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Santa Fe, NM, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.938065,
+                    35.68162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gonzalez Quiñones",
+                "idFTDNA": "285584",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "45700 Consuegra, Toledo, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6083,
+                    39.45958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borders",
+                "idFTDNA": "258183",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Bucks, PA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.24791,
+                    40.4107971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reynolds",
+                "idFTDNA": "26855",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Brown, Indiana, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.17518,
+                    39.1749725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lamazares",
+                "idFTDNA": "15376",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Rio, Rodeiro, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.929863,
+                    42.6583176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velez Velez",
+                "idFTDNA": "155762",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Isabela 00662, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.02263,
+                    18.456131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baez (y-67)",
+                "idFTDNA": "165688",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "San Luis Potosi-Lagos de Moreno, JAL, México"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.932556,
+                    21.3558922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Solis",
+                "idFTDNA": "182993",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Livingston, Guatemala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.75,
+                    15.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santos (c/o Terri)",
+                "idFTDNA": "184314",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Nordeste, São Miguel island, Azores, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.1459312,
+                    37.8322678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diaz",
+                "idFTDNA": "217748",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1-AS (generic): Z58 and Z63 SNP Tests Needed (or Big Y)",
+                "NazwaLokalizacji": "Toa Alta, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.24822,
+                    18.3882828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carriço",
+                "idFTDNA": "176551",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L22",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22: I1d",
+                "NazwaLokalizacji": "R. Rainha do Alentejo, 7220 Portel, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.71300173,
+                    38.3983459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sollien",
+                "idFTDNA": "250650",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22: I1d",
+                "NazwaLokalizacji": "Kolsrud 2223 Galterud, Norge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8448277,
+                    60.19634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Titov",
+                "idFTDNA": "440131",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y13389",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22: I1d",
+                "NazwaLokalizacji": "Макаровка (Нижнекамский р-н), Респ. Татарстан, Россия, 423568"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.712883,
+                    55.2818642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sturdevant",
+                "idFTDNA": "H1011",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC28751",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22: I1d",
+                "NazwaLokalizacji": "Norwalk, CT, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.40816,
+                    41.1177444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ramirez Jimenez",
+                "idFTDNA": "235310",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P109",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22>P109+: I1d1",
+                "NazwaLokalizacji": "San Germán, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.02263,
+                    18.0991936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "García",
+                "idFTDNA": "114650",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P109",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22>P109+: I1d1",
+                "NazwaLokalizacji": "Guaynabo, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.11107,
+                    18.3615551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cunningham",
+                "idFTDNA": "N102031",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY20485",
+                "PozycjaPrzypisanaPrzezProjekt": "I-L22>P109+: I1d1",
+                "NazwaLokalizacji": "Lafayette, IN, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.87529,
+                    40.4167023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Falguera i Navarro (BigY & YFull)",
+                "idFTDNA": "258047",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A5723",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> A5716 > A5726 > A5721 subclade",
+                "NazwaLokalizacji": "08233 Vacarisses, Barcelona, Spanien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.92224383,
+                    41.59633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hernandez",
+                "idFTDNA": "N44367",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z58",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58: Need to test Z59, Z138 / Z139.",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.41667,
+                    28.1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Assis",
+                "idFTDNA": "186577",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y40258",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z139 > Z2541 subclade",
+                "NazwaLokalizacji": "Espinho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.224454,
+                    39.39987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deniz",
+                "idFTDNA": "480832",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY477",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> CTS8647 > Z62 > Z60 > Z140 > Z141 > BY477 subclade",
+                "NazwaLokalizacji": "9700 Raminho, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.3300629,
+                    38.78813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "van der Vlugt",
+                "idFTDNA": "400634",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z61",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62: test Z140, Z73 (Big Y suggested)",
+                "NazwaLokalizacji": "Schieveen, 3046 Rotterdam, Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40790272,
+                    51.9613342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Altreche",
+                "idFTDNA": "156213",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z140",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62: test Z140, Z73 (Big Y suggested)",
+                "NazwaLokalizacji": "San Sebastián, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.99468,
+                    18.3353462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Álvarez",
+                "idFTDNA": "286630",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z60",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62: test Z140, Z73 (Big Y suggested)",
+                "NazwaLokalizacji": "Mirasol, Lares, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.85287,
+                    18.2477341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cirilo Maldonado",
+                "idFTDNA": "364566",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A6934",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> A196",
+                "NazwaLokalizacji": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.65238,
+                    18.3257866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salles Fernandes",
+                "idFTDNA": "172172",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A2339",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> A196",
+                "NazwaLokalizacji": "Livramento de Nossa Senhora - BA, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.84222,
+                    -13.6431713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fernandes Batista",
+                "idFTDNA": "186619",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A2339",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> A196",
+                "NazwaLokalizacji": "Livramento de Ns. - Bahia, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.84222,
+                    -13.6431713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gruber",
+                "idFTDNA": "E11122",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A1894",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> A196",
+                "NazwaLokalizacji": "Huisheim, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7040911,
+                    48.82519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de Macedo Soares",
+                "idFTDNA": "633784",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A8621",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> CTS10937",
+                "NazwaLokalizacji": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.224454,
+                    39.39987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arnold",
+                "idFTDNA": "B4409",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A1965",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z58> Z59> Z60/Z61/Z62> Z140/Z141> S1953/Z2535> S1954> L338",
+                "NazwaLokalizacji": "Dorohoi, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3997955,
+                    47.9583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moreno",
+                "idFTDNA": "N132560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L1237",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63",
+                "NazwaLokalizacji": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74922,
+                    40.46367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Biase Duerto",
+                "idFTDNA": "444792",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY34386",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> BY332> BY3411 subclade",
+                "NazwaLokalizacji": "71036 Lucera, Province of Foggia, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3385286,
+                    41.50548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torres",
+                "idFTDNA": "56147",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> BY332> S11542, BY14, BY11: recLOH (21, 21 at YCA II a,b)",
+                "NazwaLokalizacji": "Arecibo, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.73872,
+                    18.4519386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gomes Torres",
+                "idFTDNA": "186618",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3426",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> BY332> S11542, BY14, BY11: recLOH (21, 21 at YCA II a,b)",
+                "NazwaLokalizacji": "Mariz, Barcelos, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67176151,
+                    41.5278168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salles Fernandes Silva Torres",
+                "idFTDNA": "148532",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7065",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> BY332> S11542, BY14, BY11: recLOH (21, 21 at YCA II a,b)",
+                "NazwaLokalizacji": "Mariz, Barcelos, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67176151,
+                    41.5278168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE OLIVEIRA",
+                "idFTDNA": "253736",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7067",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> BY351 > BY332 > BY11 > Y7067 subclade",
+                "NazwaLokalizacji": "República Federativa do Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.92528,
+                    -14.2350044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chavez",
+                "idFTDNA": "12739",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2078",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078 subclade (Big Y suggested)",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.816943,
+                    38.21694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davila",
+                "idFTDNA": "B60624",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2078",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078 subclade (Big Y suggested)",
+                "NazwaLokalizacji": "Jerez, Cádiz, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.12607431,
+                    36.6850052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torres",
+                "idFTDNA": "270328",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7666",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683 > BY1933 > Y7666 subclade",
+                "NazwaLokalizacji": "Lares, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.87967,
+                    18.2594967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuellar",
+                "idFTDNA": "314418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY13858",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683: PR683, S10360, L1237, S11542 tests recommended",
+                "NazwaLokalizacji": "Bogotá, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0758362,
+                    4.59805536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santistevan",
+                "idFTDNA": "248517",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S2078",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683: PR683, S10360, L1237, S11542 tests recommended",
+                "NazwaLokalizacji": "Valverde de Llerena, Badajoz, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8167,
+                    38.2167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fernández Carballada",
+                "idFTDNA": "N34614",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY151",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683: PR683, S10360, L1237, S11542 tests recommended",
+                "NazwaLokalizacji": "Ferreira de Pantón, Lugo, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.62846,
+                    42.5049477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arjonilla",
+                "idFTDNA": "N28914",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683> S10360> L1242(T2)",
+                "NazwaLokalizacji": "Arjonilla, Jaen, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.11,
+                    37.97
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arjonilla",
+                "idFTDNA": "N11902",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L1243",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683> S10360> L1242(T2)",
+                "NazwaLokalizacji": "Arjonilla, Jaen, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1,
+                    37.9666672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arjonilla",
+                "idFTDNA": "N100636",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "M253> DF29> Z63 > BY151> L849> S2078> PR683> S10360> L1242(T2)",
+                "NazwaLokalizacji": "23750 Arjonilla, Jaen, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.11,
+                    37.97
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bullis + Portillo",
+                "idFTDNA": "266302",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z131",
+                "PozycjaPrzypisanaPrzezProjekt": "M253> Z131",
+                "NazwaLokalizacji": "Birmingham, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.85356,
+                    52.4533768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braz",
+                "idFTDNA": "260237",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3098",
+                "PozycjaPrzypisanaPrzezProjekt": "P215 I2",
+                "NazwaLokalizacji": "3630 Penela da Beira, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.419125,
+                    41.0443459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tavares de Melo Neto",
+                "idFTDNA": "E12153",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L801",
+                "PozycjaPrzypisanaPrzezProjekt": "P215 I2",
+                "NazwaLokalizacji": "Pernambuco, Brasil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36.9541054,
+                    -8.813717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cavalcanti",
+                "idFTDNA": "82516",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS6433",
+                "PozycjaPrzypisanaPrzezProjekt": "P215 I2",
+                "NazwaLokalizacji": "Ilha de Itamaracá - , Itamaracá - State of Pernambuco, Brazil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34.83063,
+                    -7.74807739
+                ]
+            }
+        }
+    ]
+}

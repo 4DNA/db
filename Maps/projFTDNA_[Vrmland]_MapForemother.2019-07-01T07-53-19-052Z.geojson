@@ -1,0 +1,3685 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Christ",
+                "idFTDNA": "176968",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2g2a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5726109,
+                    59.4418335
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Uddholm",
+                "idFTDNA": "260947",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alstern, Karlstad NO, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0981369,
+                    58.48688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lilliesköld",
+                "idFTDNA": "299981",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Brastorp, Råda, Lidköping, Västergötland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.15,
+                    66.2
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Häggmark",
+                "idFTDNA": "365898",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bjornbergstrask, 961 92 Boden, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5921364,
+                    59.6548538
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Keil",
+                "idFTDNA": "392046",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Arvika, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1440468,
+                    59.83656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Forsberg",
+                "idFTDNA": "401546",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sunne, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1884947,
+                    55.8285
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Skoog",
+                "idFTDNA": "451702",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "240 30 Virke, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3820257,
+                    58.8817024
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lie",
+                "idFTDNA": "451032",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tisselskog, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7851381,
+                    59.58195
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ryderås",
+                "idFTDNA": "459931",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1b2e",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "660 60 Gällserud, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5364141,
+                    59.3286324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Staaf",
+                "idFTDNA": "501689",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Karlskoga, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.2333326,
+                    59.38333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bergkvist",
+                "idFTDNA": "553842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "660 50 Segerstad, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.0067863,
+                    60.3939629
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Juhlin Patarroyo",
+                "idFTDNA": "565530",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V16",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "810 40 Hedesunda, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.4239779,
+                    63.9374542
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Haugan",
+                "idFTDNA": "592656",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mære, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.8666668,
+                    58.0333328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Juliusson",
+                "idFTDNA": "598227",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "444 93 Spekeröd, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.3536148,
+                    64.16023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Elofsson",
+                "idFTDNA": "663178",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1e1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Åsele, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.0378666,
+                    59.519207
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Elmby",
+                "idFTDNA": "668745",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2b-T226C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nora, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9572439,
+                    59.3495369
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kullingsjö",
+                "idFTDNA": "671146",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1n-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "664 95 Borgvik, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.8805122,
+                    61.417614
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Salenius",
+                "idFTDNA": "718303",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1b1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "52700 Mäntyharju, Finland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.294796,
+                    62.7891769
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "740576",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1q1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Korsbäck, Korsnäs, Finland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7201433,
+                    59.59812
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jonson",
+                "idFTDNA": "744268",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "660 60 Molkom, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.6413555,
+                    57.6014938
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Törnkvist",
+                "idFTDNA": "763406",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1-T16189C!-T16192C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "624 32 Vallstena, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5735121,
+                    61.2538223
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chelman",
+                "idFTDNA": "B184270",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aamots, Norway"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.800278,
+                    47.75111
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chelman",
+                "idFTDNA": "B223134",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "79692 Raich, Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.6063271,
+                    59.92086
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Örberg",
+                "idFTDNA": "B317386",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1h",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sala, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5649624,
+                    60.45978
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Daarstad",
+                "idFTDNA": "IN14931",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bw",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Løvhaugen, Grue, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.7692938,
+                    58.10115
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lidfors",
+                "idFTDNA": "IN16784",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "590 46 Kättilstad, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.767868,
+                    58.0798569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alsö",
+                "idFTDNA": "IN20584",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1a2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hägerstad, Östergötland (E), Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5850906,
+                    57.7205544
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Helleryd",
+                "idFTDNA": "IN24606",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "571 94 Barkeryd, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.749136,
+                    59.48772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wallin",
+                "idFTDNA": "IN26214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Stavnäs, 671 95 Klässbol, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1675453,
+                    59.564724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Staffan",
+                "idFTDNA": "IN45906",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Frykerud, 665 92 Kil, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4799232,
+                    60.6957436
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thegel",
+                "idFTDNA": "IN53354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "680 61 Medskogen, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.554985,
+                    61.2455139
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hagelin",
+                "idFTDNA": "MI16570",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hanebo"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.905,
+                    59.1903534
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Claesson (T163105)",
+                "idFTDNA": "MI28838",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kila, Säffle, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.30705,
+                    58.923542
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hilmersson",
+                "idFTDNA": "MI30107",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "660 10 Dals Långed, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2009048,
+                    64.61997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sollergren Andermo",
+                "idFTDNA": "774290",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "932 51 Bureå, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2459183,
+                    65.44772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lundgren",
+                "idFTDNA": "N3285",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ljusnarsberg"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6958685,
+                    59.5767746
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Simonsson",
+                "idFTDNA": "N92442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Västra Skedvi (U), Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.6411076,
+                    58.9736633
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Holte",
+                "idFTDNA": "579818",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1i1",
+                "PozycjaPrzypisanaPrzezProjekt": "Årjäng: Sillerud parish",
+                "NazwaLokalizacji": "662 98 Tösse, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.565423,
+                    59.8173943
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Björsson",
+                "idFTDNA": "650760",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Arvika (värm): Gunnarskog parish",
+                "NazwaLokalizacji": "670 35 Gunnarskog, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5640936,
+                    60.05283
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mattsson",
+                "idFTDNA": "764868",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Arvika (värm): Gunnarskog parish",
+                "NazwaLokalizacji": "Bogen, 670 35 Gunnarskog, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7330561,
+                    59.3997231
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stener Thörnlund",
+                "idFTDNA": "264345",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a9",
+                "PozycjaPrzypisanaPrzezProjekt": "Arvika (värm): Stavnäs parish",
+                "NazwaLokalizacji": "Stavnäs, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2666674,
+                    59.9
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lithander",
+                "idFTDNA": "376629",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1m",
+                "PozycjaPrzypisanaPrzezProjekt": "Eda: Eda parish",
+                "NazwaLokalizacji": "673 92 Morast, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3140316,
+                    59.83754
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hurme",
+                "idFTDNA": "418183",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2b1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Eda: Eda parish",
+                "NazwaLokalizacji": "673 32 Eda, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8507175,
+                    59.38054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lindgren",
+                "idFTDNA": "404174",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Filipstad: Brattfors parish",
+                "NazwaLokalizacji": "Väse, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8507175,
+                    59.38054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lindgren",
+                "idFTDNA": "430669",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Filipstad: Brattfors parish",
+                "NazwaLokalizacji": "Väse, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.8507175,
+                    59.38054
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "(Andersson) Nilsson",
+                "idFTDNA": "501405",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Filipstad: Brattfors parish",
+                "NazwaLokalizacji": "Väse, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.1461,
+                    60.04
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Norstedt",
+                "idFTDNA": "296335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H63",
+                "PozycjaPrzypisanaPrzezProjekt": "Filipstad: Rämmen parish",
+                "NazwaLokalizacji": "Rämmen (S)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4683161,
+                    59.6039619
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brander",
+                "idFTDNA": "451182",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Forshaga (Värm): Nedre Ullerud",
+                "NazwaLokalizacji": "669 30 Deje, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4666672,
+                    59.6833344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jansson",
+                "idFTDNA": "256920",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Forshaga (Värm): Övre Ulleruds parish",
+                "NazwaLokalizacji": "Övre Ullerud, Forshaga, Värmland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4693794,
+                    59.6869659
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "690841",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Forshaga (Värm): Övre Ulleruds parish",
+                "NazwaLokalizacji": "Övre Ullerud, Forshaga, Värmland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4671612,
+                    59.68682
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Falk Maxe",
+                "idFTDNA": "524957",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4",
+                "PozycjaPrzypisanaPrzezProjekt": "Forshaga (Värm): Ullerud parish",
+                "NazwaLokalizacji": "Forshaga Ö, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4693794,
+                    59.6869659
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hammar",
+                "idFTDNA": "502660",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Forshaga (Värm): Ullerud parish",
+                "NazwaLokalizacji": "Nedre Ullerud, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0617,
+                    59.2421
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andersson",
+                "idFTDNA": "E15039",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a2c",
+                "PozycjaPrzypisanaPrzezProjekt": "Grums: Ed parish",
+                "NazwaLokalizacji": "Göpefjäll, Ed, Värmland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9018078,
+                    59.5455933
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hammarberg",
+                "idFTDNA": "552844",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Grums: Värmskog parish",
+                "NazwaLokalizacji": "671 95 Värmskog, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.45,
+                    60.2666664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Persson",
+                "idFTDNA": "353852",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V7a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hagfors: Ekshärad parish",
+                "NazwaLokalizacji": "683 61 Stackerud, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5994606,
+                    60.0007
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Larsson",
+                "idFTDNA": "321777",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1g1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hagfors: Norra Råda parish",
+                "NazwaLokalizacji": "Norra Råda (S)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.6839981,
+                    59.8938065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Olsson",
+                "idFTDNA": "526098",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3e2",
+                "PozycjaPrzypisanaPrzezProjekt": "Hagfors: Sunnemo parish",
+                "NazwaLokalizacji": "683 95 Norra Väsby, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.85,
+                    59.0666656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sjörén",
+                "idFTDNA": "443020",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Hallsberg (Närk): Viby socken",
+                "NazwaLokalizacji": "694 95 Körtingsberg, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5364141,
+                    59.3286324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dahlin",
+                "idFTDNA": "760368",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1-T16362C",
+                "PozycjaPrzypisanaPrzezProjekt": "Karlskoga (Värm):",
+                "NazwaLokalizacji": "Karlskoga(T), Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.2333326,
+                    59.38333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Enqvist",
+                "idFTDNA": "255499",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Karlstad (Värm): Segerstads parish",
+                "NazwaLokalizacji": "Segerstad, Grums, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5008039,
+                    59.3791351
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sjöqvist",
+                "idFTDNA": "351870",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": "Karlstad: Karlstad parish",
+                "NazwaLokalizacji": "Karlstad, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.85776,
+                    59.37729
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jakobsen",
+                "idFTDNA": "B7069",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h7",
+                "PozycjaPrzypisanaPrzezProjekt": "Karlstad: Väse parish",
+                "NazwaLokalizacji": "660 57 Väse, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1675453,
+                    59.564724
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Roos",
+                "idFTDNA": "N115057",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Kil: Frykerud parish",
+                "NazwaLokalizacji": "Frykerud, 665 92 Kil, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.01625,
+                    59.35742
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Grahn",
+                "idFTDNA": "324472",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Kristinehamn: Ölme parish",
+                "NazwaLokalizacji": "681 95 Ölme, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.01625,
+                    59.35742
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Carlsson",
+                "idFTDNA": "437789",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4",
+                "PozycjaPrzypisanaPrzezProjekt": "Kristinehamn: Ölme parish",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2415476,
+                    59.55353
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andersson",
+                "idFTDNA": "744729",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Lindesberg (vstml): Fellingsbro parish",
+                "NazwaLokalizacji": "Rya, Lindesberg, Västmanland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2415476,
+                    59.55353
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sigge",
+                "idFTDNA": "744170",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Lindesberg (vstml): Fellingsbro parish",
+                "NazwaLokalizacji": "Rya, Lindesberg (T)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4333334,
+                    59.7666664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Boman",
+                "idFTDNA": "169748",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a9",
+                "PozycjaPrzypisanaPrzezProjekt": "Munkfors (värm): Ransäter parish",
+                "NazwaLokalizacji": "Ransäter, Munkfors, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4625444,
+                    59.7699623
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Turrentine",
+                "idFTDNA": "269092",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1-T16192C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Munkfors (värm): Ransäter parish",
+                "NazwaLokalizacji": "Ransäter, Munkfors, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.8666668,
+                    59.2333336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Uddholm",
+                "idFTDNA": "231145",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V15a",
+                "PozycjaPrzypisanaPrzezProjekt": "Örebro (närk): Hidinge parish",
+                "NazwaLokalizacji": "719 93 Hidinge, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.583333,
+                    59.25
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Olsson",
+                "idFTDNA": "296971",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1e",
+                "PozycjaPrzypisanaPrzezProjekt": "Säffle: Långserud parish",
+                "NazwaLokalizacji": "661 96 Grinsbyn, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.55,
+                    59.1833344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Klarbring",
+                "idFTDNA": "273530",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Säffle: Svanskog parish",
+                "NazwaLokalizacji": "Säffle V, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.59,
+                    59.15
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Davidsson",
+                "idFTDNA": "438645",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Säffle: Svanskog parish",
+                "NazwaLokalizacji": "Grönsjön, Svanskog"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4666672,
+                    59.2333336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nordling",
+                "idFTDNA": "514468",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a5b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Säffle: Svanskog parish",
+                "NazwaLokalizacji": "Norra Hedane, Svanskog (S), Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.8265362,
+                    59.1135025
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Olsson",
+                "idFTDNA": "296969",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a4",
+                "PozycjaPrzypisanaPrzezProjekt": "Säffle: Tveta parish",
+                "NazwaLokalizacji": "Tveta, 661 94 Säffle, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.331,
+                    59.486
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "461695",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Storfors (Värm): Bjurtjärns parish",
+                "NazwaLokalizacji": "Bjurtjärn, S, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1440468,
+                    59.83656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Norbäck",
+                "idFTDNA": "269084",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Sunne (Värm): Sunne parish",
+                "NazwaLokalizacji": "Sunne, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1440468,
+                    59.83656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Boman",
+                "idFTDNA": "216235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H31",
+                "PozycjaPrzypisanaPrzezProjekt": "Sunne (Värm): Sunne parish",
+                "NazwaLokalizacji": "Sunne, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9333334,
+                    59.9666672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "443659",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Sunne: Gräsmark parish",
+                "NazwaLokalizacji": "Grasmark, 686 98 Gräsmark, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0814495,
+                    59.7434
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Loberg",
+                "idFTDNA": "315956",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Sunne: Västra Ämterviks parish",
+                "NazwaLokalizacji": ""
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1193361,
+                    60.53995
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Irevång",
+                "idFTDNA": "680195",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Dalby parish",
+                "NazwaLokalizacji": "Kattstjärten, Dalby(S)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.8472977,
+                    59.58079
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Borge",
+                "idFTDNA": "77024",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Fryksände parish",
+                "NazwaLokalizacji": "Värmlands Län, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0224037,
+                    60.25615
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Larsson",
+                "idFTDNA": "324239",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ag1",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Fryksände parish",
+                "NazwaLokalizacji": "Vadje, Fryksände, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0166674,
+                    60.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Holmboe",
+                "idFTDNA": "382228",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Fryksände parish",
+                "NazwaLokalizacji": "685 91 Svenneby, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.041584,
+                    60.13617
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Holmstrand",
+                "idFTDNA": "471634",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b2",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Fryksände parish",
+                "NazwaLokalizacji": "685 92 Oleby, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.6893835,
+                    60.82563
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wennerstrand",
+                "idFTDNA": "461734",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Norra Finnskoga parish",
+                "NazwaLokalizacji": "Kärrbackstrand, Värmland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.5685549,
+                    58.3357162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Persson Mtdna: H1a Y: N-M231",
+                "idFTDNA": "461562",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Norra Ny parish",
+                "NazwaLokalizacji": "Flo Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2598391,
+                    61.3169022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Persson",
+                "idFTDNA": "348256",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Östmark parish",
+                "NazwaLokalizacji": "Trysil, Hedmark, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2598391,
+                    61.3169022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johansson",
+                "idFTDNA": "353851",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Östmark parish",
+                "NazwaLokalizacji": "Trysil, Hedmark, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.86141,
+                    60.34976
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lund",
+                "idFTDNA": "313083",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Östmark parish",
+                "NazwaLokalizacji": "Torsby V, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.7609367,
+                    60.2795639
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nordström",
+                "idFTDNA": "668443",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Torsby: Östmark parish",
+                "NazwaLokalizacji": "685 97 Östmark, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4332523,
+                    59.2327423
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ohlsson",
+                "idFTDNA": "674805",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Nysund, Värmland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.27008,
+                    64.42751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rundqvist",
+                "idFTDNA": "626807",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "930 10 Hökmark, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4700947,
+                    58.0250244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wedeen",
+                "idFTDNA": "590400",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "563 32 Gränna, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.8336658,
+                    61.39651
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bergman",
+                "idFTDNA": "614785",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W4a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "826 95 Trönö, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.2503147,
+                    58.9361229
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Börjeson",
+                "idFTDNA": "616628",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Utö, Haninge S, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6692095,
+                    56.2989578
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bergqvist",
+                "idFTDNA": "577636",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Björsmåla 216, 370 30 Rödeby, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.00051,
+                    59.87549
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stridh",
+                "idFTDNA": "549095",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Kopparberg, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4399118,
+                    59.35083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tholander",
+                "idFTDNA": "552668",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Dingelsundet, Karlstad, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.579666,
+                    50.6325569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Allmyr",
+                "idFTDNA": "566925",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Liège, Belgien"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4399118,
+                    59.35083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tholander",
+                "idFTDNA": "568211",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Dingelsundet, 653 42 Karlstad"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.1661654,
+                    59.0362167
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karlsson",
+                "idFTDNA": "730675",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Ölserud Värmland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0612974,
+                    59.34846
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rödin",
+                "idFTDNA": "262142",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4d1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Varnum, Kristinehamn, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5364141,
+                    59.3286324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rosberg",
+                "idFTDNA": "358277",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Karlskoga, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.27055,
+                    58.586
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nilsson",
+                "idFTDNA": "327067",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Beateberg, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.178194,
+                    59.1373978
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ericson",
+                "idFTDNA": "401428",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2b-T226C",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "681 92 Visnum, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.2333326,
+                    59.75
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johannesson",
+                "idFTDNA": "395356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Z",
+                "HaploGleboka": "Z1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "682 40 Yngshyttan, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.420516,
+                    57.79479
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Trollälven (Andreasson)",
+                "idFTDNA": "448916",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Ulricehamn"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.164444,
+                    59.5666656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Drakencrona",
+                "idFTDNA": "416113",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Kil N, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4509249,
+                    58.47322
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sandberg",
+                "idFTDNA": "418326",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Ledsjö, Götene, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.8418884,
+                    61.80038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kurol",
+                "idFTDNA": "473970",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "820 41 Färila, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.9121714,
+                    62.53781
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lagerström",
+                "idFTDNA": "475092",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H16e",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "841 97 Borgsjö, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.0719261,
+                    63.33224
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wallmark",
+                "idFTDNA": "477017",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "880 31 Resele, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.8709393,
+                    59.0433769
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andersson",
+                "idFTDNA": "489108",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V7a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Vingåker, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3169556,
+                    57.46984
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eriksson",
+                "idFTDNA": "490809",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "560 13 Svenarum, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3166666,
+                    59.8333321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Robsahm",
+                "idFTDNA": "494915",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "673 32 Mellbyn, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14,
+                    59.6
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Steiner",
+                "idFTDNA": "486951",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Väse, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.8098164,
+                    59.2014732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Reneland",
+                "idFTDNA": "487984",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a1a1d",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Kila, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0069609,
+                    59.3623047
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gidlund Söderström",
+                "idFTDNA": "521954",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "681 95 Ölme, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4333334,
+                    59.7666664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Westerman",
+                "idFTDNA": "528473",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2c",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Ransäter, Munkfors V, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.9398193,
+                    57.721035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ågren Rosander",
+                "idFTDNA": "536842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z- Ungrouped- please fill in most distant ancestor and location",
+                "NazwaLokalizacji": "Borås, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.94906,
+                    59.44247
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Weigel",
+                "idFTDNA": "539732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c4",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "731 60 Björskog, Västmanland, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.06858,
+                    59.3293228
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hult",
+                "idFTDNA": "555197",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Stockholm, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.5098038,
+                    59.37125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walkendorff",
+                "idFTDNA": "555407",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Eskilstuna, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.1263247,
+                    57.3008
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bäckström",
+                "idFTDNA": "557672",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1ae",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "570 10 Korsberga, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.7298088,
+                    57.5789566
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andersson",
+                "idFTDNA": "561148",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Gothem, Gotland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.94681,
+                    58.75489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Waltersson",
+                "idFTDNA": "563934",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Hassle, 542 92 Mariestad, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.0587215,
+                    63.1764946
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Elfstrand",
+                "idFTDNA": "488343",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c7a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "882 40 Långsele, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.416667,
+                    59.4666672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Henriksson",
+                "idFTDNA": "487031",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "655 91 Grava, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4541111,
+                    58.981266
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zetterlind",
+                "idFTDNA": "482477",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a5",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "662 95 Fröskog, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.6149063,
+                    63.65433
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Schöllin",
+                "idFTDNA": "485579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0-T195C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "890 51 Movattnet, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.95918,
+                    63.1711922
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Näsman",
+                "idFTDNA": "485622",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a5",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Jämtlands län, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.062851,
+                    52.6175957
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johnsson Söderström",
+                "idFTDNA": "475230",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV16",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Celle, Tyskland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.20105,
+                    55.62955
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Söderström",
+                "idFTDNA": "472268",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Denmark"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.54072,
+                    57.8123
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Larsson mtDNA T1a1",
+                "idFTDNA": "421027",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ulricehamn NO, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.3307686,
+                    62.6270866
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eriksson",
+                "idFTDNA": "418232",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3h1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "861 93 Ljustorp, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.1987829,
+                    59.1761742
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johansson",
+                "idFTDNA": "414051",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b4b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Vårvik, Bengtsfors, Dalsland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6843348,
+                    56.86563
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Linné",
+                "idFTDNA": "438220",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "380 41 Hälleberga, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.1106758,
+                    64.08782
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Koivula",
+                "idFTDNA": "447671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V8",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ala-Sotkamo, Finland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.3371735,
+                    63.05355
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wik",
+                "idFTDNA": "443179",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c3b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "870 33 Näs, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.9406357,
+                    61.7337456
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Möller",
+                "idFTDNA": "450804",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2h2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "820 65 Forsa, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.19691,
+                    59.49877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wendel",
+                "idFTDNA": "453800",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "688 91 Lungsund, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.20315,
+                    60.21787
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Silfverlåås",
+                "idFTDNA": "456145",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I4a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "747 95 Hökhuvud, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3145132,
+                    60.1164
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Magnusson",
+                "idFTDNA": "456839",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Fagernes, Austmarka, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.8608932,
+                    66.32123
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thunberg",
+                "idFTDNA": "458855",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "956 31 Bränna, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.08175,
+                    61.83084
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bengtsson",
+                "idFTDNA": "462030",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V7a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ljusdal, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.18014,
+                    62.49793
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sjödin (T123019)",
+                "idFTDNA": "470951",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a10a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Vissland, Torp, Y, Västernorrlands län, Medelpad, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.6063271,
+                    59.92086
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lind",
+                "idFTDNA": "461720",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Sala, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.34578,
+                    56.19455
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thuvesson",
+                "idFTDNA": "395471",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16189C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "284 92 Oderljunga, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4971352,
+                    56.1709328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vereide",
+                "idFTDNA": "395553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "295 74 Näsum, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.16861,
+                    59.06745
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lindgren",
+                "idFTDNA": "376692",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V7a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "646 50 Björnlunda, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.6857815,
+                    59.2782364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sandberg",
+                "idFTDNA": "366869",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "640 43 Ärla, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.1382284,
+                    58.0277939
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gille",
+                "idFTDNA": "370714",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Lilla Edet V, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.4290657,
+                    68.41349
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sonesson",
+                "idFTDNA": "365891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Fagernes, 8514 Narvik, Ofoten parish, NRL, N, Norway"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.875,
+                    58.501
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Carlsson",
+                "idFTDNA": "329880",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "541 91 Skövde, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.0419874,
+                    61.2273064
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brandt",
+                "idFTDNA": "330646",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Älvdalen, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.141448,
+                    51.792057
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lettenström",
+                "idFTDNA": "339137",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Quedlinburg, Tyskland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.368082,
+                    65.32279
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Henningsson",
+                "idFTDNA": "341369",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "91100 Ijo, Finland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3166666,
+                    57.4833336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Granberg",
+                "idFTDNA": "358536",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bs",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "560 13 Svenarum, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.93231,
+                    57.06624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Frykman Magnusson",
+                "idFTDNA": "362320",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c5",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "387 73 Persnäs, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2052135,
+                    57.748806
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lindén",
+                "idFTDNA": "364819",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1d",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Stålebovägen, Jonsered, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.682766,
+                    59.24621
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eddie",
+                "idFTDNA": "354681",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Aremark, ØFO, NO"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.317424,
+                    54.37567
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Morehouse",
+                "idFTDNA": "266462",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a10",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Bergenhusen, Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7819,
+                    59.359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Widerberg Howden",
+                "idFTDNA": "275994",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c1b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Sandaker, Råde, Østfold, Norway"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.5934868,
+                    59.4340668
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bernhardt",
+                "idFTDNA": "276669",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Fellingsbro, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.053647,
+                    59.56412
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Burnham",
+                "idFTDNA": "193637",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2c1-T146C!",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Jonsbol, Boda, Varmland, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.16653,
+                    61.173584
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hoving Wahlström",
+                "idFTDNA": "236331",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ore Fritid, Rättvik N, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.2112,
+                    59.3945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Janson",
+                "idFTDNA": "318440",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Axberg, Örebro, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.1166668,
+                    58.13333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Örnhäll",
+                "idFTDNA": "320808",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "463 32 Fuxerna, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.6021957,
+                    58.5867233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Helander",
+                "idFTDNA": "324976",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Norrköping Ö, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3414607,
+                    59.71556
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Augustson",
+                "idFTDNA": "322933",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a3a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Eikeland, Bømlo, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.0680733,
+                    59.8080254
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wermstedt",
+                "idFTDNA": "717780",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ö. Nybygget, Ljusnarsberg, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2401352,
+                    65.34343
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wernqvist",
+                "idFTDNA": "573703",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2c1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Sjulnäs, Piteå (BD) Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.2039213,
+                    56.1629372
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johnson",
+                "idFTDNA": "622391",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Aarhus, Denmark"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5360088,
+                    59.2552834
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Widén",
+                "idFTDNA": "582953",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c3",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Ölsdalen (T), Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3,
+                    56.13333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lagerlöf",
+                "idFTDNA": "642993",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4a1",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Oppmanna, Skåne, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.468946,
+                    60.472023
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Linby Thorell",
+                "idFTDNA": "628104",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4666672,
+                    56.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Henriksson",
+                "idFTDNA": "628820",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c4",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "295 35 Ivetofta, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.3547707,
+                    63.5229645
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bodevärn",
+                "idFTDNA": "635553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "830 70 Fyrås, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.97456,
+                    57.70887
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Isakson",
+                "idFTDNA": "N139413",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H7c",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Göteborg, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.0670118,
+                    60.6615
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gullbekk",
+                "idFTDNA": "N21007",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c2d",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Åsnes, Norge"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.2771358,
+                    63.1654053
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Frykman",
+                "idFTDNA": "N37019",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b2a2a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Sollefteå, Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4666672,
+                    59.05
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Franzén",
+                "idFTDNA": "N69220",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H49",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "662 91 Edsleskog, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9470024,
+                    64.53994
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kohkoinen",
+                "idFTDNA": "776042",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "Z: Members with maternal line (mtDNA) outside project region",
+                "NazwaLokalizacji": "Lubboträsket, 937 95 Burträsk, Sverige"
+            }
+        }
+    ]
+}

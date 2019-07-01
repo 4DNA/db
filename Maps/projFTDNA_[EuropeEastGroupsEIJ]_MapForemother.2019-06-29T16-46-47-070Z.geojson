@@ -1,0 +1,505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graham",
+                "idFTDNA": "121789",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Little Sulphur Creek, Kentucky 42151, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.57303,
+                    36.68478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelley",
+                "idFTDNA": "148276",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a8",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Dunnet, Highland KW14, Scotland, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.345206,
+                    58.62282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orosz",
+                "idFTDNA": "266228",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Csót, Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60609,
+                    47.36138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bytków, Siemianowice Śląskie, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0020275,
+                    50.3071671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bunyard",
+                "idFTDNA": "309355",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mecklenburgring, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8245277,
+                    53.7128868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roe",
+                "idFTDNA": "350692",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a2a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Carolina, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.16373,
+                    33.8360825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sher",
+                "idFTDNA": "386075",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "440 30 Marstrand, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5967455,
+                    57.88845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrowski",
+                "idFTDNA": "389729",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Luchów Górny, Biłgora, Polska 1820"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6968918,
+                    50.3321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabany",
+                "idFTDNA": "492356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a3a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hampshire, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.30806291,
+                    51.0576935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levie",
+                "idFTDNA": "516553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a7",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Wednesbury, Stafforshire, England"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.02208,
+                    52.552887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cairns",
+                "idFTDNA": "519704",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Donaghcloney, Craigavon BT66 7GZ, Verenigd Koninkrijk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.25826,
+                    54.41804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbera",
+                "idFTDNA": "548919",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a5a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Shoreditch High St, London E1 6JN, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0772905,
+                    51.52682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vekić",
+                "idFTDNA": "571215",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a-C150T",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Rudopolje, Croatia, former Yugoslavia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4739561,
+                    44.8625336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dokov",
+                "idFTDNA": "575878",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W3b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "2077 Koprivshtitsa, Bulgaria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3602924,
+                    42.6361237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blackburn",
+                "idFTDNA": "641885",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W4b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lauro, Avellino, Campania, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6471224,
+                    40.8518562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Day",
+                "idFTDNA": "792094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "West Chiltington, Pulborough RH20 2QE, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4534691,
+                    50.94697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bregman",
+                "idFTDNA": "792771",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a2m",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Loschitz, Moravia, Austrian Empire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9289284,
+                    49.7446976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grant",
+                "idFTDNA": "843309",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Starkey, NY 14837, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.92441,
+                    42.53535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kiyak",
+                "idFTDNA": "AM13051",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H11a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Freiburg, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84210443,
+                    47.99901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyymaki Perros",
+                "idFTDNA": "B260876",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Helsinki, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.93838,
+                    60.169857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wendt",
+                "idFTDNA": "E21267",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5a2a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hohensalza, Poznan, Prussia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2562027,
+                    52.79933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mikulic",
+                "idFTDNA": "E23176",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H14a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kočerin, Bosnien und Herzegowina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4901867,
+                    43.3975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hermannstadt, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1255817,
+                    45.79833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guni",
+                "idFTDNA": "E37299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H65a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sibiel 557234, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.90662,
+                    45.7648773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Doğan",
+                "idFTDNA": "IN36030",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Samsun, Türkiye"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.3360672,
+                    41.2797
+                ]
+            }
+        }
+    ]
+}

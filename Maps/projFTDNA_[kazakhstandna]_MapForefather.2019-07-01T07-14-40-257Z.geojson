@@ -1,0 +1,445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    30.5234,
+                    50.4501
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Goldman",
+                "idFTDNA": "151378",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kiev, Kyiv city, Ukraine, 02000"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.4912643,
+                    39.32568
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Suleyman",
+                "idFTDNA": "413932",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H-Y46896",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nakhchivan Autonomous Republic, Azerbaijan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.6764832,
+                    43.7991447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Başdoğan",
+                "idFTDNA": "IN53917",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Solokhaul, Krasnodar Krai, Rusya, 354237"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    116.681969,
+                    23.3540916
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Seng",
+                "idFTDNA": "713835",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-M216",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C2 - F1067",
+                "NazwaLokalizacji": "Shantou, Guangdong, China"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    81.01293,
+                    50.38721
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhmetov",
+                "idFTDNA": "K2166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-BY18686",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C2 - F4002",
+                "NazwaLokalizacji": "Novobazhenovo, Новобаженово 070000, Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.2666664,
+                    51.2
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Strigunenko",
+                "idFTDNA": "338273",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-Y12782",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C2 - F4002",
+                "NazwaLokalizacji": "Суджа, Курская область, Россия, с. Лебедевка"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    61.2666664,
+                    48.6166649
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Baimbetov",
+                "idFTDNA": "203179",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-M48",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C2 - M86",
+                "NazwaLokalizacji": "Иргиз, Казахстан"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.522562,
+                    35.88792
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "MUNIGLIA",
+                "idFTDNA": "764442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-F6379",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup C2 - M86",
+                "NazwaLokalizacji": "Vittoriosa"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    135.531036,
+                    34.6356544
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Inoue",
+                "idFTDNA": "N200584",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D-BY15199",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup D",
+                "NazwaLokalizacji": "Kuwazu, Higashi-Sumiyoshi-ku, Osaka, Japan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.29,
+                    54.42
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mukhametyanov",
+                "idFTDNA": "184580",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup I",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.1854057,
+                    27.38129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alwasil",
+                "idFTDNA": "272456",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC4425",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Mawqaq Hail Saudi Arabia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.151,
+                    39.0202
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Atmaca",
+                "idFTDNA": "IN12876",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup J",
+                "NazwaLokalizacji": "Emirdağ, Afyonkarahisar, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    136.27272,
+                    36.1526833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Degura (N1a2a1-ACT4867)",
+                "idFTDNA": "N132249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-ACT4867",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup N1a",
+                "NazwaLokalizacji": "日本, 〒910-0231 福井県坂井市丸岡町霞町"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9205189,
+                    54.4681244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lukosevicius",
+                "idFTDNA": "343953",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup N1c",
+                "NazwaLokalizacji": "Gražiškiai, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    66.92368,
+                    48.0195732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Y",
+                "idFTDNA": "MI12096",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y16320",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup N1c",
+                "NazwaLokalizacji": "Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    80.26667,
+                    50.4333344
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Abdrahman",
+                "idFTDNA": "N35837",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "O",
+                "HaploGleboka": "O-M122",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup O",
+                "NazwaLokalizacji": "Semey, Kazakistan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.2808151,
+                    43.03988
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yildir",
+                "idFTDNA": "325352",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup Q1a",
+                "NazwaLokalizacji": "Engenoy, Chechnya, Rusya, 366236"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.4817657,
+                    29.31166
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alkhalifa",
+                "idFTDNA": "662344",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY32495",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R1a",
+                "NazwaLokalizacji": "الكويت‎"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "N118842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH4902",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R1b",
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4229355,
+                    45.01192
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Suleimenov",
+                "idFTDNA": "393754",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R1b",
+                "NazwaLokalizacji": "Almaty Province, Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    63.4905357,
+                    49.6334229
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eleusin",
+                "idFTDNA": "289676",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R1b",
+                "NazwaLokalizacji": "Turgay 110000, Kasachstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.656417,
+                    53.60555
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walsh",
+                "idFTDNA": "316866",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogroup R1b",
+                "NazwaLokalizacji": "Meath, Co. Meath, Ireland"
+            }
+        }
+    ]
+}

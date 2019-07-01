@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6905556,
+                    41.64816
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cholokashvili",
+                "idFTDNA": "172989",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Kakheti, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6763878,
+                    42.1419449
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mikadze",
+                "idFTDNA": "208704",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-BY21462",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Поти, Грузия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.73566,
+                    42.62803
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Anchabadze",
+                "idFTDNA": "209192",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-U1",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Gali, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7,
+                    42.25
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Abashidze",
+                "idFTDNA": "216684",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Koutaïssi, Géorgie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6905556,
+                    41.64816
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Makashivili",
+                "idFTDNA": "202442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Kakheti, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.12846,
+                    42.53332
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gelovani",
+                "idFTDNA": "216825",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Dzirageuli, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.0833321,
+                    41.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shaburishvili",
+                "idFTDNA": "218867",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.5846367,
+                    41.990345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jorjadze",
+                "idFTDNA": "227034",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Tianeti-Akhmeta-Kvareli-Ninigori, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.4771042,
+                    42.118988
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eristavi",
+                "idFTDNA": "237155",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Ksani, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.71684,
+                    43.0425377
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ioseliani",
+                "idFTDNA": "246247",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2",
+                "NazwaLokalizacji": "Mestia, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.0618,
+                    42.26877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gvatua",
+                "idFTDNA": "258942",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c",
+                "NazwaLokalizacji": "Senaki, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.02,
+                    41.79
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sakhltkhutsishvili",
+                "idFTDNA": "47732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY2818",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.58039,
+                    41.8855
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tarielashvili",
+                "idFTDNA": "754449",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c",
+                "NazwaLokalizacji": "Kvemo Khodasheni, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.09132,
+                    41.4585
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vachnadze",
+                "idFTDNA": "216685",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L596",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c",
+                "NazwaLokalizacji": "Gardabani, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1292229,
+                    40.8272324
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tsitsichvili",
+                "idFTDNA": "164204",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P215",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c",
+                "NazwaLokalizacji": "Olur/Erzurum, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.27846,
+                    42.0874252
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gogitidze",
+                "idFTDNA": "199820",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3009",
+                "PozycjaPrzypisanaPrzezProjekt": "J1",
+                "NazwaLokalizacji": "Chognari, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6905556,
+                    41.64816
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andronikashvili",
+                "idFTDNA": "172988",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1",
+                "NazwaLokalizacji": "Kakheti, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.5,
+                    42.0833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kliewer",
+                "idFTDNA": "360646",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2",
+                "NazwaLokalizacji": "Distrito de Vani, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7345,
+                    42.5677
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "276681",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2",
+                "NazwaLokalizacji": "Zeda Aghvi, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.6781,
+                    42.5744
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "292221",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2",
+                "NazwaLokalizacji": "Racha-Lechjumi y Kvemo Svaneti, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7554855,
+                    42.616333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhvlediani",
+                "idFTDNA": "298787",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2",
+                "NazwaLokalizacji": "Lasuriashi, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.70605,
+                    41.83932
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Magaloff",
+                "idFTDNA": "222575",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L192",
+                "PozycjaPrzypisanaPrzezProjekt": "J2",
+                "NazwaLokalizacji": "Mtskheta, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.4333344,
+                    42.3166656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chikovani",
+                "idFTDNA": "172987",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "L",
+                "NazwaLokalizacji": "Khoni, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.58166,
+                    42.4003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shelia",
+                "idFTDNA": "311524",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "L",
+                "NazwaLokalizacji": "Georgia, Anaklia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.793,
+                    41.70998
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bagrationi",
+                "idFTDNA": "202443",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M346",
+                "PozycjaPrzypisanaPrzezProjekt": "Q",
+                "NazwaLokalizacji": "Tbilissi, Géorgie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.98915,
+                    43.00732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shervashidze",
+                "idFTDNA": "216686",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z93",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a",
+                "NazwaLokalizacji": "Sukhumi, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.10954,
+                    41.98136
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Javakhishvili",
+                "idFTDNA": "216826",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M343",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Gori, Géorgie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7752762,
+                    41.82
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tavdgiridze",
+                "idFTDNA": "237152",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b",
+                "NazwaLokalizacji": "Kobuleti, Georgia"
+            }
+        }
+    ]
+}

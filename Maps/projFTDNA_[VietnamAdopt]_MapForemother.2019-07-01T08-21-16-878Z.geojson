@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0059738,
+                    40.71435
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Knight-Waechter",
+                "idFTDNA": "146891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1bp",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "New York, NY, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.629128,
+                    10.7930593
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fry",
+                "idFTDNA": "205212",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Prey Nokor, Vietnam"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.37483,
+                    31.9012451
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Oliver",
+                "idFTDNA": "226345",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Copiah County, MS, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.629662,
+                    10.8230991
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "LAFON QUERCY",
+                "idFTDNA": "234455",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "F",
+                "HaploGleboka": "F",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hô Chi Minh-Ville, Hô Chi Minh, Vietnam"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1277583,
+                    51.50735
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GR",
+                "idFTDNA": "245340",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Londres, Royaume-Uni"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.243118,
+                    10.6955719
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Phạm",
+                "idFTDNA": "255604",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "F",
+                "HaploGleboka": "F1a1d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Long An province, Vietnam"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    106.057,
+                    20.63659
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Le",
+                "idFTDNA": "257635",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M7b1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hung Yen, Hung Yen province, Vietnam"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.16373,
+                    33.8360825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chambers",
+                "idFTDNA": "279362",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2b1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Carolina"
+            }
+        }
+    ]
+}

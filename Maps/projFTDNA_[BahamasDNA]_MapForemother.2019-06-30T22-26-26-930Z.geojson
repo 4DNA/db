@@ -1,0 +1,2065 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.7,
+                    38.26
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Davis",
+                "idFTDNA": "10060",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1c21",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.29341,
+                    33.03381
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Williams",
+                "idFTDNA": "103497",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Baldwin County, GA, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.13576,
+                    25.0837
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Renziehausen",
+                "idFTDNA": "110074",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a1l1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Savannah Sound, Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.247234,
+                    5.105056
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wilcher-Nelson",
+                "idFTDNA": "110402",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cape Coast, Ghana"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.78259,
+                    24.5557022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Key",
+                "idFTDNA": "115663",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Key West, FL 33040, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.3842239,
+                    34.919754
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walker",
+                "idFTDNA": "130021",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV0a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sampson County, North Carolina, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.71289,
+                    37.09024
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Knowles",
+                "idFTDNA": "130113",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "United States"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.90712,
+                    32.1574364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stoll",
+                "idFTDNA": "130286",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Georgia, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    75.44612,
+                    24.3257885
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Henry",
+                "idFTDNA": "131474",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.34,
+                    25.07
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Byrd-Hawk",
+                "idFTDNA": "133493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3g",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63261,
+                    25.4985237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Maxwell",
+                "idFTDNA": "13628",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1-T16311C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.72672,
+                    25.5535488
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Higgs",
+                "idFTDNA": "148093",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Spanish Wells, Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63261,
+                    25.4985237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jones",
+                "idFTDNA": "152574",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61219,
+                    39.2903862
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jones",
+                "idFTDNA": "154059",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Baltimore, MD, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63261,
+                    25.4985237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Smollett",
+                "idFTDNA": "155632",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.78259,
+                    24.5557022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stubbs",
+                "idFTDNA": "157478",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Key West, FL 33040, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.75737,
+                    32.3213844
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Saunders",
+                "idFTDNA": "165090",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2b1a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bermuda"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.39853,
+                    40.6331253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Russell R-122",
+                "idFTDNA": "165418",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H3af",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "east Tennessee"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.76769,
+                    48.9544525
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Higgs",
+                "idFTDNA": "167572",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H23",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Moravia, Czech Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.33101,
+                    26.7733917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jones",
+                "idFTDNA": "169685",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Green Turtle Cay, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.14352,
+                    31.8128433
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hall",
+                "idFTDNA": "175616",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lee County, GA, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3295746,
+                    26.7747116
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hall",
+                "idFTDNA": "177902",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2f1a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Green Turtle Cay, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.83183,
+                    35.20105
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Allford",
+                "idFTDNA": "187334",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Arkansas, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.83183,
+                    35.20105
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Moody",
+                "idFTDNA": "187530",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Arkansas, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.435973,
+                    55.37805
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Adams",
+                "idFTDNA": "191245",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "United Kingdom"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5804443,
+                    35.51749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Riley",
+                "idFTDNA": "192419",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H4a1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Tennessee, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.71289,
+                    37.09024
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cates",
+                "idFTDNA": "205521",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "United States"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "van der Toorn",
+                "idFTDNA": "208269",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Virginia, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63261,
+                    25.4985237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Olson",
+                "idFTDNA": "216254",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.330048,
+                    35.9742165
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bain",
+                "idFTDNA": "216578",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2h1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mora, NM, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.16379,
+                    39.9523354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Clark",
+                "idFTDNA": "218319",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Philadelphia, PA, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.9001,
+                    32.450386
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arima",
+                "idFTDNA": "223030",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e3b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Flournoy, 12, LA 71119, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5438461,
+                    33.1680374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Marshall",
+                "idFTDNA": "227512",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Dorchester County, SC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.96192,
+                    26.5395927
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brudi",
+                "idFTDNA": "232664",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hope Town Lighthouse, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.094278,
+                    57.1497154
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Johnson",
+                "idFTDNA": "238121",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H5a-T152C!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aberdeen, Aberdeen City, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.96954,
+                    23.6192589
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chiacchiari",
+                "idFTDNA": "241286",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Exuma, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.96954,
+                    23.6192589
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Graham",
+                "idFTDNA": "241293",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1c1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Exuma, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.8947,
+                    23.01543
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Moss",
+                "idFTDNA": "249284",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L0a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hard Bargin, Long Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.14359,
+                    25.1362038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Martin",
+                "idFTDNA": "250113",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Eleuthera"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.39628,
+                    25.03428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "EGLIN",
+                "idFTDNA": "250888",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H6a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.39853,
+                    32.3546677
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Saadiq-Saoud",
+                "idFTDNA": "251680",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mississippi, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.67592,
+                    25.4647522
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "smith",
+                "idFTDNA": "261103",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "North Eleuthera, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.96431,
+                    36.0245171
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stubbs",
+                "idFTDNA": "262015",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bertie County, NC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.34272,
+                    25.0771255
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sawyer",
+                "idFTDNA": "26486",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.84544,
+                    23.56913
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Treco-Knowles",
+                "idFTDNA": "26523",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Exuma, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.13119,
+                    23.168169
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Treco-Knowles",
+                "idFTDNA": "26525",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Long Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.39628,
+                    25.03428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Caddel",
+                "idFTDNA": "275298",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Commonwealth of The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.29751,
+                    18.109581
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walker",
+                "idFTDNA": "295428",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Jamaica"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5660858,
+                    39.3349037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Robertson",
+                "idFTDNA": "305160",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1b1c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hampshire County, WV, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.84668,
+                    39.7674561
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brice",
+                "idFTDNA": "343585",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e3b3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "St Joseph, MO, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.41003,
+                    18.0844269
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Campbell",
+                "idFTDNA": "365603",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a1a2a1a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Portland Parish, Jamaica"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.39628,
+                    25.03428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Toemmes",
+                "idFTDNA": "380687",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.14359,
+                    25.1362038
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bauer",
+                "idFTDNA": "39616",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a11",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Eleuthera Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63586,
+                    25.5282326
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Farrington",
+                "idFTDNA": "40916",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.345,
+                    25.06
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Black",
+                "idFTDNA": "410899",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a1c5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nassau, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.174,
+                    52.948
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "West",
+                "idFTDNA": "41261",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H59",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.0193,
+                    35.7595749
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cox",
+                "idFTDNA": "442548",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "North Carolina, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1899643,
+                    24.9314461
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coombs",
+                "idFTDNA": "458008",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbour Island, Eleuthera, Bahama"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.9685,
+                    33.6785431
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Williams-El",
+                "idFTDNA": "474644",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Downs Newton, GA 30013, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.72144,
+                    32.82423
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Croskey",
+                "idFTDNA": "483211",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Colleton County, SC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.29761,
+                    25.7269573
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mitchell",
+                "idFTDNA": "48431",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alice Town, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.13333,
+                    25.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Robinson",
+                "idFTDNA": "49833",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Eleuthera, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    76.79,
+                    25.41
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Moree",
+                "idFTDNA": "49925",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.09615,
+                    23.176424
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "(BULLARD) Pitsios",
+                "idFTDNA": "508037",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2b1a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Long Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.91432,
+                    44.57634
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Odell",
+                "idFTDNA": "508151",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Birch Cooley Township, MN, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.39628,
+                    25.03428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ritchie",
+                "idFTDNA": "509000",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.484,
+                    53.881
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "51144",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5660858,
+                    35.8031921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Collison",
+                "idFTDNA": "527028",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H13a2b3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Wake County, NC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.996166,
+                    17.5706921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Curtis",
+                "idFTDNA": "527143",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Mali"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63.575,
+                    44.649
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ryals-Burnett",
+                "idFTDNA": "53858",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M23",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.1899643,
+                    24.9314461
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ferguson",
+                "idFTDNA": "554888",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Eleuthera, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.59015,
+                    18.2208328
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Moss",
+                "idFTDNA": "633971",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2a6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Puerto Rico"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Junkin",
+                "idFTDNA": "643457",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "W",
+                "HaploGleboka": "W1-T119C",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Virginia, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.6,
+                    31.82
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Caldwell-Kent",
+                "idFTDNA": "65635",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2a1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.5431976,
+                    13.1938868
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brown",
+                "idFTDNA": "669226",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b1a3",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Barbados"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.98194,
+                    36.39169
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Oakley",
+                "idFTDNA": "71222",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.05441,
+                    26.2823334
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lowe Jossi",
+                "idFTDNA": "80156",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cherokee Sound, Central Abaco, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.63261,
+                    25.4985237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Knowles",
+                "idFTDNA": "84199",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Harbor Island, Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.39628,
+                    25.03428
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Newbold",
+                "idFTDNA": "85229",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3295746,
+                    26.7747116
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Herren",
+                "idFTDNA": "864614",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Green Turtle Cay, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.47,
+                    51.89
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Roberts",
+                "idFTDNA": "8867",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I3c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cork, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.34,
+                    48.86
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cartwright",
+                "idFTDNA": "91156",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.25,
+                    35
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bethel",
+                "idFTDNA": "99232",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b2b4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.171524,
+                    26.2879829
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Munch",
+                "idFTDNA": "99236",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Great Abaco, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.34,
+                    25.07
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Waggoner",
+                "idFTDNA": "A2902",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2a",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.5738144,
+                    33.0937347
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nobles ,M. Ed",
+                "idFTDNA": "A3327",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2c",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gay, GA, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.1669159,
+                    12.273263
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hinton",
+                "idFTDNA": "B10543",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3h1b2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Cacheu, Guinea-Bissau"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.16373,
+                    33.8360825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ashmore",
+                "idFTDNA": "B111101",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1a3a1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "South Carolina, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.5606842,
+                    35.6970558
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Perpall",
+                "idFTDNA": "B2244",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Weaverville, NC, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.09393,
+                    23.1789036
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Burchards",
+                "idFTDNA": "B2259",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Southern District, Long Island, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Biddix",
+                "idFTDNA": "B3464",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "England, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.83673,
+                    36.7570572
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Williams",
+                "idFTDNA": "B410751",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L1b1a10",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Brunswick County, VA, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    30.21544,
+                    48.769928
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Campbell",
+                "idFTDNA": "B73466",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N1b1b1",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Uman', Cherkas'ka oblast, Ukraine"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.345,
+                    25.06
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "PETTERS",
+                "idFTDNA": "E16264",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nassau, Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.3554153,
+                    25.0479832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "PETTERS née Lowe",
+                "idFTDNA": "IN34951",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2w",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "New Providence, Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.27002,
+                    37.8393326
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Smith",
+                "idFTDNA": "MK39978",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L3e2a1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kentucky, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.24389,
+                    53.41291
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jordan",
+                "idFTDNA": "N13219",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K2a6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.7771378,
+                    11.2218943
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wheeler",
+                "idFTDNA": "N22094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1c2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Plymouth, Trinidad & Tobago"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.74306,
+                    30.2671528
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Prescott",
+                "idFTDNA": "N37415",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Austin, TX, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.9788933,
+                    13.9094439
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jones",
+                "idFTDNA": "N37922",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L0a1a2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "St Lucia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5660858,
+                    39.3349037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "York",
+                "idFTDNA": "N47978",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H52",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Virginia, United States"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.76395,
+                    25.54691
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dyer",
+                "idFTDNA": "N59166",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Spanish Wells, The Bahamas"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.33884,
+                    40.9322739
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cox",
+                "idFTDNA": "N87511",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b2b",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Ottoville, OH, USA"
+            }
+        }
+    ]
+}

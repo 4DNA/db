@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dobriansky",
+                "idFTDNA": "B172400",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Lviv, Lviv Oblast, Ukraine, 79000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0297165,
+                    49.8396835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dailey",
+                "idFTDNA": "139402",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC11451",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] E1b1b Висоцький | Wysocki | Vysotskyi",
+                "NazwaLokalizacji": "Małastów, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2448349,
+                    49.5670128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Komiski",
+                "idFTDNA": "97796",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-S7461",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] E1b1b Комарницький | Komarnicki | Komarnytskyi",
+                "NazwaLokalizacji": "Sambir, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.20655,
+                    49.5207138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laszczynski",
+                "idFTDNA": "296949",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4526",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] E1b1b Ліщинський | Leszcziński | Lishchynskyi",
+                "NazwaLokalizacji": "Bychawa w województwie lubelskim, w powiecie lubelskim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5301151,
+                    51.013485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laszczynski",
+                "idFTDNA": "315644",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-CTS9320",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] E1b1b Ліщинський | Leszcziński | Lishchynskyi",
+                "NazwaLokalizacji": "Пески, Черниговская область, Украина"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3822231,
+                    50.5991669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Стрільбицькі (Ost 265556)",
+                "idFTDNA": "265556",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] E1b1b Стрільбицький | Strzelbicki | Strilbytskyi",
+                "NazwaLokalizacji": "Кульчиці, Львівська область, Україна, 81476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2791672,
+                    49.505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] I1a3 Ціссовський | Cissovski | Tsisovskyi",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaworski",
+                "idFTDNA": "280240",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y32320",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] I1a3 Яворський | Jaworski | Yavorskyi",
+                "NazwaLokalizacji": "Rohatyn, Ivano-Frankivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.62051,
+                    49.41145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Popovych",
+                "idFTDNA": "405701",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] I2a1b Турецький | Turecki | Turetskyi",
+                "NazwaLokalizacji": "Чорні Ослави, Івано-Франківська область, Україна"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.74611,
+                    48.45972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chiodo",
+                "idFTDNA": "397703",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] I2a2a Турецький | Turecki | Turetskyi",
+                "NazwaLokalizacji": "Cherkhava, Lviv Oblast, Ukraine, 81481"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2233181,
+                    49.41647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vysochanskyi-Yankovych",
+                "idFTDNA": "411794",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] J2* Височанський | Wysoczański | Vysochanskyi",
+                "NazwaLokalizacji": "Verkhnje Vysots'ke, Lviv Oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0493736,
+                    48.9471626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Czajkowski",
+                "idFTDNA": "232418",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "[Sas] R1a1a Чайковський | Czajkowski | Chaykovskyi",
+                "NazwaLokalizacji": "Tlumach, Óblast de Ivano-Frankivsk, Ucrania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25,
+                    48.86667
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.39853,
+                    40.6331253
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "427523",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Grodzkie Stare"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7847939,
+                    53.250618
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "461019",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y5576",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kulesze-Chobotki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.4790745,
+                    53.45751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "548766",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Warmiak, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.2909012,
+                    52.2314873
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "718416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC6196",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Konin, Laskówiec, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.40252,
+                    52.387558
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "MI43261",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Зубрилово, Пензенская обл., Россия, 442906"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.8755436,
+                    52.60946
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "278363",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa G2a",
+                "NazwaLokalizacji": "Dołubowo, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.58727,
+                    52.912838
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "267808",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "Brzóski-Tatary, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.2385426,
+                    52.6777725
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "213344",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A11380",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "17-106 Gredele, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.930788,
+                    54.1115227
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "274959",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "Suwałki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.58727,
+                    52.912838
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "757485",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "18-200 Brzóski-Tatary, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.58727,
+                    52.912838
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "629535",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "18-200 Brzóski-Tatary, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.58727,
+                    52.912838
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "629551",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I1a",
+                "NazwaLokalizacji": "18-200 Brzóski-Tatary, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.16884,
+                    53.13249
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N40379",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Białystok, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5376644,
+                    52.8119926
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "249158",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Trywieża"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5077782,
+                    52.7602768
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "249159",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Nowe Berezowo"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.1537933,
+                    53.026516
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "275144",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Rumejki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.4844437,
+                    48.66111
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "344010",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC63213",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Molodkiv, Ivano-Frankivs'ka oblast, Ukraine"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.4458313,
+                    52.84901
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "379713",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a1",
+                "NazwaLokalizacji": "Dąbrowa-Kaski, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.08517,
+                    52.80141
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "269796",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS616",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa I2a2",
+                "NazwaLokalizacji": "Pakość, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.26278,
+                    52.9029045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "156938",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa J2b",
+                "NazwaLokalizacji": "Chmiele Pogorzel, PL"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7201557,
+                    53.29128
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "195718",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa J2b",
+                "NazwaLokalizacji": "19-104 Wyszowate, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.8792171,
+                    52.9006233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "202123",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y15251",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "18-112 Pietkowo, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.840395,
+                    52.9114456
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "278366",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Siemianówka, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.5954533,
+                    53.57878
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "249157",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Zajzdra, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.6412926,
+                    53.2496643
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "278361",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M178",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Markowy Wygon, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.840395,
+                    52.9014473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "454628",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Siemianówka, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.840395,
+                    52.9014473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "394070",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Siemianówka, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7468987,
+                    53.46339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "397346",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-Y5580",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa N1c",
+                "NazwaLokalizacji": "Mierkienniki, Polen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.888,
+                    52.203
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "275135",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+(?), subklad L260-(?) [niezbędne rozszerzenie Y37]",
+                "NazwaLokalizacji": "Wyrzyki"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.5225,
+                    50.6986122
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "368373",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27801",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260-",
+                "NazwaLokalizacji": "Szubków, Obwód rówieński, Ukraina"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8874168,
+                    54.20956
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "460965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30636",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260-",
+                "NazwaLokalizacji": "Зоричи, Беларусь"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.20585,
+                    52.35072
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "782210",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP515",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260-",
+                "NazwaLokalizacji": "08-311 Kudelczyn, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.6255131,
+                    53.09515
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "847712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6048",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260-",
+                "NazwaLokalizacji": "18-204 Zalesie Łabędzkie, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7049942,
+                    53.7309761
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "44146",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2905",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "Brzozowka, Podlasie, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7979469,
+                    53.8594742
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "454627",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "Rutki Stare, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9196548,
+                    52.94317
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "764313",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6445",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "09-320 Myślin, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.2698059,
+                    52.8276634
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "388411",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "Dmochy-Przeczki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.1096172,
+                    53.0512772
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "226207",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "16-061 Brończany, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.8974686,
+                    52.9624519
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "134759",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa M458+, subklad L260+",
+                "NazwaLokalizacji": "Łapy-Pluśniaki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.7506123,
+                    53.83918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "218889",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH1509",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Bagnity, Surzyki Wielkie, Polen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.86,
+                    49.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "166354",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Делієве, Ukraina"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.8784447,
+                    53.17854
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "275136",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP6009",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Grądy, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.7506123,
+                    53.83918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "347325",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH1509",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Bagnity, Surzyki Wielkie, Polen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.7506123,
+                    53.83918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "352914",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH1509",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Bagnity, Surzyki Wielkie, Polen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.7506123,
+                    53.83918
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "330339",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH1509",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Bagnity, Surzyki Wielkie, Polen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.89808,
+                    55.4034653
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN19079",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ Y33+",
+                "NazwaLokalizacji": "Widukle, Litwa"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.88,
+                    53.23
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N2335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y6956",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.04688,
+                    51.9484138
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "550709",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP951",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": "Хотомель, Беларусь"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.20887,
+                    53.60935
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "575786",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y53380",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": "Rejon grodzieński, Białoruś"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.1483,
+                    53.0169
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "278222",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": "Ogrodniczki12, 16-061Juchnowiec Kościelny, Bialystok, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9459667,
+                    51.9258232
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "262816",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1410",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": "Drelów, Польша"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.1695538,
+                    53.00566
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "222074",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ CTS3402+ YP237+",
+                "NazwaLokalizacji": "16-061 Wólka, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9427834,
+                    53.6620522
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "182802",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad CTS1211+ YP343+",
+                "NazwaLokalizacji": "16-310 Jaziewo, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.1370659,
+                    53.00402
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "226578",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad Z92+",
+                "NazwaLokalizacji": "Juchnowiec (835), 16-061, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.94498,
+                    50.06465
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "345068",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS4648",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad Z92+",
+                "NazwaLokalizacji": "Краков, Польша"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.2477684,
+                    53.2136345
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "556886",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y86163",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad Z92+",
+                "NazwaLokalizacji": "Dąbrówki, Польша"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.87498,
+                    53.4579048
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "649189",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y4459",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1a, Podgrupa Z280+, subklad Z92+",
+                "NazwaLokalizacji": "Wincenta, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.6887474,
+                    54.5273056
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "493809",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z1911",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b - nieznana podgrupa (niezbedne rozszerzenie badań)",
+                "NazwaLokalizacji": "Gudeliai, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9253,
+                    53.1407242
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "275140",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b - nieznana podgrupa (niezbedne rozszerzenie badań)",
+                "NazwaLokalizacji": "Rogówek"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.50391,
+                    40.018692
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "374180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y17444",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b, Podgrupa DF27+",
+                "NazwaLokalizacji": "Bedford, PA 15522, Сполучені Штати Америки"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.435236,
+                    53.09147
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "345633",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z17913",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b, Podgrupa U106+, subklad L48+ L47+",
+                "NazwaLokalizacji": "18-312 Rutki-Kossaki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.9457684,
+                    53.2239075
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "473416",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC43646",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b, Podgrupa U106+, subklad L48+ Z9+",
+                "NazwaLokalizacji": "06-330 Przysowy, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9544621,
+                    52.7706642
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN19474",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC57423",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b, Podgrupa U106+, Z381-",
+                "NazwaLokalizacji": "Bujnowo, Podlasie"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9545612,
+                    52.7706642
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "IN28354",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Haplogrupa R1b, Podgrupa U106+, Z381-",
+                "NazwaLokalizacji": "Bujnowo, Poland"
+            }
+        }
+    ]
+}

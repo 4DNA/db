@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    37.15928,
+                    36.21555
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Goldman",
+                "idFTDNA": "151378",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Aleppo, Syria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    57.32743,
+                    49.90848
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Forth",
+                "idFTDNA": "245180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Alga, Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    55.965126,
+                    53.64702
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eleusin",
+                "idFTDNA": "289676",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sterlitamak, Baschkortostan, Russland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.99540854,
+                    54.8661156
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Walsh",
+                "idFTDNA": "316866",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Co. Donegal, Ireland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.9205189,
+                    54.4681244
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lukosevicius",
+                "idFTDNA": "343953",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gražiškiai, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    49.8670921,
+                    40.40926
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Suleyman",
+                "idFTDNA": "413932",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1a1c1d",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Baku, Azerbaijan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    49.62991,
+                    25.3141556
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alkhalifa",
+                "idFTDNA": "662344",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C5c-C16234T",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "الهفوف‎ السعودية"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.100598,
+                    49.0216522
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "MUNIGLIA",
+                "idFTDNA": "764442",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2b6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "77440 Cocherel, France"
+            }
+        }
+    ]
+}

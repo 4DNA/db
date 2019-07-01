@@ -1,0 +1,145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    22.714838,
+                    53.1194649
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wadolowski",
+                "idFTDNA": "847712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "POL  J1b1a1b potomkowie Marianny Domicelli Kulikowskiej 1763-1836",
+                "NazwaLokalizacji": "18-204 Kobylin-Pogorzałki, Poland"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7357731,
+                    53.0819
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lapinski-Bodaj",
+                "idFTDNA": "125922",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": "POL ~HV0 mtDNA, potomkowie  Marianny Kropiewnickiej h. Prus, 1867-1903",
+                "NazwaLokalizacji": "Kropiewnica-Gajki, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.0853462,
+                    51.76728
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Plewako",
+                "idFTDNA": "131251",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "POL X2e1b mtDNA członkowie średniowiecznego subkladu Wielkopolska-Bawaria XVI w.",
+                "NazwaLokalizacji": "Kalisz"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.018,
+                    51.7185
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kinastowski",
+                "idFTDNA": "171497",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2e1b",
+                "PozycjaPrzypisanaPrzezProjekt": "POL X2e1b mtDNA członkowie średniowiecznego subkladu Wielkopolska-Bawaria XVI w.",
+                "NazwaLokalizacji": "Szczypiorno, Kalisz"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.018,
+                    51.7185
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zeltman",
+                "idFTDNA": "194422",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "POL X2e1b mtDNA członkowie średniowiecznego subkladu Wielkopolska-Bawaria XVI w.",
+                "NazwaLokalizacji": "Kalisz-Szczypiorno"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.018,
+                    51.7185
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ryan",
+                "idFTDNA": "236824",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2e1b",
+                "PozycjaPrzypisanaPrzezProjekt": "POL X2e1b mtDNA członkowie średniowiecznego subkladu Wielkopolska-Bawaria XVI w.",
+                "NazwaLokalizacji": "Kalisz, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5133467,
+                    49.9124146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "(heeke) Kennedy",
+                "idFTDNA": "123706",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2e1b",
+                "PozycjaPrzypisanaPrzezProjekt": "POL X2e1b mtDNA członkowie średniowiecznego subkladu Wielkopolska-Bawaria XVI w.",
+                "NazwaLokalizacji": "Mistelbach, Germany"
+            }
+        }
+    ]
+}

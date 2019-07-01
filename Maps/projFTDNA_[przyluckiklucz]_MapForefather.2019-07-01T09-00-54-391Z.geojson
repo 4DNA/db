@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8097229,
+                    49.46528
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Potyomkin",
+                "idFTDNA": "370517",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Дружне, Вінницька область, Україна"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.95,
+                    49.43
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Volos",
+                "idFTDNA": "586640",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sopyn, Vinnytsia Oblast, Ukraine, 22247"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.6228943,
+                    50.5033379
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nesteruk",
+                "idFTDNA": "IN63517",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "01. Волинське воєводство (Województwo wołyńskie)",
+                "NazwaLokalizacji": "Печихвости, Волинська область, Україна, 45734"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.75389,
+                    49.2941666
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Melnik",
+                "idFTDNA": "374432",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "02.01. Брацлавське воєводство (Województwo bracławskie) (результати по с.Кобильня Липовецького району)",
+                "NazwaLokalizacji": "Podolskaya guberniya, Russian Empire"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8097229,
+                    49.46528
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bajdaluk",
+                "idFTDNA": "278171",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "02.02. Брацлавське воєводство (Województwo bracławskie) Owieczacze (результати по с. ДРУЖНЕ Калинівського району)",
+                "NazwaLokalizacji": "Дружне, Вінницька область, Україна"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8097229,
+                    49.46528
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gutsalo",
+                "idFTDNA": "298011",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "02.02. Брацлавське воєводство (Województwo bracławskie) Owieczacze (результати по с. ДРУЖНЕ Калинівського району)",
+                "NazwaLokalizacji": "Дружне, Вінницька область, Україна"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.7177982,
+                    49.3904152
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "",
+                "idFTDNA": "306797",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "2. 03. Брацлавське воєводство (Województwo bracławskie)  (результати по м.Прилука Липовецького району)",
+                "NazwaLokalizacji": "Стара Прилука, Вінницька область, Україна, 22511"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.94,
+                    49.425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andrusenko",
+                "idFTDNA": "263026",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Sopin  (результати по с. СОПИН Погребищенського району)",
+                "NazwaLokalizacji": "Сопин, Вінницька область, Україна"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.94,
+                    49.425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Prusak",
+                "idFTDNA": "278164",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "Sopin  (результати по с. СОПИН Погребищенського району)",
+                "NazwaLokalizacji": "Сопин, Вінницька область, Україна"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.71611,
+                    53.558567
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Konsovskiy",
+                "idFTDNA": "457656",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Szlachta",
+                "NazwaLokalizacji": "Kęsowo, Польща"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.9906139,
+                    49.7603455
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Svidzinskiy",
+                "idFTDNA": "478260",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Szlachta",
+                "NazwaLokalizacji": "Вишневе, Житомирська область, Україна, 13633"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.99361,
+                    49.76
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lysnevskyi",
+                "idFTDNA": "IN50872",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "Szlachta",
+                "NazwaLokalizacji": "Вишневое, Житомирская область, Украина, 13633"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.9253254,
+                    49.9456177
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lipinski",
+                "idFTDNA": "715358",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Szlachta",
+                "NazwaLokalizacji": "Крилівка, Житомирська область, Україна, 13435"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.7646542,
+                    49.5401
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dziuba",
+                "idFTDNA": "734704",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Ukraine",
+                "NazwaLokalizacji": "Поляна Хирівська"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.88410473,
+                    48.3738823
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Usuk",
+                "idFTDNA": "E19337",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "z_other",
+                "NazwaLokalizacji": "Friesenheim, Німеччина"
+            }
+        }
+    ]
+}

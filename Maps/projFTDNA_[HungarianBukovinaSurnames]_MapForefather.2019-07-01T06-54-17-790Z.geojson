@@ -1,0 +1,4405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    18.5263538,
+                    46.2981033
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rudolf",
+                "idFTDNA": "142635",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bonyhád, Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.8833084,
+                    47.3544426
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Simon",
+                "idFTDNA": "175800",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hegyfalu, Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.8591976,
+                    51.779747
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cwiklak",
+                "idFTDNA": "180029",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-L713",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Sobótka, powiat Ostrów Wlkp. Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.19914,
+                    47.29482
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fülöp",
+                "idFTDNA": "189322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Felsőőr, Ausztria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.12597,
+                    47.374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bocskor",
+                "idFTDNA": "189324",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Pinkafeld, Ausztria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hauer",
+                "idFTDNA": "189358",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.5033035,
+                    47.1624947
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Geczy",
+                "idFTDNA": "194678",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.2801552,
+                    47.597168
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Balogh",
+                "idFTDNA": "197797",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2608",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Heves, Magyarország"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.3536,
+                    47.8221
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Edes",
+                "idFTDNA": "393673",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Madár, Komárom, Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Majore",
+                "idFTDNA": "435419",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ursulan",
+                "idFTDNA": "443336",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ursulan",
+                "idFTDNA": "443337",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0166664,
+                    47.86667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Illés",
+                "idFTDNA": "763519",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Hadikfalva, Bukovina, Hungary-Austria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.92517,
+                    46.57129
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csurár",
+                "idFTDNA": "87083",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bacau, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.5164185,
+                    48.357193
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Heimlich",
+                "idFTDNA": "894597",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Makkoshotyka, 3959 Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bréti",
+                "idFTDNA": "B278832",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bukovina - Istensegics"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.618185,
+                    46.2777061
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Corneliu",
+                "idFTDNA": "E5623",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Târgu Ocna 605600, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.5725346,
+                    58.7441254
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lidfors",
+                "idFTDNA": "IN16784",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L735",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "610 12 Hällestad, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Papp",
+                "idFTDNA": "127588",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "C",
+                "HaploGleboka": "C-F4002",
+                "PozycjaPrzypisanaPrzezProjekt": "C2b1c (M217+ F1699+ F1918+) TMRCA: Mongolia 2500 yBP",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9939251,
+                    47.8664055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Orban",
+                "idFTDNA": "142626",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5855274,
+                    46.72121
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Burján",
+                "idFTDNA": "127584",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Gheorgheni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Antal",
+                "idFTDNA": "111672",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mate",
+                "idFTDNA": "118742",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "118744",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Siculeni 537295, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.65822,
+                    47.9841576
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Székely",
+                "idFTDNA": "431367",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Vorniceni 717470, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.804,
+                    46.358
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mihaly",
+                "idFTDNA": "278854",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Miercurea Ciuc, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8016663,
+                    46.3594437
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gergley",
+                "idFTDNA": "N46490",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M78",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Csikcsicsò, Csik, Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pal",
+                "idFTDNA": "N56205",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7888,
+                    46.4583359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "87089",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M78",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Siculeni, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9191666,
+                    47.8425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dolha",
+                "idFTDNA": "94199",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Rădăuți, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eros",
+                "idFTDNA": "83771",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1236,
+                    47.5601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eros",
+                "idFTDNA": "75165",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M78",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zsók",
+                "idFTDNA": "71052",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-V13",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5166664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zsók",
+                "idFTDNA": "71055",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b1a (M35+ M78+ V13/V36+) useful: V68 SNP pack; TMRCA 4300 yBP, Europe",
+                "NazwaLokalizacji": "Dănești 537070, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "94195",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1a1b2 (M35+ M78+ V22+) useful: V68 SNP pack",
+                "NazwaLokalizacji": "Madéfalva 537295, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Keleman",
+                "idFTDNA": "445412",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1b2a1 (M35+ M123+ M34+ M84-)",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7799911,
+                    46.4104729
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelemen",
+                "idFTDNA": "431364",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1b2a1 (M35+ M123+ M34+ M84-)",
+                "NazwaLokalizacji": "Ciceu 537297, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelemen",
+                "idFTDNA": "111671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M34",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1b1b2a1 (M35+ M123+ M34+ M84-)",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebestyén",
+                "idFTDNA": "194681",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) predicted G2a2a-PF3147 and L91; useful: M201 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8742371,
+                    46.3312531
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Imre",
+                "idFTDNA": "185514",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) predicted G2a2a-PF3147 and L91; useful: M201 SNP pack",
+                "NazwaLokalizacji": "Csíkmindszent, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebastian",
+                "idFTDNA": "71574",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) predicted G2a2a-PF3147 and L91; useful: M201 SNP pack",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebestyén",
+                "idFTDNA": "77745",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) predicted G2a2a-PF3147 and L91; useful: M201 SNP pack",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebestyén",
+                "idFTDNA": "81862",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) predicted G2a2a-PF3147 and L91; useful: M201 SNP pack",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5166664,
+                    46.8166656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hompoth",
+                "idFTDNA": "94193",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) unknown subgroups, useful: M201 SNP pack",
+                "NazwaLokalizacji": "Ditrău 537090, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5,
+                    46.7
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pongrácz",
+                "idFTDNA": "185512",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) unknown subgroups, useful: M201 SNP pack",
+                "NazwaLokalizacji": "Joseni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1236,
+                    47.5601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Várda",
+                "idFTDNA": "118736",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a (P15+) unknown subgroups, useful: M201 SNP pack",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0853,
+                    47.7655
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Székely",
+                "idFTDNA": "109761",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z7940",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1a1a1a1a1 (P15+ Z6553+ Z7940+) one \"tribe\" (North Caucasus)",
+                "NazwaLokalizacji": "Iacobești 727293, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tamas",
+                "idFTDNA": "127578",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1a1a1a1a1 (P15+ Z6553+ Z7940+) one \"tribe\" (North Caucasus)",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rózsa",
+                "idFTDNA": "142629",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1a1a1a1a1 (P15+ Z6553+ Z7940+) one \"tribe\" (North Caucasus)",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barabas",
+                "idFTDNA": "94200",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1a1a1a1a1 (P15+ Z6553+ Z7940+) one \"tribe\" (North Caucasus)",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "94206",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1a1a1a1a1 (P15+ Z6553+ Z7940+) one \"tribe\" (North Caucasus)",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vancha",
+                "idFTDNA": "201899",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2b1 (P15+ M406+) useful: M201 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Wancha",
+                "idFTDNA": "431603",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2b1 (P15+ M406+) useful: M201 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8515129,
+                    46.45484
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebestyén",
+                "idFTDNA": "94208",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2b2a1a1a1a (P15+ P303+ U1+ L13+) Z2022 predicted, useful: M201 SNP pack",
+                "NazwaLokalizacji": "Frumoasa 537115, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pék",
+                "idFTDNA": "209595",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2b2a1a1a1a1a1a1 (P15+ U1+ L13+ L1263+, Z38846+) useful: Z38846 SNP test; TMRCA: Germany 1350 yBP",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sándor",
+                "idFTDNA": "127577",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2b2a1a1a1a1a1a1 (P15+ U1+ L13+ L1263+, Z38846+) useful: Z38846 SNP test; TMRCA: Germany 1350 yBP",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szatmari",
+                "idFTDNA": "127580",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7425327,
+                    47.80121
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gaschler",
+                "idFTDNA": "142631",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Drum Comunal Voivodeasa, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5172729,
+                    46.6854057
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csiki",
+                "idFTDNA": "155315",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Ciumani, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5166664,
+                    46.8166656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csibi",
+                "idFTDNA": "111675",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Ditrău 537090, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0853,
+                    47.7655
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bacs",
+                "idFTDNA": "111172",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Iacobești 727293, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benõ",
+                "idFTDNA": "118739",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Herczeg",
+                "idFTDNA": "194680",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8629589,
+                    46.28401
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "László",
+                "idFTDNA": "215970",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Sântimbru, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7458344,
+                    46.4932022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fazakas",
+                "idFTDNA": "431369",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Mădăraș 537071, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9119473,
+                    46.2068672
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ábrahám",
+                "idFTDNA": "175807",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Tuşnad, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.94928,
+                    46.26635
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gergely",
+                "idFTDNA": "155320",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Sânmartin, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7900352,
+                    46.57905
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Böjte",
+                "idFTDNA": "155321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Sândominic 537275, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7833328,
+                    46.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bács",
+                "idFTDNA": "155323",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Sândominic 537275, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5166664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kato",
+                "idFTDNA": "194667",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Dănești 537070, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Küsmodi",
+                "idFTDNA": "87080",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5172729,
+                    46.6854057
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Erõs",
+                "idFTDNA": "79139",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P109",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Ciumani, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.9093018,
+                    47.10281
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "David",
+                "idFTDNA": "80764",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Veszprém, Hungary"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kató",
+                "idFTDNA": "75160",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8092,
+                    46.3406
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kismodi",
+                "idFTDNA": "75162",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Jigodin-Băi 530003, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8515129,
+                    46.45484
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fazekas",
+                "idFTDNA": "75163",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Frumoasa 537115, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.82639,
+                    46.4121056
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benõ",
+                "idFTDNA": "492899",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "I1 (M253+) useful upgrade to 67 markers; TMRCA 4700 yBP South Scandinavia",
+                "NazwaLokalizacji": "Delniţa 537231, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.56194,
+                    46.6680145
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "66378",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Suseni, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "66380",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Siculeni 537295, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "71056",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0637455,
+                    46.0402374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kerekes",
+                "idFTDNA": "71054",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Turia, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kerekes",
+                "idFTDNA": "77162",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1236,
+                    47.5601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gáll",
+                "idFTDNA": "79132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7888,
+                    46.4583359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "79692",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y3548",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Siculeni, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.55,
+                    46.6666679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "László",
+                "idFTDNA": "79141",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Suseni 537305, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2422943,
+                    45.94099
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Palkó",
+                "idFTDNA": "81863",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Ghelința 527090, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1215668,
+                    47.5602722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "81866",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Daradics",
+                "idFTDNA": "87081",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5956,
+                    46.6921
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Daradics",
+                "idFTDNA": "94196",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Valea Strâmbă 537309, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lorencz",
+                "idFTDNA": "94198",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.4338417,
+                    46.54339
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bokor",
+                "idFTDNA": "N21177",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S17250",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Harghita, Rumänien"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2666664,
+                    46.05
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Palko",
+                "idFTDNA": "194672",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Lemnia 527110, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lõrincz",
+                "idFTDNA": "194673",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4460",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Mădăraș 537071, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5166664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gál",
+                "idFTDNA": "185518",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y4882",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Dăneşti, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Olti",
+                "idFTDNA": "175803",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Siculeni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.0407581,
+                    47.4984055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Illyés",
+                "idFTDNA": "175793",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Budapest, Magyarország"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7615356,
+                    46.53057
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szentes",
+                "idFTDNA": "431362",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Cârța 537035, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.4670124,
+                    47.2473259
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Antal",
+                "idFTDNA": "255496",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y83661",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Kup, Ungarn"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75862,
+                    46.4515762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fodor",
+                "idFTDNA": "382261",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2666664,
+                    46.05
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Palkó",
+                "idFTDNA": "194679",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Lemnia 527110, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Erdõs",
+                "idFTDNA": "118732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Becze",
+                "idFTDNA": "118733",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Daradics",
+                "idFTDNA": "109766",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gaspar",
+                "idFTDNA": "111674",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "János",
+                "idFTDNA": "109762",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pallo",
+                "idFTDNA": "109763",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.96676,
+                    45.94316
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sentes",
+                "idFTDNA": "105829",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.51527,
+                    46.70117
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Incze",
+                "idFTDNA": "142642",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Joseni, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fehér",
+                "idFTDNA": "142639",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.4972782,
+                    46.81635
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csibi",
+                "idFTDNA": "127590",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Ditrau, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8020458,
+                    46.3781128
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Darabos",
+                "idFTDNA": "127591",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Topliţa - Ciuc Church, Miercurea Ciuc, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9333324,
+                    47.7333336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Potápi",
+                "idFTDNA": "118738",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z17855",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a1b2a1 (P37+ M423+ L621+ CTS10228+) TMRCA: 2200 yBP Eastern Europe; subgroup testing underway",
+                "NazwaLokalizacji": "Arbore 727015, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Elekes",
+                "idFTDNA": "118746",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2 (M223+) useful: M223 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.13291,
+                    46.0443764
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "71049",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "I2a2 (M223+) useful: M223 SNP pack",
+                "NazwaLokalizacji": "Kezdiszentlelek, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5166664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "87082",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a* (M172+ M410+ L26-) useful: M172 SNP pack",
+                "NazwaLokalizacji": "Dănești 537070, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.89,
+                    47.79
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ömböli",
+                "idFTDNA": "81864",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1* (M172+ M410+ L26+ neg. for big subclades) useful: M172 SNP pack",
+                "NazwaLokalizacji": "Satu Mare, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.89,
+                    47.79
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Omboli",
+                "idFTDNA": "78230",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1* (M172+ M410+ L26+ neg. for big subclades) useful: M172 SNP pack",
+                "NazwaLokalizacji": "Satu Mare, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1236,
+                    47.5601
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mezei",
+                "idFTDNA": "75164",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M67",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b (M172+ M67+ M92-) useful: M67&L24 SNP pack",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9939251,
+                    47.8664055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Paul",
+                "idFTDNA": "94189",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b (M172+ M67+ M92-) useful: M67&L24 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pék",
+                "idFTDNA": "431368",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b (M172+ M67+ M92-) useful: M67&L24 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Balló",
+                "idFTDNA": "155318",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b (M172+ M67+ M92-) useful: M67&L24 SNP pack",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dobondi",
+                "idFTDNA": "118750",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+) one \"tribe\" useful BigY or M67&L24 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2422943,
+                    45.94099
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "127581",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+) one \"tribe\" useful BigY or M67&L24 SNP pack",
+                "NazwaLokalizacji": "Ghelința 527090, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sántha",
+                "idFTDNA": "127586",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+) one \"tribe\" useful BigY or M67&L24 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.14358,
+                    45.99832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "76212",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M92",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b1 (M172+ M67+ M92+) one \"tribe\" useful BigY or M67&L24 SNP pack",
+                "NazwaLokalizacji": "Kézdivásárhely, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.5333328,
+                    46.75
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kozma",
+                "idFTDNA": "189354",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b1 (M172+ M12+ M205+) TMRCA 5100 yBP; useful: PF7344 SNP test",
+                "NazwaLokalizacji": "Lăzarea 537135, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fazakas",
+                "idFTDNA": "431361",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2a (M172+ M12+ M241+ L283+) TMRCA 5800 yBP, Europe; useful: M172 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1631756,
+                    45.97005
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "79693",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2a (M172+ M12+ M241+ L283+) TMRCA 5800 yBP, Europe; useful: M172 SNP pack",
+                "NazwaLokalizacji": "Szentkatolna, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mészáros",
+                "idFTDNA": "87087",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "L",
+                "HaploGleboka": "L-M20",
+                "PozycjaPrzypisanaPrzezProjekt": "L1b1 (M20+ M22+ M349+)",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kozma",
+                "idFTDNA": "127574",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-F14667",
+                "PozycjaPrzypisanaPrzezProjekt": "N1a (M231+ P189.2+) from Inner Asia to Eastern Europe",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5166664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kajtár",
+                "idFTDNA": "118747",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M178",
+                "PozycjaPrzypisanaPrzezProjekt": "N1c1a1a2b (L708+ L1026+ Z1936+ L1034+ L1442+) \"Ugric group\"",
+                "NazwaLokalizacji": "Dănești 537070, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kajtár",
+                "idFTDNA": "87085",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-L1442",
+                "PozycjaPrzypisanaPrzezProjekt": "N1c1a1a2b (L708+ L1026+ Z1936+ L1034+ L1442+) \"Ugric group\"",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75862,
+                    46.4515762
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fodor",
+                "idFTDNA": "382258",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M232",
+                "PozycjaPrzypisanaPrzezProjekt": "N1c1a1b (M231+ L708+ M2019+ L1026-) \"Yakut\" cluster",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7833328,
+                    46.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "155322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M231",
+                "PozycjaPrzypisanaPrzezProjekt": "N1c2b (M231+ P43+) Asian cluster (Samoyedic/Turkic)",
+                "NazwaLokalizacji": "Csíkszentdomokos, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Peter",
+                "idFTDNA": "160179",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tamas",
+                "idFTDNA": "382263",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Siculeni 537295, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csiki",
+                "idFTDNA": "109759",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-L713",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Péter",
+                "idFTDNA": "155304",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Péter",
+                "idFTDNA": "155305",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Péter",
+                "idFTDNA": "155306",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Péter",
+                "idFTDNA": "155313",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9274,
+                    47.8997
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "László",
+                "idFTDNA": "155314",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M242",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7625,
+                    46.45
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Péter",
+                "idFTDNA": "79133",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M25",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Racu 537298, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nagy",
+                "idFTDNA": "79135",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "Q",
+                "HaploGleboka": "Q-M25",
+                "PozycjaPrzypisanaPrzezProjekt": "Q1a1b1a (M25+ L712+ L713+ YP789+) one Turkic \"tribe\", TMRCA 1700 yBP",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0637455,
+                    46.0402374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csoboth",
+                "idFTDNA": "78424",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M417+ Z283+ M458+ L260+) \"West Slavic\"; TMRCA 2500 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Turia, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0516739,
+                    46.1958771
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Csoboth",
+                "idFTDNA": "71050",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M417+ Z283+ M458+ L260+) \"West Slavic\"; TMRCA 2500 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Casinu Nou 537236, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kóka",
+                "idFTDNA": "71048",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M417+ Z283+ M458+ L260+) \"West Slavic\"; TMRCA 2500 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Csíkszereda, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75315,
+                    46.43748
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dobos",
+                "idFTDNA": "163825",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1a (M417+ Z283+ M458+ L260+) \"West Slavic\"; TMRCA 2500 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Siculeni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lõrincz",
+                "idFTDNA": "431365",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M417+ Z283+ M458+ L1029+) \"Central European\"; TMRCA 2100 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nászai",
+                "idFTDNA": "142644",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M417+ Z283+ M458+ L1029+) \"Central European\"; TMRCA 2100 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Miklós",
+                "idFTDNA": "127589",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M417+ Z283+ M458+ L1029+) \"Central European\"; TMRCA 2100 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bothe",
+                "idFTDNA": "74909",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M417+ Z283+ M458+ L1029+) \"Central European\"; TMRCA 2100 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Brendján",
+                "idFTDNA": "79131",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a1b1 (M417+ Z283+ M458+ L1029+) \"Central European\"; TMRCA 2100 yBP; useful: R1a-backbone SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.18373,
+                    46.4716
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fabian",
+                "idFTDNA": "94203",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2 (M417+ Z283+ Z280+) unclassified; need more markers or Z280 SNP pack",
+                "NazwaLokalizacji": "Korond, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.0079937,
+                    45.43532
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kiss",
+                "idFTDNA": "79988",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2 (M417+ Z283+ Z280+) unclassified; need more markers or Z280 SNP pack",
+                "NazwaLokalizacji": "Galați, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Turbuck",
+                "idFTDNA": "109764",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2 (M417+ Z283+ Z280+) unclassified; need more markers or Z280 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kozan",
+                "idFTDNA": "68893",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2a1 (M417+ Z283+ Z280+ Z92+ YP569+) \"North Eurasian\"; TMRCA: 1700 yBP",
+                "NazwaLokalizacji": "Țibeni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.8515129,
+                    46.45484
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bogos",
+                "idFTDNA": "69850",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2a1 (M417+ Z283+ Z280+ Z92+ YP569+) \"North Eurasian\"; TMRCA: 1700 yBP",
+                "NazwaLokalizacji": "Frumoasa 537115, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1602764,
+                    47.56529
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kóródi",
+                "idFTDNA": "127575",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b  (M417+ Z283+ Z280+ CTS1211+ YP340+) \"Old/Western Carpathian\"; TMRCA: 2800 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Vornicenii Mici 727378, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lovász",
+                "idFTDNA": "118740",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b  (M417+ Z283+ Z280+ CTS1211+ YP340+) \"Old/Western Carpathian\"; TMRCA: 2800 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.02197,
+                    47.81068
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lovász",
+                "idFTDNA": "442527",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b  (M417+ Z283+ Z280+ CTS1211+ YP340+) \"Old/Western Carpathian\"; TMRCA: 2800 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Istensegíts 727481, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lovasz",
+                "idFTDNA": "209600",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b  (M417+ Z283+ Z280+ CTS1211+ YP340+) \"Old/Western Carpathian\"; TMRCA: 2800 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.95236,
+                    46.22927
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kóródi",
+                "idFTDNA": "155311",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b (M417+ Z283+ Z280+ CTS1211+ YP1019+) \"Old Baltic\"; useful: YP1019 SNP test",
+                "NazwaLokalizacji": "Tusnad, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Papp",
+                "idFTDNA": "118749",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ Y2613+ likely Y2608) \"Baltic-Carpathian\"; TMRCA: 1900 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.55,
+                    46.6666679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ambrus",
+                "idFTDNA": "189353",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ Y2613+ likely Y2608) \"Baltic-Carpathian\"; TMRCA: 1900 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Suseni 537305, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.27323,
+                    47.6634521
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Beréti",
+                "idFTDNA": "81865",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ Y2613+ likely Y2608) \"Baltic-Carpathian\"; TMRCA: 1900 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Suceava, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.3008,
+                    47.2536
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Forraie",
+                "idFTDNA": "94194",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ Y2613+ likely Y2608) \"Baltic-Carpathian\"; TMRCA: 1900 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Nimigea de Jos, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.19914,
+                    47.29482
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Adorján",
+                "idFTDNA": "189316",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z280",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ YP295+) TMRCA: 2700 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Felsőőr, Ausztria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Váncsa",
+                "idFTDNA": "194675",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ YP295+) TMRCA: 2700 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Mădăraș 537071, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0244,
+                    47.8162
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Váncsa",
+                "idFTDNA": "118734",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ CTS3402+ YP295+) TMRCA: 2700 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Țibeni 727481, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fülöp",
+                "idFTDNA": "127573",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ Y2902+ predicted Y3219-) \"Volga-Carpathian general\"; TMRCA: 2200 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2636852,
+                    46.0594673
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sebestyén",
+                "idFTDNA": "155309",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2902",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ Y2902+ predicted Y3219-) \"Volga-Carpathian general\"; TMRCA: 2200 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Lemnia, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.7037239,
+                    47.1291
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Salamon",
+                "idFTDNA": "96027",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ Y2902+ predicted Y3219-) \"Volga-Carpathian general\"; TMRCA: 2200 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Tomeşti, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gyorfi",
+                "idFTDNA": "94191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ Y2902+ Y3219+) \"Volga-Carpathian West\"; TMRCA: 2100 yBP; useful: Y3219 and PH3519 SNP test",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2085,
+                    45.9257
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fejér",
+                "idFTDNA": "160178",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3 (M417+ Z283+ Z280+ Y2902+ Y3219+) \"Volga-Carpathian West\"; TMRCA: 2100 yBP; useful: Y3219 and PH3519 SNP test",
+                "NazwaLokalizacji": "Harale 527091, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7833328,
+                    46.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mákszem",
+                "idFTDNA": "155317",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP611",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3c (M417+ Z283+ Z280+ CTS3402+ L1280+) \"Northern Carpathian\"; TMRCA: 2300 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Sândominic 537275, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.1215668,
+                    47.5602722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Makszém",
+                "idFTDNA": "79140",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z283",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3c (M417+ Z283+ Z280+ CTS3402+ L1280+) \"Northern Carpathian\"; TMRCA: 2300 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Vornicenii Mari 727377, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.14358,
+                    45.99832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelemen",
+                "idFTDNA": "79134",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b1a2b3c (M417+ Z283+ Z280+ CTS3402+ L1280+) \"Northern Carpathian\"; TMRCA: 2300 yBP; useful: Z280 SNP pack",
+                "NazwaLokalizacji": "Kézdivásárhely, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7888,
+                    46.4583359
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Márton",
+                "idFTDNA": "79138",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M17",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b2a2 (M417+ Z93+ Z2124+ Z2125+ S23592+ S23201+) one Turkic \"tribe\"",
+                "NazwaLokalizacji": "Siculeni, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benko",
+                "idFTDNA": "127582",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b2a2 (M417+ Z93+ Z2124+ Z2125+ S23592+ S23201+) one Turkic \"tribe\"",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9939251,
+                    47.8664055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benko",
+                "idFTDNA": "247529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z2124",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1a1b2a2 (M417+ Z93+ Z2124+ Z2125+ S23592+ S23201+) one Turkic \"tribe\"",
+                "NazwaLokalizacji": "Hadikfalva, Bukovina, Austrian Empire"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7615356,
+                    46.53057
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "209599",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a (M269+ L11+) unknown subgroup, need M343 SNP pack",
+                "NazwaLokalizacji": "Cârța 537035, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7458344,
+                    46.4932022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jére",
+                "idFTDNA": "431363",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a (M269+ L11+) unknown subgroup, need M343 SNP pack",
+                "NazwaLokalizacji": "Mădăraș 537071, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7458344,
+                    46.4932022
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "György",
+                "idFTDNA": "194674",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a (M269+ L11+) unknown subgroup, need M343 SNP pack",
+                "NazwaLokalizacji": "Mădăraș 537071, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dani",
+                "idFTDNA": "127579",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a (M269+ L11+) unknown subgroup, need M343 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7833328,
+                    46.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barabás",
+                "idFTDNA": "175810",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U106",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1b (M269+ U106+ Z18+ predicted) TMRCA 3500 yBP; Germanic; useful: Z18 SNP pack",
+                "NazwaLokalizacji": "Sândominic, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.94928,
+                    46.26635
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bocskor",
+                "idFTDNA": "175808",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U106",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2 (M269+ U106+ Z301+ FGC13938+ L48-) Germanic",
+                "NazwaLokalizacji": "Csíkszentmárton, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Cseke",
+                "idFTDNA": "163824",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L48",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.75,
+                    46.5
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Miklós",
+                "idFTDNA": "185515",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Mădăraş, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0153141,
+                    45.7818069
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Joos",
+                "idFTDNA": "189359",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY20401",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Kisborosnyó, Transylvania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szöts",
+                "idFTDNA": "142640",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L48",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Borbándi",
+                "idFTDNA": "142641",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L48",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.81,
+                    46.37
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bíró",
+                "idFTDNA": "109758",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U106",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Tomesti, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ambrus",
+                "idFTDNA": "111680",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L48",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a1c2b (M269+ U106+ L48+); TMRCA 4700 yBP; Germanic; useful: R1b-L48 SNP pack",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.99708,
+                    47.82366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "118741",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P312",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a (M269+ P312+ predicted DF27+) useful: DF27 SNP test or M343 SNP pack",
+                "NazwaLokalizacji": "Suceava megyében, Romania (formerly Bukovina, Hungary)"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nagy",
+                "idFTDNA": "163809",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P312",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a (M269+ P312+ predicted DF27+) useful: DF27 SNP test or M343 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92419,
+                    47.89917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "67665",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-P312",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a (M269+ P312+ predicted DF27+) useful: DF27 SNP test or M343 SNP pack",
+                "NazwaLokalizacji": "Măneuți 727256, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Solomon",
+                "idFTDNA": "72200",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a (M269+ P312+ predicted DF27+) useful: DF27 SNP test or M343 SNP pack",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2422943,
+                    45.94099
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Palkó",
+                "idFTDNA": "87086",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a1a1 (M269+ P312+ DF27+ Z272+ Z220+ S21184+) TMRCA 3900 yB",
+                "NazwaLokalizacji": "Ghelința 527090, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.2422943,
+                    45.94099
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Palkó",
+                "idFTDNA": "155312",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-A7066",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a1a1 (M269+ P312+ DF27+ Z272+ Z220+ S21184+) TMRCA 3900 yB",
+                "NazwaLokalizacji": "Ghelinţa, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.3002777,
+                    47.4655571
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Both",
+                "idFTDNA": "163820",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-CTS4065",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a1a1a2 (M269+ P312+ DF27+ Z272+ Z220+ Z295+ CTS4065+) TMRCA 3400 yB",
+                "NazwaLokalizacji": "Ulmeni, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7833328,
+                    46.5833321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kedves",
+                "idFTDNA": "189361",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L176",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a1b (M269+ P312+ DF27+ Z195+ L176.2+) TMRCA 2500 yBP",
+                "NazwaLokalizacji": "Sândominic, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.22889,
+                    47.26391
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kelemen",
+                "idFTDNA": "189328",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-SRY2627",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2a1b1a1 (M269+ P312+ DF27+ Z195+ L176.2+ M167+) TMRCA 3900 yBP",
+                "NazwaLokalizacji": "7501 Unterwart, Ausztria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.08445,
+                    47.7664146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hompoth",
+                "idFTDNA": "378426",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": "Iacobești 727293, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Beke",
+                "idFTDNA": "118735",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PF6652",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.6666679,
+                    47.9833336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kovács",
+                "idFTDNA": "118745",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PF6652",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": "Vorniceni 717470, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Domokos",
+                "idFTDNA": "111678",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U152",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.08445,
+                    47.7664146
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hompot",
+                "idFTDNA": "94205",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": "Iacobești 727293, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.03,
+                    47.82
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gasper",
+                "idFTDNA": "81993",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U152",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b* (M269+ P312+ U152+ L2- Z36- Z56-) useful: Z192 SNP test or BigY",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9939251,
+                    47.8664055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Szakács",
+                "idFTDNA": "127576",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L2",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b1 (M269+ P312+ U152+ L2+ L20- Z49-)",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0637455,
+                    46.0402374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Borbándi",
+                "idFTDNA": "142637",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z142",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b1c1 (M269+ P312+ U152+ L2+ Z49+ Z142+)",
+                "NazwaLokalizacji": "Torja, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.7,
+                    46.3
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Géber",
+                "idFTDNA": "85810",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-U152",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2b3 (M269+ P312+ U152+ Z56+)",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.80945,
+                    46.367
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Orbán",
+                "idFTDNA": "194684",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-DF13",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a2c1 (M269+ P312+ L21+ DF13+) TMRCA 4300 yBP; Celtic",
+                "NazwaLokalizacji": "Miercurea-Ciuc, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.81,
+                    46.37
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Geber",
+                "idFTDNA": "71057",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1a3 (M269+ L23+ L11+ S1200+ U106- P312-); TMRCA 4600 yBP; Germanic?",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.0011,
+                    47.8712
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mátyás",
+                "idFTDNA": "142627",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M173",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1b (M269+ L23+ L51+ PF7589+ L11-); TMRCA 4800 yBP; Western IE",
+                "NazwaLokalizacji": "Dornești 727210, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.92122,
+                    47.8476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Illés",
+                "idFTDNA": "109760",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-L51",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a1b (M269+ L23+ L51+ PF7589+ L11-); TMRCA 4800 yBP; Western IE",
+                "NazwaLokalizacji": "Radóc, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.90703,
+                    46.40019
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "László",
+                "idFTDNA": "79137",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a2 (M269+ Z2105+) CTS7822+ predicted; East IE",
+                "NazwaLokalizacji": "Cleja, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.14358,
+                    45.99832
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Fábián",
+                "idFTDNA": "79690",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2a2b (M269+ Z2105+) predicted L277+ useful L277 SNP test",
+                "NazwaLokalizacji": "Kézdivásárhely, Románia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.7512856,
+                    46.6894646
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Buta",
+                "idFTDNA": "155310",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b1a1a2b (M269+ PF7558+ L23-) useful PF7562 SNP test",
+                "NazwaLokalizacji": "Petrilaca de Mureş 547288, Romania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.6666679,
+                    47.9833336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "György",
+                "idFTDNA": "118737",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-M70",
+                "PozycjaPrzypisanaPrzezProjekt": "T1a2b (M70+ L131+ L446+)",
+                "NazwaLokalizacji": "Vorniceni 717470, Romania"
+            }
+        }
+    ]
+}

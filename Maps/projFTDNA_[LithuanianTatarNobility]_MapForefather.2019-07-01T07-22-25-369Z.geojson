@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    56.18656,
+                    55.90713
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Goryaev",
+                "idFTDNA": "230326",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P109",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Бигильдино, Республика Башкортостан, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Melekh",
+                "idFTDNA": "318228",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "д. Мелеховичи, Великое Княжество Литовское"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.2796516,
+                    54.6871567
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "GEDIMINID ROYAL PRINC",
+                "idFTDNA": "353043",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-BY21908",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Vilnius, Lietuvos Respublika"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.5225,
+                    50.6986122
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bielak",
+                "idFTDNA": "368373",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY27801",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Szubków, Obwód rówieński, Ukraina"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.50391,
+                    40.018692
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Weyant",
+                "idFTDNA": "374180",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y17444",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bedford, PA 15522, Сполучені Штати Америки"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.3956108,
+                    57.9247131
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Thuvesson",
+                "idFTDNA": "395471",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP1390",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "563 93 Ölmstad, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    75.98975,
+                    39.4704
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kibirov",
+                "idFTDNA": "421426",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y6",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Кашгар, Синьцзян-Уйгурский автономный район, Китай"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    22.244833,
+                    51.1644554
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bielak",
+                "idFTDNA": "444847",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Krężnica Okrągła, Polska"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    28.8874168,
+                    54.20956
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Martsinkevich",
+                "idFTDNA": "460965",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30636",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Зоричи, Беларусь"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.3600769,
+                    52.03835
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bessonov",
+                "idFTDNA": "626512",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30750",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Marmyzhi, Konyshevskiy rayon, Kurskaya oblast', Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.9993687,
+                    54.17425
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kodzis",
+                "idFTDNA": "661745",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y15575",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Eišiškės, Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.1451359,
+                    51.9194374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pyka",
+                "idFTDNA": "866335",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Poland and Czech Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.5656853,
+                    45.7906
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Z19969",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Kerz 557070, Rumänien"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.26719,
+                    44.114727
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alil",
+                "idFTDNA": "N118842",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-PH4902",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Silistra, Bulgaria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.176209,
+                    52.9604034
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hammond",
+                "idFTDNA": "N31656",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Radford, Nottingham NG7, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.0000267,
+                    56.18278
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Valkiūnas",
+                "idFTDNA": "176396",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-M178",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Gajūnai, Biržai 41012, Lietuva"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.77,
+                    53.12
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kenski",
+                "idFTDNA": "N42532",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N-P43",
+                "PozycjaPrzypisanaPrzezProjekt": "N1b",
+                "NazwaLokalizacji": null
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    23.8812752,
+                    55.1694374
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Jakubauskas",
+                "idFTDNA": "177949",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S23201",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1 YP349+",
+                "NazwaLokalizacji": "Lithuania"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.6435013,
+                    60.1281624
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gray",
+                "idFTDNA": "173843",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-S10438",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1 YP349+",
+                "NazwaLokalizacji": "Sweden"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.5666676,
+                    53.9
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Muchla",
+                "idFTDNA": "174777",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a1 YP349+",
+                "NazwaLokalizacji": "Minsk, Belarus"
+            }
+        }
+    ]
+}

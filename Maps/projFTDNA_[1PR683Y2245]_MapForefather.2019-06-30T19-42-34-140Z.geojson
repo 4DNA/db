@@ -1,0 +1,685 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B234067",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY189637",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63*",
+                "NazwaLokalizacji": "South Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.16373,
+                    33.8360825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B11839",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PH5281",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63*",
+                "NazwaLokalizacji": "England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N15874",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y14293",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63*",
+                "NazwaLokalizacji": "Ampney Crucis, Cirencester, Gloucestershire GL7, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.900015,
+                    51.71934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "280240",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y32320",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, BY351+",
+                "NazwaLokalizacji": "Rohatyn, Ivano-Frankivs'ka oblast, Ukraine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.62051,
+                    49.41145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "323482",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y21371",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, BY351+",
+                "NazwaLokalizacji": "Almondbury, Huddersfield, West Yorkshire HD4, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.748167,
+                    53.62657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "533967",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y21374",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, BY351+",
+                "NazwaLokalizacji": "384 40 Ålem, Sverige"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3844032,
+                    56.9489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, PR683+ Test Y500 or PR683 SNP Pack",
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "276034",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PR683",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, PR683+ Test Y500 or PR683 SNP Pack",
+                "NazwaLokalizacji": "Volokonovski District, Belgorodska oblast, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.83,
+                    50.57
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B95335",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY86675",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, PR683+ Test Y500 or PR683 SNP Pack",
+                "NazwaLokalizacji": "82-400 Górki, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0575,
+                    53.8713875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "7186",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY180884",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, PR683+, L1237+ Consider PR683 SNP Pack or Big Y",
+                "NazwaLokalizacji": "26-060 Bolmin, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.34761,
+                    50.80855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "279923",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY583",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, PR683+, L1237+, BY583+",
+                "NazwaLokalizacji": "Mörsfeld, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.93270254,
+                    49.7440338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "380613",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33063",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, L1237+, Y6634+",
+                "NazwaLokalizacji": "Brienno CO, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131444,
+                    45.9122429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "382847",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33063",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, L1237+, Y6634+",
+                "NazwaLokalizacji": "Brienno CO, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131444,
+                    45.9122429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "751553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-PR683",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, L1237+, Y6634+",
+                "NazwaLokalizacji": "Present-day Serbia, pre 1914 Kingdom of Hungary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2472553,
+                    45.0190125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N80204",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33063",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, L1237+, Y6634+",
+                "NazwaLokalizacji": "Brienno CO, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131426,
+                    45.9101677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "370684",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3385",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, L1237+, Y6634+, BY3386+",
+                "NazwaLokalizacji": "Tiffield, Towcester NN12, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.979422,
+                    52.16015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N149154",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY49470",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, BY49470+",
+                "NazwaLokalizacji": "330 27 Hestra, Schweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5960312,
+                    57.44315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "B1493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY3389",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y3969+",
+                "NazwaLokalizacji": "Folkestone, Kent, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.169456,
+                    51.081398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "24133",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY15934",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y3969+",
+                "NazwaLokalizacji": "Ardleigh, Essex, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.983113,
+                    51.92686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "371333",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y6229",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+",
+                "NazwaLokalizacji": "Inverness, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.224721,
+                    57.47777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "783230",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY34506",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+",
+                "NazwaLokalizacji": "München, Tyskland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5819807,
+                    48.1351242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "768226",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+",
+                "NazwaLokalizacji": "Elimäki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.450943,
+                    60.72131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "48539",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY316",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.276,
+                    54.668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "389719",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A8243",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, A8243+",
+                "NazwaLokalizacji": "Carthorpe, Bedale, North Yorkshire DL8, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.528744,
+                    54.24988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "629205",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A16216",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y37939+, A16216+",
+                "NazwaLokalizacji": "Lyon, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835659,
+                    45.76404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N225748",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-A16212",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y37939+, A16216+",
+                "NazwaLokalizacji": "Deckenreuth 6, 95346 Stadtsteinach, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50479,
+                    50.2101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N5867",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y104808",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y37939+, Y109143+",
+                "NazwaLokalizacji": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4,
+                    61.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N3626",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7627",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y7627+",
+                "NazwaLokalizacji": "Dresden, TN 38225, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7081146,
+                    36.29145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "485579",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33779",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y7627+, Y33778+",
+                "NazwaLokalizacji": "697 74 Sköllersta, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3391514,
+                    59.13649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "372402",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33779",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y3968+, Y3979+, Y6228+, Y6229+, Y7626+, Y7627+, Y33778+",
+                "NazwaLokalizacji": "Paistu, 69601 Viljandi County, Estland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6309,
+                    58.2738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "360514",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y7234+",
+                "NazwaLokalizacji": "Brzeszczki Duże, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4023781,
+                    52.96042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "183664",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y8473",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y7234+",
+                "NazwaLokalizacji": "98-160 Brzeski, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9588642,
+                    51.5221519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N10705",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC14477",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, S2078+, Y2245+, Y7234+",
+                "NazwaLokalizacji": "Brzeszczki Duże, Poland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4023781,
+                    52.96042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Not Disclosed",
+                "idFTDNA": "N14114",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-FGC67513",
+                "PozycjaPrzypisanaPrzezProjekt": "Z63+, Y15565+",
+                "NazwaLokalizacji": "Perry's Cove, Conception Bay, NL, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.14911,
+                    47.7986755
+                ]
+            }
+        }
+    ]
+}

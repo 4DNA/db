@@ -1,0 +1,2965 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.6045151,
+                    43.49499
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Quandour",
+                "idFTDNA": "B391646",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nalchik, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.8685646,
+                    44.8119621
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "KUYUMCU",
+                "idFTDNA": "IN43656",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-P37",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Bihać 77000, Bosna Hersek"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.20855,
+                    43.69713
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Daguzhaev",
+                "idFTDNA": "IN63282",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Урожайное, Кабардино-Балкарская Респ., Россия, 361215"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.6045151,
+                    43.49499
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kushha",
+                "idFTDNA": "IN63529",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Nalchik, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.8528,
+                    43.46779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pshikhov",
+                "idFTDNA": "IN55854",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": "0жидание результатов ...",
+                "NazwaLokalizacji": "Staryy Cherek, Kabardino-Balkaria, Russia, 361324"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8839226,
+                    34.4072723
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ali",
+                "idFTDNA": "IN57065",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A-M32",
+                "PozycjaPrzypisanaPrzezProjekt": "A1b1b M32>Y20629>YP4735>M13>Y23655>? Africa, Arabian Peninsula",
+                "NazwaLokalizacji": "Lebanon-Tripoli"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.8839226,
+                    34.4072723
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khoder",
+                "idFTDNA": "IN57069",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "A",
+                "HaploGleboka": "A-M32",
+                "PozycjaPrzypisanaPrzezProjekt": "A1b1b M32>Y20629>YP4735>M13>Y23655>? Africa, Arabian Peninsula",
+                "NazwaLokalizacji": "Lebanon-Tripoli"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kuzhev",
+                "idFTDNA": "277021",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M2",
+                "PozycjaPrzypisanaPrzezProjekt": "E1b1a V38>M2>V43>M4732>M4895~(M4706?,M4231?) please order more STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.2845573,
+                    42.8671379
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kvitsinia",
+                "idFTDNA": "IN48105",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692~ Caucasus ~ 6000|6000 years, please order BigY",
+                "NazwaLokalizacji": "Abkhazia-Atara"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.53322,
+                    43.2264977
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benia",
+                "idFTDNA": "IN27127",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692~ Caucasus ~ 6000|6000 years, please order BigY",
+                "NazwaLokalizacji": "Republic Abkhazia, Otkh'ara-Gudauta"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yashev",
+                "idFTDNA": "277012",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692~? Cluster B, Caucasus ~ 6000|6000 years, need order BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.87764,
+                    44.2066231
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nasipov",
+                "idFTDNA": "IN48904",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z31459 Caucasus ~ 3200|4300 years, need order SNP pack or BigY",
+                "NazwaLokalizacji": "Псаучье-Дахе, Карачаево-Черкесская Республика, Россия, 369413"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.6064835,
+                    42.8792076
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tsulukia",
+                "idFTDNA": "IN47963",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z31459 Caucasus ~ 3200|4300 years, need order SNP pack or BigY",
+                "NazwaLokalizacji": "Abkhazia-Arasadzykh"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.05917,
+                    44.2273979
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gutyakulov",
+                "idFTDNA": "429302",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>FGC719~ Cluster A, Caucasus ~ 750|4300 years, need order SNP pack or BigY",
+                "NazwaLokalizacji": "Черкесск, Карачаево-Черкесская Республика, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7970619,
+                    43.552063
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khamgokov",
+                "idFTDNA": "IN58816",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>FGC719~ Cluster B, Caucasus ~ 750|4300 years, need order SNP pack or BigY",
+                "NazwaLokalizacji": "Шитхала, Кабардино-Балкарская Респ., Россия, 361309"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2161865,
+                    44.4542427
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Özel",
+                "idFTDNA": "N14671",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P15",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>FGC719~ Cluster B, Caucasus ~ 750|4300 years, need order SNP pack or BigY",
+                "NazwaLokalizacji": "Rusya, Adigey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.5173836,
+                    42.65796
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khintbaya",
+                "idFTDNA": "283050",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>? unknown, please order BigY",
+                "NazwaLokalizacji": "Okhurei, Грузия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.5659027,
+                    44.9261055
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Takakho",
+                "idFTDNA": "IN61266",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>L497|U1? please order BigY [Have to be checked for G-L497 (Europe) and U1>L1266 (West Caucasus)!][DYS388=13!]",
+                "NazwaLokalizacji": "Gabukay, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.21839,
+                    45.0120354
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Eshugaov",
+                "idFTDNA": "781093",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FT55754",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277*",
+                "NazwaLokalizacji": "Мамхег, Республика Адыгея, Россия, 385440"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gozhev",
+                "idFTDNA": "277041",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264 need order 37 STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Agov",
+                "idFTDNA": "277030",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>? please order BigY [Have to be checked for a new sub-branch!][Cluster DYS391=11]Ubykhs>>Abazins?",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7303925,
+                    43.8845139
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Liev",
+                "idFTDNA": "291799",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>? please order BigY [Have to be checked for a new sub-branch!][Cluster DYS391=11]Ubykhs>>Abazins?",
+                "NazwaLokalizacji": "Karachay-Cherkessia, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1080856,
+                    44.59841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bersirov",
+                "idFTDNA": "305349",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>? please order BigY [Have to be checked for a new sub-branch!][Cluster DYS391=11]Ubykhs>>Abazins?",
+                "NazwaLokalizacji": "Republic Adygea, Maykop"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.2104454,
+                    43.897934
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Amshukov",
+                "idFTDNA": "IN56008",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>? please order BigY [Have to be checked for a new sub-branch!][The only DYS426=12 within L1266!]",
+                "NazwaLokalizacji": "Adyg-Kabarda-Zalukokoazhe"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.1005554,
+                    43.6205559
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vologirov",
+                "idFTDNA": "277362",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"A\", please order BigY",
+                "NazwaLokalizacji": "Kabardino-Balkaria"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"A\", please order BigY",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krayı, Rusya"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.1733322,
+                    51.5469437
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gapov",
+                "idFTDNA": "313280",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"B\", please order BigY",
+                "NazwaLokalizacji": "Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.006916,
+                    43.23714
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dzhabrailov",
+                "idFTDNA": "679408",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"DB\", please order BigY",
+                "NazwaLokalizacji": "Tsotsin-Yurt, Chechen Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1080856,
+                    44.59841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Besleney",
+                "idFTDNA": "IN55862",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"EA\", please order BigY",
+                "NazwaLokalizacji": "Circassia, the Caucasus, Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.85,
+                    43.55
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Batsezhev",
+                "idFTDNA": "293388",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"EA\", please order BigY",
+                "NazwaLokalizacji": "Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tlisov",
+                "idFTDNA": "277013",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"EB\", please order BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia,  Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.05917,
+                    44.2273979
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tlisov",
+                "idFTDNA": "723232",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"EB\", please order BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Cherkessk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.866993,
+                    42.50914
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chukhua",
+                "idFTDNA": "311519",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"HA\", please order BigY",
+                "NazwaLokalizacji": "Georgia, Zugdidi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5825462,
+                    43.6717529
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kunash (Qunash)",
+                "idFTDNA": "533562",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"HB\", please order BigY [Check for new subcluster for Stas DYS570=20!]",
+                "NazwaLokalizacji": "Kabardino-Balkaria, Russia, 361535"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.0797119,
+                    44.7492828
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Özdemir",
+                "idFTDNA": "614082",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"HB\", please order BigY [Check for new subcluster for Stas DYS570=20!]",
+                "NazwaLokalizacji": "Xapsúgskaia, Krasnodar Krai, Rusya, 353326"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1080856,
+                    44.59841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Stas",
+                "idFTDNA": "IN63667",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"HB\", please order BigY [Check for new subcluster for Stas DYS570=20!]",
+                "NazwaLokalizacji": "Maykop, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.06668,
+                    44.88394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bachiy",
+                "idFTDNA": "IN61295",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"K\", need upgrade 67/111 for Bachiy, please order BigY",
+                "NazwaLokalizacji": "Shendzhiy, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.56285,
+                    43.3932457
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Deniz",
+                "idFTDNA": "E7891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-U1",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"K\", need upgrade 67/111 for Bachiy, please order BigY",
+                "NazwaLokalizacji": "Russian Federation, Республика Кабардино-Балкария"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.13936,
+                    43.47959
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tazhev",
+                "idFTDNA": "IN56838",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"L\", please order BigY [preliminary]",
+                "NazwaLokalizacji": "Terek, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7800446,
+                    44.4060364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kagov",
+                "idFTDNA": "277019",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"L\", please order BigY [preliminary]",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Novokuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chemso (shapsoug)",
+                "idFTDNA": "521398",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"M\", please order BigY",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krai, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7054939,
+                    43.5050163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Balkarov",
+                "idFTDNA": "IN18191",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"M\", please order BigY",
+                "NazwaLokalizacji": "Nartan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1080856,
+                    44.59841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chinazirov",
+                "idFTDNA": "722816",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"M\", please order BigY",
+                "NazwaLokalizacji": "Adamiy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.9047279,
+                    43.41515
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mavi",
+                "idFTDNA": "IN47759",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"P\", please order BigY",
+                "NazwaLokalizacji": "Kabarda-Argudan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.56285,
+                    43.3932457
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shogov",
+                "idFTDNA": "367526",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>?, cluster \"P\", please order BigY",
+                "NazwaLokalizacji": "Kabardia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.72249,
+                    43.6116
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Elgin",
+                "idFTDNA": "N97848",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FGC21495",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>FGC21495>? ~3600|4100 years, please order BigY",
+                "NazwaLokalizacji": "Soçi, Krasnodarskiy kray, Rusya"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.6764832,
+                    43.7991447
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Başdoğan",
+                "idFTDNA": "IN53917",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>FGC21495>S9409 ~3000|3600 years, need upgrade to BigY for Başdoğan",
+                "NazwaLokalizacji": "Solokhaul, Krasnodar Krai, Rusya, 354237"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.28639,
+                    43.214695
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bottaev",
+                "idFTDNA": "893743",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Y142068",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>FGC21495>S9409 ~3000|3600 years, need upgrade to BigY for Başdoğan",
+                "NazwaLokalizacji": "Безенги, Кабардино-Балкарская Респ., Россия, 361812"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.125946,
+                    43.8060837
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Siyukhov",
+                "idFTDNA": "607196",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-V7991",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>Z44222* Cluster AA ~3900|4100 years [V7991]",
+                "NazwaLokalizacji": "Хостинский р-н, Краснодарский край, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.88261,
+                    39.64837
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shawoshf",
+                "idFTDNA": "283598",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>Z44222~Y92354 ~2800|3900 years, please order BigY",
+                "NazwaLokalizacji": "Balıkesir, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.55,
+                    44.9166679
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Youssef",
+                "idFTDNA": "227913",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>Z44222~Y92354 ~2800|3900 years, please order BigY",
+                "NazwaLokalizacji": "Circassia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.457592,
+                    43.6727333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shomakhov",
+                "idFTDNA": "IN11373",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>L30>CTS574>CTS2488>P303>L140>>U1>L1266>Y12277>L1264>Z44222~Y92354 ~2800|3900 years, please order BigY",
+                "NazwaLokalizacji": "Kabarda-Islamey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.1080856,
+                    44.59841
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Andrukhaev",
+                "idFTDNA": "522317",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "G2a2 L1259>PF3147>PF3148>PF3177>FGC6669>FGC6663* need upgrade to BigY for Andrukhaev",
+                "NazwaLokalizacji": "Maykop, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.457592,
+                    43.6727333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kabardov",
+                "idFTDNA": "IN53254",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c L596>BY421(Y16419)~ Caucasus, Black Sea, need order BigY or I-L596 SNP pack",
+                "NazwaLokalizacji": "Islamey, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Adzinov",
+                "idFTDNA": "277032",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c L596>BY421(Y16419)>BY3335~BY3334 Caucasus",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kuzhev",
+                "idFTDNA": "277020",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M170",
+                "PozycjaPrzypisanaPrzezProjekt": "I2c L596>BY421(Y16419)>BY3335~BY3334 Caucasus",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5696678,
+                    43.5281563
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Amshokov",
+                "idFTDNA": "IN55945",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2a L620>PF4816>L136>P58>Z643>Z1865>Z1853>Z2331>Z2324>Z2317>Z2313>YSC0000234>Z1884>FGC11>? ~4500|4500 years need order SNP pack or BigY",
+                "NazwaLokalizacji": "Kabarda-Shalushka"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7641,
+                    44.042366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sidakov",
+                "idFTDNA": "IN61781",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2a L620>PF4816>L136>P58>Z643>Z1865>Z1853>Z2331>Z2324>Z2317>Z2313>YSC0000234>Z1884>Y2919(YSC0000076)~Y6094~Y6096~? ~4500|4500 years",
+                "NazwaLokalizacji": "Khabez, Karachay-Cherkessia, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.59109,
+                    43.56228
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bizhev",
+                "idFTDNA": "IN57392",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2a L620>PF4816>L136>P58>Z643>Z1865>Z1853>Z2331>Z2324>Z2317>Z2313>YSC0000234>Z1884>Y2919(YSC0000076)>? ~4500|4500 years, please order BigY",
+                "NazwaLokalizacji": "Chegem, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Darmilov",
+                "idFTDNA": "277027",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2a L620>PF4816>L136>P58>Z643>Z1865>Z1853>Z2331>Z2324>Z2317>Z2313>YSC0000234>Z1884>Y2919(YSC0000076)>? ~4500|4500 years, please order BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7054939,
+                    43.5050163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Urusov",
+                "idFTDNA": "522315",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2a L620>PF4816>L136>P58>Z643>Z1865>Z1853>Z2331>Z2324>Z2317>Z2313>YSC0000234>Z1884>Y2919(YSC0000076)>Y3441>FGC8216>? ~3800|4100 years, please order BigY",
+                "NazwaLokalizacji": "Nartan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.56756,
+                    43.1632652
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dasania",
+                "idFTDNA": "727127",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2b Z1828>Z1842>Y4423>CTS1460~CTS7188 East Caucasus ~5800|6100 years, need order BigY",
+                "NazwaLokalizacji": "Republic Abkhazia, Zvandrypsh-Gudauta"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.57074,
+                    42.4332237
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ramazanov",
+                "idFTDNA": "IN10393",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS3084",
+                "PozycjaPrzypisanaPrzezProjekt": "J1a2b Z1828>Z1842>ZS3114>ZS3084 ~ 4600|5800",
+                "NazwaLokalizacji": "Republic Dagestan,  Goor"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7054939,
+                    43.5050163
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kunizhev",
+                "idFTDNA": "IN58433",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a unclustered, upgared is urgent [Bekukh with DYS390=27!]",
+                "NazwaLokalizacji": "Nartan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.06668,
+                    44.88394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bekukh",
+                "idFTDNA": "IN60164",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a unclustered, upgared is urgent [Bekukh with DYS390=27!]",
+                "NazwaLokalizacji": "Shendzhiy, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.6391525,
+                    43.6476059
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bora",
+                "idFTDNA": "IN53907",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1a L26>PF5087>? please order more STR markers or BigY",
+                "NazwaLokalizacji": "Kishpek, Kabardino-Balkaria, Russia, 361502"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.6045151,
+                    43.49499
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kabardokov",
+                "idFTDNA": "IN54941",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1a L26>PF5087>PF5116>PF5119>L558>M67>Z1847>Z7671>CTS900>CTS6619>CTS6804>Y3612>Y3640~Y3620~Y7291~? please order BigY",
+                "NazwaLokalizacji": "Kabarda-Terek"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kochiev",
+                "idFTDNA": "277007",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1a L26>PF5087>PF5116>PF5119>L558>M67>Z1847>Z7671>V2639(S12459) ~3100|12300, please order more STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.53156,
+                    43.6571045
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kodzokov",
+                "idFTDNA": "487161",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z39973",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1a L26>PF5087>PF5160>L24>L25>Z438>Z387>Y17949>FGC35461>FGC34168>FGC35489>Z39975>Z39973 ~ 2200|3500 years",
+                "NazwaLokalizacji": "Дугулубгей, Кабардино-Балкарская Респ., Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.4897766,
+                    43.2144051
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benia",
+                "idFTDNA": "IN27126",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z35834",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b  Z6046>Y12603>Y12379(SK1321)>Y12378>Y27964>Y26651 Caucasus ~ 3400|9000 years",
+                "NazwaLokalizacji": "Republic Abkhazia, Barmysh-Gudauta"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.31992,
+                    44.8857
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akyuz",
+                "idFTDNA": "629170",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster A",
+                "NazwaLokalizacji": "Anapa, Krasnodar Krai, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.87764,
+                    44.2066231
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ozkan",
+                "idFTDNA": "636559",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster B",
+                "NazwaLokalizacji": "Psauchye-Dakhe, Karachaevo-Cherkesskaya Republits, Russia, 369413"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.82235,
+                    43.12381
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mikanba",
+                "idFTDNA": "768605",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster B",
+                "NazwaLokalizacji": "Abkhazia, Anukhva"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.93991,
+                    43.35394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Apequa",
+                "idFTDNA": "IN47711",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster C",
+                "NazwaLokalizacji": "Anzorey, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.67343,
+                    42.8555336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benia",
+                "idFTDNA": "IN27125",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster C",
+                "NazwaLokalizacji": "Republic Abkhazia, Tc'archa-Tkvarchel"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.94575,
+                    45.0547943
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mukov",
+                "idFTDNA": "IN61291",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, Cluster C",
+                "NazwaLokalizacji": "Ulyap, Adygea, Russia, 385326"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.2787743,
+                    43.69473
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Babgoev",
+                "idFTDNA": "IN55874",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, ungrouped need order Big-Y or SNP pack",
+                "NazwaLokalizacji": "Verkhniy Kurkuzhin, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhba",
+                "idFTDNA": "277028",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a1b Z6049>Y12603>Y12379(SK1321)>Y12378~ Caucasus, ungrouped need order Big-Y or SNP pack",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.8917656,
+                    45.0353851
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barcho",
+                "idFTDNA": "IN61041",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2 Z1825>M241>L283>Z600>Z585~ ~ 5300|5300 need order BigY or J2 SNP pack",
+                "NazwaLokalizacji": "Starobzhegokay, Adygea, Russia, 385112"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.8917656,
+                    45.0353851
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barcho",
+                "idFTDNA": "IN63118",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2 Z1825>M241>L283>Z600>Z585~ ~ 5300|5300 need order BigY or J2 SNP pack",
+                "NazwaLokalizacji": "Starobzhegokay, Adygea, Russia, 385112"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.8917656,
+                    45.0353851
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Barcho",
+                "idFTDNA": "IN45784",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b2 Z1825>M241>L283>Z600>Z585~ ~ 5300|5300 need order BigY or J2 SNP pack",
+                "NazwaLokalizacji": "Starobzhegokay, Adygea, Russia, 385112"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7800446,
+                    44.4060364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Michba",
+                "idFTDNA": "277014",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M173",
+                "PozycjaPrzypisanaPrzezProjekt": "R1 (a/b) please order more STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Novokuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7897034,
+                    44.4502945
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Makhov",
+                "idFTDNA": "277024",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a please order more STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Apsua"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0806465,
+                    44.1065178
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tuncel",
+                "idFTDNA": "584419",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP263",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z282>PF6155>M458>PF7521>Y2604>CTS11962>L1029>YP263* Germany(Schleswig-Holstein)/Sweden(Götaland) ~1800|2000 years",
+                "NazwaLokalizacji": "Tuapse, Krasnodar Krai, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.1111336,
+                    44.9873619
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Urusov",
+                "idFTDNA": "522316",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z282>PF6155>M458>PF7521>Y2604>L260>YP256>YP654~YP654a ~1000|2100 years Central European (West Slavic), please order BigY",
+                "NazwaLokalizacji": "Armavir, Krasnodar Krai, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7800446,
+                    44.4060364
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shenkao",
+                "idFTDNA": "277015",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z282>Z280>CTS1211>Y35>CTS3402~YP237~YP235~YP234~YP295~YP335 ~2000|2700 years Eastern European, Ural region, please order BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Novokuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.7622261,
+                    43.489
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Shabazgeriev",
+                "idFTDNA": "B119694",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y2915",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z282>Z280>CTS1211>Y35>CTS3402>Y33>CTS8816>Y2902>Y2910>Y2915* ~1900|1900 years Eastern European",
+                "NazwaLokalizacji": "Урвань"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.4567528,
+                    43.85663
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karmov",
+                "idFTDNA": "895266",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>? please order BigY",
+                "NazwaLokalizacji": "Куба, Кабардино-Балкарская Респ., Россия, 361512"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.06668,
+                    44.88394
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kaban",
+                "idFTDNA": "IN61574",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>? please order BigY",
+                "NazwaLokalizacji": "Shendzhiy, Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.72589,
+                    43.38463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Organokov",
+                "idFTDNA": "IN40752",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>BY30762>BY30764 ~1950|3900 years",
+                "NazwaLokalizacji": "Aushiger, Kabardino-Balkaria, Russia, 361820"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.8744659,
+                    43.7187958
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kasaev",
+                "idFTDNA": "367530",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>BY30762>BY30764 ~1950|3900 years",
+                "NazwaLokalizacji": "Altud, Kabardino-Balkaria, Russia, 361026"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.113102,
+                    43.5016136
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karamurzin",
+                "idFTDNA": "291808",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M512",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449~YP450 ~1400|1650 years, please order SNP YP450 or BigY",
+                "NazwaLokalizacji": "Карачаево-Черкесская Республика, Россия, 369236"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.72589,
+                    43.38463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Urusov",
+                "idFTDNA": "522321",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449~YP450 ~1400|1650 years, please order SNP YP450 or BigY",
+                "NazwaLokalizacji": "Aushiger, Kabardino-Balkaria, Russia, 361820"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.7426949,
+                    44.3007774
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dokshokov",
+                "idFTDNA": "IN55958",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449~YP450 ~1400|1650 years, please order SNP YP450 or BigY",
+                "NazwaLokalizacji": "Vako-Zhile, Karachay-Cherkessia, Russia, 369356"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.21155,
+                    43.70408
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tanashev",
+                "idFTDNA": "IN20034",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449>YP450 ~1400|1650 years",
+                "NazwaLokalizacji": "Кабардино-Балкарская Респ., Россия, 361215"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.3964233,
+                    43.6462059
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ivanov",
+                "idFTDNA": "728130",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M198",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449>YP450 ~1400|1650 years",
+                "NazwaLokalizacji": "Atazhukino, Kabardino-Balkaria, Russia, 361517"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.8528,
+                    43.46779
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sokhov",
+                "idFTDNA": "746127",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449>YP450 ~1400|1650 years",
+                "NazwaLokalizacji": "Старый Черек, Кабардино-Балкарская Респ., Россия, 361324"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.70481,
+                    44.9772377
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Berzeg",
+                "idFTDNA": "510582",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449>YP450>Y137329 ~500|1400 years, West Caucasus",
+                "NazwaLokalizacji": "Bzhedugkhabl', Adygea, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.18858,
+                    40.9567528
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kadkoy",
+                "idFTDNA": "239748",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "R1a Z93>Z94>Z2124>Z2125>Z2123>Y934>YP451>YP449>YP450>Y137329 ~500|1400 years, West Caucasus",
+                "NazwaLokalizacji": "Haledon, NJ 07508, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.6391525,
+                    43.6476059
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tkhaguzhokov",
+                "idFTDNA": "IN57146",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b L754>L389>P297>M269>L23>L51>L52>L151>? (WAMH:U106,P312) ~5000 years, please order BigY",
+                "NazwaLokalizacji": "Kishpek, Kabardino-Balkaria, Russia, 361502"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5967674,
+                    43.4769669
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khaupshev",
+                "idFTDNA": "MI16295",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b L754>L389>P297>M269>L23>L51>L52>L151>P312>U152~L2~FGC22501 DYS438=13 please order BigY",
+                "NazwaLokalizacji": "ул. просп. Ленина, Нальчик, Кабардино-Балкарская Респ., Россия, 360028"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.5419044,
+                    43.6855125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kardanov",
+                "idFTDNA": "IN57144",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b L754>L389>P297>M269>L23>Z2103~Z2106~ 5500|5500 BigY has been ordered; please order yfull.com after",
+                "NazwaLokalizacji": "Baksan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.76541,
+                    44.3325462
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Baterbiev",
+                "idFTDNA": "277040",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "R1b L754>L389>P297>M269>L23>Z2103>? ~5500|6100 years, please order more STR markers or BigY",
+                "NazwaLokalizacji": "Karachaevo-Cherkessia, Staro-Kuvinsk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.26855,
+                    40.7790031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Güveli- Güvelioğlu",
+                "idFTDNA": "IN35770",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z7944",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>F2575* ~3900|4300 years, Caucasus",
+                "NazwaLokalizacji": "Ulucami, Ulucami Mahallesi, 61940 Çaykara/Trabzon, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.2870979,
+                    43.04513
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Naifonov",
+                "idFTDNA": "203103",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>F2575>Z7941 ~1500|3900 years, Caucasus",
+                "NazwaLokalizacji": "Republic of North Ossetia-Alania, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.675827,
+                    42.82307
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kushtov",
+                "idFTDNA": "307395",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FGC719",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a1 Z6552>Z6553>Z6653>Z6679>Z6692>Z7958>Z7940>FGC719 ~750|4300 years, Caucasus",
+                "NazwaLokalizacji": "Republic Ingushetia, Dzheyrakh"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.0402355,
+                    47.4979134
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Lehoczky",
+                "idFTDNA": "773533",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 M406",
+                "NazwaLokalizacji": "Budapest, Magyarország"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.24332,
+                    38.9637451
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Çakmak",
+                "idFTDNA": "408225",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-P303",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303",
+                "NazwaLokalizacji": "Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.56495,
+                    54.16377
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tsukanov",
+                "idFTDNA": "349503",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Tula Oblast, Russia, Belev"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.1804848,
+                    40.9370041
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Danielyan",
+                "idFTDNA": "444668",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Khashtarak 4009, Armenia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.938478,
+                    51.09443
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Butler",
+                "idFTDNA": "21279",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-U1",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Selborne, Hampshire, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    35.217,
+                    50.95
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Zhuk",
+                "idFTDNA": "222806",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Belgorod province, Russia XVIII century"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.282,
+                    42.39
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Buzaladze",
+                "idFTDNA": "190732",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-PH311",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Khvashiti, Georgia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    54.8028946,
+                    55.4779778
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gusmanov",
+                "idFTDNA": "117713",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1266",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Gublukuchuk"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.27,
+                    39.66
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Baumgardner",
+                "idFTDNA": "124297",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Germany"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    60.20549,
+                    59.76385
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Semenov",
+                "idFTDNA": "124854",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1266",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "город Краснотурьинск, Свердловская область, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.2870979,
+                    43.04513
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akoev",
+                "idFTDNA": "243083",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "North Ossetia-Alania, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.1520424,
+                    43.425106
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khasanov",
+                "idFTDNA": "246812",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Хурзук, Карачаево-Черкесская Республика, Россия, 369234"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.501,
+                    42.7943
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khan Mamakaev",
+                "idFTDNA": "235493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z30715",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Мехельта, Республика Дагестан, Российская Федерация"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.45,
+                    56.2333336
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Surikov",
+                "idFTDNA": "274391",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L1264",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.4783325,
+                    43.0208321
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Batsazov",
+                "idFTDNA": "276877",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "North Ossetia, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.55,
+                    43.2
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khokhoev",
+                "idFTDNA": "276901",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "North Ossetia, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.63884,
+                    50.95991
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Verschaeren",
+                "idFTDNA": "290994",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-S9409",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Wespelaar, Belgium"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    43.91827,
+                    43.1915
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Byasov",
+                "idFTDNA": "278672",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "North Ossetia, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.9712868,
+                    49.4285049
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rzepecki",
+                "idFTDNA": "IN43521",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FT10943",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Skałat, Obwód tarnopolski, Ukraina"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7974625,
+                    51.3087463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Hein",
+                "idFTDNA": "E26191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-S9409",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Volga, Rusia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6814842,
+                    43.31688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tataev",
+                "idFTDNA": "MI20897",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Chechen Republic, Grozny"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1025543,
+                    43.35463
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kaimov",
+                "idFTDNA": "MI20936",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-FT10943",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Chechen Republic, Gudermes"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.12431,
+                    43.6753
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kaplanov",
+                "idFTDNA": "MI20945",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Chechen Republic, Znamenskoe"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.4833336,
+                    37.86667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bozkurt",
+                "idFTDNA": "N79614",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-M201",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: G2a2 P303 --> L140 --> U1 --> L1266/L1264",
+                "NazwaLokalizacji": "Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.22572,
+                    42.1398735
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Makaev",
+                "idFTDNA": "769874",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J1",
+                "NazwaLokalizacji": "Dagestan, Kaya"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.8802376,
+                    43.2926865
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Osmaev",
+                "idFTDNA": "703909",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M267",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J1",
+                "NazwaLokalizacji": "Chechen Republic, Argun"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.5571976,
+                    40.3562241
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bekmez",
+                "idFTDNA": "764464",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Ehrek"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.93893,
+                    42.8109245
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bekov",
+                "idFTDNA": "IN61829",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Targim, Ingushetia, Russia, 386435"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.2406,
+                    41.0131035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yıldız",
+                "idFTDNA": "257305",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-FGC35503",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Yeşilkent, 52300 Yeşilkent/Ünye/Ordu, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.8347,
+                    42.8825
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanov",
+                "idFTDNA": "230560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY77172",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Chechen Republic, Nuohoy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.7341537,
+                    43.6028061
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Saglav",
+                "idFTDNA": "460977",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z515",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Sochi, Krasnodar Krai, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.3972855,
+                    42.59115
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kuraev",
+                "idFTDNA": "514219",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY37884",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: J2",
+                "NazwaLokalizacji": "Ингердах, Респ. Дагестан, Ахвахский район, Россия,"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.641655,
+                    38.3077049
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Alhan",
+                "idFTDNA": "695626",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-FGC64132",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z283",
+                "NazwaLokalizacji": "Alhanuşağı, Malatya, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.30245,
+                    43.2900429
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Vitergaev",
+                "idFTDNA": "429402",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY72906",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93",
+                "NazwaLokalizacji": "Chechen Republic, Samashki"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    31.046,
+                    53.298
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Goncharov",
+                "idFTDNA": "875064",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30762",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>BY30762",
+                "NazwaLokalizacji": "Kazakovka, Belarus"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.3899059,
+                    51.6737938
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Joyce",
+                "idFTDNA": "359531",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30764",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>BY30762>BY30764",
+                "NazwaLokalizacji": "Ingatestone, UK"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    56.2328224,
+                    54.1101952
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Islamgulov",
+                "idFTDNA": "518729",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-BY30764",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>BY30762>BY30764",
+                "NazwaLokalizacji": "Верхние Леканды, Респ. Башкортостан, Россия, 453499"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.8307076,
+                    58.16621
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sozinov",
+                "idFTDNA": "297806",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP449",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>YP451>Y449",
+                "NazwaLokalizacji": "Якутино, Костромская область, Россия, 157523"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    75.99379,
+                    39.4676857
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ayoub",
+                "idFTDNA": "518725",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>YP451>YP449>YP450",
+                "NazwaLokalizacji": "Kashgar, East Turkestan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3858871,
+                    43.2254639
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Satuev",
+                "idFTDNA": "770510",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-YP450",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1a Z93 --> Z2123 --> Y934>YP451>YP449>YP450",
+                "NazwaLokalizacji": "Chechen Republic, Shaami-Yurt"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.0426331,
+                    39.5601044
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Karakhan",
+                "idFTDNA": "510757",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Y30217",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1b-M269",
+                "NazwaLokalizacji": "24400 Tan/Kemah/Erzincan, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.62661,
+                    38.99895
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Marksberry",
+                "idFTDNA": "348859",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-ZP147",
+                "PozycjaPrzypisanaPrzezProjekt": "Адыгэ DNA проектым иныбджэгъухэр: R1b-M269",
+                "NazwaLokalizacji": "Florence, KY, USA"
+            }
+        }
+    ]
+}

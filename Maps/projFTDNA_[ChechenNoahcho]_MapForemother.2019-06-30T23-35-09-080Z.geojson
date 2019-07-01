@@ -1,0 +1,1005 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    43.1783638,
+                    43.5953026
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chechenov",
+                "idFTDNA": "781174",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X2-G225A-G153A!",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Balkaria-Kendelen"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7187462,
+                    43.40233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Baysarov",
+                "idFTDNA": "K2109",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.69065,
+                    42.87065
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Nazhaev",
+                "idFTDNA": "781149",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic, Sattoy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7187462,
+                    43.40233
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Asuev",
+                "idFTDNA": "558583",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1b",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.19825,
+                    43.1619644
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Medov",
+                "idFTDNA": "450191",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic, Bamut"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.4812469,
+                    43.12147
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Ispaykhanov",
+                "idFTDNA": "480088",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1c1",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Бонай-Эвла"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.451725,
+                    43.2351646
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tashtamirov",
+                "idFTDNA": "355494",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Хамби-Ирзе, Чеченская Республика, Россия, 366606"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.55434,
+                    42.7922935
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sagalov",
+                "idFTDNA": "258006",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Гухой, Чеченская Республика, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.8068581,
+                    42.6297035
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bibulatov",
+                "idFTDNA": "297570",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic, Ts'esi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.17124,
+                    50.4492531
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Burnashev",
+                "idFTDNA": "265040",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I1a1c",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Щетиновка, Белгородская область, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.0637,
+                    42.7003
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanov",
+                "idFTDNA": "230560",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I2",
+                "PozycjaPrzypisanaPrzezProjekt": "1-I",
+                "NazwaLokalizacji": "Chechen Republic, Sadoy / H'amtci /"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1897736,
+                    43.110527
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khan Mamakaev",
+                "idFTDNA": "235493",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2d2a",
+                "PozycjaPrzypisanaPrzezProjekt": "2-U",
+                "NazwaLokalizacji": "Ялхой-Мохк, Чеченская Республика, Россия, 366320"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.9172,
+                    42.6743
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Majiev",
+                "idFTDNA": "298904",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U2",
+                "PozycjaPrzypisanaPrzezProjekt": "2-U",
+                "NazwaLokalizacji": "Kiri, Чеченская Республика, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1063881,
+                    43.05389
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kamiev",
+                "idFTDNA": "285156",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4b1a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "2-U",
+                "NazwaLokalizacji": "Гуни, Чеченская Републиц, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.7694435,
+                    42.9683342
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Doskhoev",
+                "idFTDNA": "307522",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3b1",
+                "PozycjaPrzypisanaPrzezProjekt": "2-U",
+                "NazwaLokalizacji": "Тарское, Республика Северная Осетия-Алания, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.675827,
+                    42.82307
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Aushev",
+                "idFTDNA": "271870",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3b1",
+                "PozycjaPrzypisanaPrzezProjekt": "2-U",
+                "NazwaLokalizacji": "Republic Ingushetia, Toarsh"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7896919,
+                    42.8255577
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Chimiev",
+                "idFTDNA": "333333",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2b",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic, Nuokhoy"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3569031,
+                    43.10019
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanova",
+                "idFTDNA": "429425",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic, Shalazhi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.30245,
+                    43.2900429
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Magamadov",
+                "idFTDNA": "429400",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H1",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Самашки, Чеченская Республика"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3569031,
+                    43.10019
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanova",
+                "idFTDNA": "429406",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic, Shalazhi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3569031,
+                    43.10019
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Arsanova",
+                "idFTDNA": "354553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic, Shalazhi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.1817932,
+                    42.9816132
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Taymaskhanov",
+                "idFTDNA": "448148",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H15a1b",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic,Tezkkhall"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6814842,
+                    43.31688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Aliev",
+                "idFTDNA": "700697",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H55",
+                "PozycjaPrzypisanaPrzezProjekt": "3-H",
+                "NazwaLokalizacji": "Chechen Republic, Grozny-Buh'an yurt"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.7756844,
+                    43.4467125
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khasiev",
+                "idFTDNA": "623690",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2h",
+                "PozycjaPrzypisanaPrzezProjekt": "4-T",
+                "NazwaLokalizacji": "Chechen Republic, Doykur Evla"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6814842,
+                    43.31688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khasaev",
+                "idFTDNA": "465780",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2h",
+                "PozycjaPrzypisanaPrzezProjekt": "4-T",
+                "NazwaLokalizacji": "Chechen Republic, Grozny"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6814842,
+                    43.31688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dishny",
+                "idFTDNA": "342384",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T1a",
+                "PozycjaPrzypisanaPrzezProjekt": "4-T",
+                "NazwaLokalizacji": "Chechen Republic, Grozny"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6631355,
+                    42.84306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Tchataev",
+                "idFTDNA": "299089",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2e",
+                "PozycjaPrzypisanaPrzezProjekt": "4-T",
+                "NazwaLokalizacji": "Нихалой, Чеченская Република, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.5411034,
+                    43.13084
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Itslaev",
+                "idFTDNA": "266961",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2",
+                "PozycjaPrzypisanaPrzezProjekt": "4-T",
+                "NazwaLokalizacji": "Урус-Мартан, Республика Чечения, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6814842,
+                    43.31688
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Khamidov",
+                "idFTDNA": "410084",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a18",
+                "PozycjaPrzypisanaPrzezProjekt": "5-K",
+                "NazwaLokalizacji": "Грозный, Чеченская Республика, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.80639,
+                    42.6291656
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kubiev",
+                "idFTDNA": "K2115",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1a4",
+                "PozycjaPrzypisanaPrzezProjekt": "5-K",
+                "NazwaLokalizacji": "Шарой, Чеченская Республика, Россия, 366413"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.54082,
+                    43.1311073
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Rasuev",
+                "idFTDNA": "B189017",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N9a3",
+                "PozycjaPrzypisanaPrzezProjekt": "6-N",
+                "NazwaLokalizacji": "Chechen Republic, Urus-Martan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.3,
+                    42.88333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Gitaev",
+                "idFTDNA": "781157",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "N",
+                "HaploGleboka": "N9a3",
+                "PozycjaPrzypisanaPrzezProjekt": "6-N",
+                "NazwaLokalizacji": "Chechen Republic, Galanchozh"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.6198845,
+                    43.1627274
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Dzhambulatov",
+                "idFTDNA": "IN47827",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "V",
+                "HaploGleboka": "V1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "7-V",
+                "NazwaLokalizacji": "Chechen Republic, Goyty"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.58933,
+                    43.4829445
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Yandiev",
+                "idFTDNA": "IN37915",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J1b1b1c",
+                "PozycjaPrzypisanaPrzezProjekt": "9a-J",
+                "NazwaLokalizacji": "Republic Ingushetia, Sagopshi"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.2396,
+                    43.0732
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Sultanov",
+                "idFTDNA": "172711",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D4j",
+                "PozycjaPrzypisanaPrzezProjekt": "9b-D",
+                "NazwaLokalizacji": "Шена (нежил.), Чеченская Республика, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.09498,
+                    42.14319
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Mentes",
+                "idFTDNA": "187238",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U1",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Karata- Archo, Avaria, Dagestan, Russian Federation"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    82.67586,
+                    51.79363
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akhmetov",
+                "idFTDNA": "201636",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U5b1b1a1a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Алтайский край, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    68.23469,
+                    43.3050842
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Abzhalelov",
+                "idFTDNA": "213692",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D4a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Türkistan, Kazakhstan"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    44.52275,
+                    48.709877
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Malyshev",
+                "idFTDNA": "239214",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U4a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Волгоград, Волгоградская область, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7510643,
+                    43.3084526
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bayraktar",
+                "idFTDNA": "248446",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "X",
+                "HaploGleboka": "X",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Verkhniy Baksan, Kabardino-Balkaria, Russia"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.2693939,
+                    38.78751
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Snyder",
+                "idFTDNA": "117830",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "HV",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Pleasant Hill, MO 64080, USA"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3676,
+                    40.3031
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Akgûn",
+                "idFTDNA": "163132",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R0a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Bayburt, Kurbanpınar, Türkiye"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.87641,
+                    40.98388
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kurnaz",
+                "idFTDNA": "261120",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "D",
+                "HaploGleboka": "D",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Ordu, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.8007278,
+                    51.35366
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Volkov",
+                "idFTDNA": "299529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "K",
+                "HaploGleboka": "K1b1a1-T199C",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Федосеевка, Белгородская область, Россия"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.68372,
+                    40.8314476
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Coban",
+                "idFTDNA": "B92235",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "U",
+                "HaploGleboka": "U3b2a1",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Oğulağaç/Maçka/Trabzon, Turkey"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2705536,
+                    43.2795143
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Benia",
+                "idFTDNA": "IN27126",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I4a",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Abkhazia, Gagra"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    46.06736,
+                    42.5664
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Magomedov",
+                "idFTDNA": "738401",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T2e",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Republic Dagestan, Chamalal-Gadiri"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    47.8711128,
+                    40.9188881
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Bashirov",
+                "idFTDNA": "359422",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J2a1a1",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Tuntul, Азербайджан"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.5674877,
+                    58.0238037
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Pahlen",
+                "idFTDNA": "478974",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "H",
+                "HaploGleboka": "H2a2a1d",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "520 43 Åsarp, Sverige"
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    49.8670921,
+                    40.40926
+                ],
+                "type": "Point"
+            },
+            "type": "Feature",
+            "properties": {
+                "name": "Kerimov",
+                "idFTDNA": "453862",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "M",
+                "HaploGleboka": "M",
+                "PozycjaPrzypisanaPrzezProjekt": "XX Other Ethnic Groups",
+                "NazwaLokalizacji": "Баку, Азербайджан"
+            }
+        }
+    ]
+}

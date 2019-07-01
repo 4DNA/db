@@ -1,0 +1,1345 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cisowski",
+                "idFTDNA": "305322",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Z63",
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Завадів, Яворівський район, Україна; pre 1945: Zawadów, Niemirów, Polska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3939,
+                    50.06
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernier",
+                "idFTDNA": "B21214",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Paris, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.352222,
+                    48.8566132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baloum",
+                "idFTDNA": "B512720",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "-",
+                "HaploGleboka": null,
+                "PozycjaPrzypisanaPrzezProjekt": null,
+                "NazwaLokalizacji": "Taibe, Israël"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0096741,
+                    32.26689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martínez",
+                "idFTDNA": "IN41363",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-MZ266",
+                "PozycjaPrzypisanaPrzezProjekt": "E (L19+)",
+                "NazwaLokalizacji": "Av. de la Encina, Córdoba, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9445796,
+                    37.85202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Horton",
+                "idFTDNA": "N24059",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Y81270",
+                "PozycjaPrzypisanaPrzezProjekt": "E (L19+)",
+                "NazwaLokalizacji": "Mowsley, Leicestershire LE17, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0528208,
+                    52.4925156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martínez",
+                "idFTDNA": "752077",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-MZ266",
+                "PozycjaPrzypisanaPrzezProjekt": "E (L19+)",
+                "NazwaLokalizacji": "Calle Juan Bautista Escudero, 14014, Córdoba, España"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.711662,
+                    37.907753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diprose",
+                "idFTDNA": "264193",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY15912",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V12+)",
+                "NazwaLokalizacji": "Biddenden, Kent, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.643338,
+                    51.1150665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabany",
+                "idFTDNA": "492356",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY28623",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5856>Z16663+",
+                "NazwaLokalizacji": "Bratislava, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.107748,
+                    48.1485977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levie",
+                "idFTDNA": "516551",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5856>Z16663+",
+                "NazwaLokalizacji": "Essex, ON, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.8189,
+                    42.1727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levie",
+                "idFTDNA": "516552",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5856>Z16663+",
+                "NazwaLokalizacji": "Essex, ON, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.8189,
+                    42.1727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Levie",
+                "idFTDNA": "516553",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-Z21371",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5856>Z16663+",
+                "NazwaLokalizacji": "Essex, ON, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.8189,
+                    42.1727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbera",
+                "idFTDNA": "548919",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY6527",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880+",
+                "NazwaLokalizacji": "98020 Mandanici ME, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3169413,
+                    38.0037537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yglesias",
+                "idFTDNA": "620299",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5171",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880+",
+                "NazwaLokalizacji": "36130 Cerdedo, Pontevedra, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390327,
+                    42.53276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polman",
+                "idFTDNA": "IN22248",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY7426",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880+",
+                "NazwaLokalizacji": "Doetinchem, Nederland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.29377365,
+                    51.9647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLLERT",
+                "idFTDNA": "868545",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5022",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880>S7461+",
+                "NazwaLokalizacji": "Bad Langensalza, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6445189,
+                    51.1093178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dixon",
+                "idFTDNA": "589582",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY35780",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880>S7461+",
+                "NazwaLokalizacji": "East Witton, Leyburn DL8, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.779624,
+                    54.2694626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabba",
+                "idFTDNA": "749846",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC44177",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880>S7461+",
+                "NazwaLokalizacji": "03037 Pontecorvo FR, Italy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6637678,
+                    41.454567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moquin",
+                "idFTDNA": "744727",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY34282",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >CTS5857>BY3880>Z5017>Z5016+",
+                "NazwaLokalizacji": "Angers, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.563166,
+                    47.47842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farrel*",
+                "idFTDNA": "716523",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5672",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >L241+",
+                "NazwaLokalizacji": "082 35 Hendrichovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006981,
+                    49.0214767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farrel* (Bio Dzivi)",
+                "idFTDNA": "442342",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5672",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >L241+",
+                "NazwaLokalizacji": "082 35 Hendrichovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006981,
+                    49.0214767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Farrel*",
+                "idFTDNA": "526095",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY5672",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >L241+",
+                "NazwaLokalizacji": "082 35 Hendrichovce, Slovakia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0006981,
+                    49.0214767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nyfeler",
+                "idFTDNA": "E12484",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY4197",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5017+",
+                "NazwaLokalizacji": "4955 Gondiswil, Schweiz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.872174,
+                    47.1457863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wood",
+                "idFTDNA": "88998",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY172399",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018+",
+                "NazwaLokalizacji": "Burwash,Sussex,England"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.39,
+                    51
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myers",
+                "idFTDNA": "B140891",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC11450",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979+",
+                "NazwaLokalizacji": "New Jersey, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.40566,
+                    40.0583229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Springston",
+                "idFTDNA": "IN37817",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-A10158",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979+",
+                "NazwaLokalizacji": "Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4515257,
+                    51.16569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matoshi",
+                "idFTDNA": "N197920",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC33621",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979+",
+                "NazwaLokalizacji": "Peja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2887363,
+                    42.6592865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aloy",
+                "idFTDNA": "IN49354",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY19731",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979>FGC11451+",
+                "NazwaLokalizacji": "Mallorca, Illes Balears, Espanya."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.01757121,
+                    39.6952629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aloy",
+                "idFTDNA": "E20943",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY19731",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979>FGC11451+",
+                "NazwaLokalizacji": "Sencelles, Majorca, Balearic Islands, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.887823,
+                    39.6554871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aloy",
+                "idFTDNA": "E25529",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY19731",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979>FGC11451+",
+                "NazwaLokalizacji": "Sencelles, Majorca, Balearic Islands, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.911765,
+                    39.6365356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aloy",
+                "idFTDNA": "653742",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-BY19731",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>S2979>FGC11451+",
+                "NazwaLokalizacji": "Palma Majorca, Majorca, Balearic Islands, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6797514,
+                    39.5965042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stone",
+                "idFTDNA": "277887",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-S2972",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13) >Z5018>Z16659>Y3183+",
+                "NazwaLokalizacji": "Bedford, Leigh, Co. Lancashire, England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5133667,
+                    53.49666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kemp",
+                "idFTDNA": "388166",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V13+) Need SNP testing for Subclade confirmation",
+                "NazwaLokalizacji": "Ramersdorf, Bonn, Deutschland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.098207,
+                    50.73743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miraldo",
+                "idFTDNA": "IN26920",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-M35",
+                "PozycjaPrzypisanaPrzezProjekt": "E (V22+) Need SNP testing for subclade confirmation",
+                "NazwaLokalizacji": "Paredes do Bairro, 3780, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.505105,
+                    40.45012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nicklous",
+                "idFTDNA": "542697",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-FGC61682",
+                "PozycjaPrzypisanaPrzezProjekt": "E (Z827+)",
+                "NazwaLokalizacji": "Philadelphia, PA, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.16522,
+                    39.9525833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elliott",
+                "idFTDNA": "721497",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "E",
+                "HaploGleboka": "E-PF2548",
+                "PozycjaPrzypisanaPrzezProjekt": "E (Z827+)",
+                "NazwaLokalizacji": "New Hampshire, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5723953,
+                    43.19385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blackburn",
+                "idFTDNA": "641885",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-L640",
+                "PozycjaPrzypisanaPrzezProjekt": "G M201",
+                "NazwaLokalizacji": "Antingham, Norfolk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.34063733,
+                    52.85051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spencer",
+                "idFTDNA": "550503",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "G",
+                "HaploGleboka": "G-Z44047",
+                "PozycjaPrzypisanaPrzezProjekt": "G M201",
+                "NazwaLokalizacji": "Pennsylvania, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.19453,
+                    41.2033234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goffin",
+                "idFTDNA": "B361080",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-CTS6364",
+                "PozycjaPrzypisanaPrzezProjekt": "i1 M253",
+                "NazwaLokalizacji": "6343 Klimmen, Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.88469,
+                    50.8716774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Workman",
+                "idFTDNA": "B449124",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M253",
+                "PozycjaPrzypisanaPrzezProjekt": "i1 M253",
+                "NazwaLokalizacji": "Clinton County, OH, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8473053,
+                    39.4067421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Breitbarth",
+                "idFTDNA": "B265480",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-M223",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Illinois, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.39853,
+                    40.6331253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Britton",
+                "idFTDNA": "B273103",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7280",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "25420 Voujeaucourt, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.764964,
+                    47.47464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anthony",
+                "idFTDNA": "561427",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33776",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Rhode Island, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.47743,
+                    41.5800934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emerson",
+                "idFTDNA": "545128",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY27818",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "England, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.17431974,
+                    52.35552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stewart (dec.)",
+                "idFTDNA": "145573",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y7263",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Tennessee, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5804443,
+                    35.51749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelley",
+                "idFTDNA": "148276",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-BY25870",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Galway, Co. Galway, Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.056667,
+                    53.2705574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anthony",
+                "idFTDNA": "18187",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-Y33776",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Rhode Island, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.47743,
+                    41.5800934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wishard",
+                "idFTDNA": "705522",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-L1198",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Thornhill, Stirling FK8 3PS, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.155508,
+                    56.1770477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saathoff",
+                "idFTDNA": "785728",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "I",
+                "HaploGleboka": "I-S8522",
+                "PozycjaPrzypisanaPrzezProjekt": "i2 P215",
+                "NazwaLokalizacji": "Quaker Hill Rd, Warren, PA 16365, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.13542,
+                    41.8673058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Day",
+                "idFTDNA": "792094",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-BY93",
+                "PozycjaPrzypisanaPrzezProjekt": "J1 M267",
+                "NazwaLokalizacji": "Old Radnor, Presteigne LD8 2RG, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.099451,
+                    52.2256279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graham",
+                "idFTDNA": "121789",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L1253",
+                "PozycjaPrzypisanaPrzezProjekt": "J1 M267",
+                "NazwaLokalizacji": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.692054,
+                    53.14237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muurinen",
+                "idFTDNA": "IN59348",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-ZS4307",
+                "PozycjaPrzypisanaPrzezProjekt": "J1 M267",
+                "NazwaLokalizacji": "Uusikirkko, Leningradin alue, Venäjä, 188824 (Ex-Finland)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.251524,
+                    60.32121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smith",
+                "idFTDNA": "MK27713",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "South Carolina, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.16373,
+                    33.8360825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tyrone-Taylor",
+                "idFTDNA": "N37321",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-L1064",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "Grimsby, North East Lincolnshire, England"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.080784,
+                    53.56747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parry",
+                "idFTDNA": "B203826",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "Holywell, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.225103,
+                    53.27601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ezekiel",
+                "idFTDNA": "903420",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M172",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "Williamstown, Monroe Township, NJ 08094, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.99517,
+                    39.6862259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daniels",
+                "idFTDNA": "87246",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-M410",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "CANTERBURY  KENT UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.08,
+                    51.28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chamness",
+                "idFTDNA": "207301",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z2177",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172",
+                "NazwaLokalizacji": "Wapping, Poplar, Greater London SE16, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05592,
+                    51.50439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lawrence",
+                "idFTDNA": "27868",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y38801",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172 M319",
+                "NazwaLokalizacji": "London SW1, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1431638,
+                    51.4976959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de Rijck",
+                "idFTDNA": "N71370",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z31469",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172 M319",
+                "NazwaLokalizacji": "Erembodegem, 9320 Alost, Belgique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05614758,
+                    50.91968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Advincula",
+                "idFTDNA": "N96398",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y60317",
+                "PozycjaPrzypisanaPrzezProjekt": "J2a M172 M319",
+                "NazwaLokalizacji": "Kalibo, Aklan, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.366669,
+                    11.7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velez",
+                "idFTDNA": "B36515",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y87605",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b M172 M102",
+                "NazwaLokalizacji": "Cariñena, Zaragoza, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2241497,
+                    41.3370819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G",
+                "idFTDNA": "245712",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z627",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b M172 M102",
+                "NazwaLokalizacji": "Medina-Sidonia, Cádiz, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.924607,
+                    36.45599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Young",
+                "idFTDNA": "573639",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Y87605",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b M172 M102",
+                "NazwaLokalizacji": "Wootton, Bedford MK43, UK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.527125,
+                    52.0978241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pereira",
+                "idFTDNA": "635082",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "J",
+                "HaploGleboka": "J-Z1297",
+                "PozycjaPrzypisanaPrzezProjekt": "J2b M172 M102",
+                "NazwaLokalizacji": "8005 Estói, Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.89487743,
+                    37.0942955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drotleff (GEDmatch HZ2466853 - YFull   T-Y10641)",
+                "idFTDNA": "E30249",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "T",
+                "HaploGleboka": "T-Z19969",
+                "PozycjaPrzypisanaPrzezProjekt": "T",
+                "NazwaLokalizacji": "Kerz 557070, Rumänien"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5656853,
+                    45.7906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giles",
+                "idFTDNA": "MI13115",
+                "antenat": null,
+                "czyHaploPotwierdzona": true,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-Z43",
+                "PozycjaPrzypisanaPrzezProjekt": "Z Other haplogroups",
+                "NazwaLokalizacji": "Lamphey, Pembrokeshire, Wales"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.871848,
+                    51.6684761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reynolds",
+                "idFTDNA": "808386",
+                "antenat": null,
+                "czyHaploPotwierdzona": false,
+                "HaploGlowna": "R",
+                "HaploGleboka": "R-M269",
+                "PozycjaPrzypisanaPrzezProjekt": "Z Other haplogroups",
+                "NazwaLokalizacji": "Virginia, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.65689,
+                    37.431572
+                ]
+            }
+        }
+    ]
+}
